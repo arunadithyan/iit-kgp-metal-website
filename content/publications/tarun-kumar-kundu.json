@@ -1,0 +1,1100 @@
+{
+ "faculty": "tarun-kumar-kundu",
+ "items": [
+  {
+   "title": "Impact of Al-Tl co-doping on the Optoelectronic Properties of ZnO thin film: Experimental and DFT Approach",
+   "authors": "Kumar A., Gorai D. K., Kumar B., Kundu T. K., Ahmad M.",
+   "venue": "Materials Chemistry and Physics",
+   "volume": "341",
+   "pages": "130908",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Comprehensive Study on Fatigue Strength Prediction of a Broad Range of Steels Using Machine Learning",
+   "authors": "Quraishy M.S., Kundu T.K.",
+   "venue": "Journal of Materials Engineering and Performance",
+   "volume": "34",
+   "pages": "30146-30160",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Unveiling the electronic, optical, and water-splitting properties of rare earth single-atom catalysts supported on graphitic carbon nitride monolayer: A DFT study",
+   "authors": "Sarkar R., Kundu T.K.",
+   "venue": "International Journal of Hydrogen Energy",
+   "volume": "95",
+   "pages": "449-462",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Data-Driven Study on Thermal Shock Resistance Prediction of Copper Alloys",
+   "authors": "Quraishy M.S., Kundu T.K.",
+   "venue": "Journal of Materials Engineering and Performance",
+   "volume": null,
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Interfacial Coupling of Gadolinium-2-methylimidazole Metal Organic Framework and 2D-g-C3N4 Nanosheet for Synergistically Enhanced Bifunctional Oxygen Electrocatalysis",
+   "authors": "Kuila S.K., Ghosh D., Chatterjee R., Pradhan D., Kundu T.K.",
+   "venue": "Energy and Fuels",
+   "volume": "38",
+   "pages": "3288-3302",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Defect Engineered 2D Graphitic Carbon Nitride for Photochemical, (Bio)Electrochemical, and Microplastic Remediation Advancements",
+   "authors": "Kuila S.K., Dhanda A., Samal B., Ghangrekar M.M., Dubey B.K., Kundu T.K.",
+   "venue": "ACS ES and T Water",
+   "volume": "4",
+   "pages": "4283-4298",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Exploring the influence of bis-phosphine ligands on lanthanide complexes: A DFT study",
+   "authors": "Pati A., Kundu T.K., Pal S.",
+   "venue": "Computational and Theoretical Chemistry",
+   "volume": "1235",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Chelating effect of alizarin-oxalate on La3+ and Nd3+ in acidic, basic and neutral medium: a DFT study",
+   "authors": "Pati A., Kundu T.K., Pal S.",
+   "venue": "Theoretical Chemistry Accounts",
+   "volume": "143",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Molecular dipole regulated surface potential and ferroelectric characteristics in nanoconfined P(VDF-TrFE) architectures",
+   "authors": "Mallick Z., Sarkar R., Kundu T.K., Mandal D.",
+   "venue": "Applied Surface Science",
+   "volume": "646",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "All-Electrospun, Water-Resistant, Breathable, Wearable, and Stable Metal Halide Perovskite Engineered Electroactive Polymer Textiles for Flexible Piezoelectric Nanogenerator",
+   "authors": "Mondal B., Sarkar R., Saini D., Gupta V., Kundu T. K., Mandal D.",
+   "venue": "Advanced Materials Technologies",
+   "volume": "8",
+   "pages": "2300614",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Insight into the effect of Li/P co-doping on the electronic structure and photocatalytic performance of g-C3N4 by the first principle",
+   "authors": "Gorai D.K., Kuila S.K., Kumar A., Ahmad M.I., Kundu T.K.",
+   "venue": "Applied Surface Science",
+   "volume": "623",
+   "pages": "1-15",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Strain induced variations in transport and optical properties of SrVO3: a DFT + U study",
+   "authors": "Biswas M., Misra D., Kundu T. K.",
+   "venue": "The European Physical Journal B",
+   "volume": "96",
+   "pages": "1-9",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Combined density functional theory and molecular dynamics analyses on Lithium/Sodium ion interaction and diffusion in gel polymer electrolytes with poly-vinylidene fluoride scaffold, propylene carbonate/Ionic Liquid solvent, and perchlorate salt",
+   "authors": "Sarkar R., Kundu T. K.",
+   "venue": "Materials Today Communications",
+   "volume": "37",
+   "pages": "1-13",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Lithium and phosphorus-functionalized graphitic carbon nitride monolayer for efficient hydrogen storage: A DFT study",
+   "authors": "Gorai D. K., Kundu T. K.",
+   "venue": "Journal of Molecular Graphics and Modelling",
+   "volume": "122",
+   "pages": "1-11",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A facile and green synthesis of Mn and P functionalized graphitic carbon nitride nanosheets for spintronics devices and enhanced photocatalytic performance under visible-light",
+   "authors": "Gorai D. K., Kuila S. K., Oraon A., Kumar A., Suthar M., Mitra R., Biswas K., Roy P., Ahmad M., Kundu T. K.",
+   "venue": "Journal of Colloid and Interface Science",
+   "volume": "644",
+   "pages": "397-414",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A green process for the synthesis of porous TiO 2 from ilmenite ore using molten salt alkali decomposition for photocatalytic applications",
+   "authors": "Saida S., Gorai D. K., Kundu T. K.",
+   "venue": "RSC Sustainability",
+   "volume": "1",
+   "pages": "592-598",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Piezo-phototronic effect in highly stable lead-free double perovskite Cs2SnI6-PVDF nanocomposite: Possibility for strain modulated optical sensor",
+   "authors": "Mallick Z., Saini D., Sarkar R., Kundu T.K., Mandal D.",
+   "venue": "Nano Energy",
+   "volume": "100",
+   "pages": "1-11",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Platinum-silicon doped graphitic carbon nitride: A first principle calculation",
+   "authors": "Gorai D. K., Kundu T. K.",
+   "venue": "Physica B: Condensed Matter",
+   "volume": "627",
+   "pages": "413547",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "NO adsorption on the Os, Ir, and Pt embedded tri-s-triazine based graphitic carbon nitride: A DFT study",
+   "authors": "Gorai D.K., Kundu T.K.",
+   "venue": "Applied Surface Science",
+   "volume": "590",
+   "pages": null,
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "PVDF/Ag2CO3 Nanocomposites for Efficient Dye Degradation and Flexible Piezoelectric Mechanical Energy Harvester",
+   "authors": "Mishra H. K., Sengupta D., Babu A., Pirzada B. M., Sarkar R., Naidu B. S., Kundu T. K., Mandal D.",
+   "venue": "Sustainable Energy & Fuels",
+   "volume": null,
+   "pages": "1625-1640",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Density functional theory-based analyses on selective gas separation by -PVDF-supported ionic liquid membranes",
+   "authors": "Sarkar R., Kundu T. K.",
+   "venue": "Journal of Molecular Graphics and Modelling",
+   "volume": "108",
+   "pages": "108004-108004",
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "First principle study of lithium and phosphorus co-doped graphitic carbon nitride as a nonlinear optical material",
+   "authors": "Gorai D. K., Kundu T. K.",
+   "venue": "Materials Today Communications",
+   "volume": "26",
+   "pages": "101911",
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Investigation of lanthanide complexation with acetohydroxamic acid in nitrate medium: experimental and DFT studies",
+   "authors": "Pati A., Bhattacharyya A., Pujari P. K., Pal S., Kundu T. K.",
+   "venue": "Journal of Chemical Sciences",
+   "volume": "133",
+   "pages": "1-15",
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The role of density reduction in lithiated amorphous silicon: Molecular dynamics and ab-initio studies",
+   "authors": "Dora J., Saraswat C., Gour A., Ghosh S., Yedla N., Kundu T. K.",
+   "venue": "Materials Today: Proceedings",
+   "volume": "44",
+   "pages": "3075-3078",
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Influence of Pt and P doping on the performance of g-C3N4 monolayer",
+   "authors": "Gorai D. K., Kundu T. K.",
+   "venue": "Materials and Manufacturing Processes",
+   "volume": "35",
+   "pages": "625-634",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Hydrogen bond interactions of hydrated aluminum nitrate with PVDF, PVDF TrFE, and PVDF HFP: A density functional theory based illustration",
+   "authors": "Sarkar R., Kundu T. K.",
+   "venue": "International Journal of Quantum Chemistry",
+   "volume": null,
+   "pages": "1-23",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "First Principle Study of Na and P Co-Doped Heptazine Based Monolayer g-C3N4",
+   "authors": "Kundu T. K., Gorai D. K.",
+   "venue": "Materials Science Forum",
+   "volume": "978",
+   "pages": "367-376",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Density functional theory based studies on the adsorption of rare-earth ions from hydrated nitrate salt solutions on g-C3N4 monolayer surface",
+   "authors": "Kundu T. K., Sarkar R., Kumari S.",
+   "venue": "Journal of Molecular Graphics and Modelling",
+   "volume": "97",
+   "pages": "1-17",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A facile and green synthesis approach to derive highly stable SiOx-hard carbon based nanocomposites for use as the anode in lithium-ion batteries",
+   "authors": "Kundu T. K., Adyam V., Dora J., Nayak D., Yedla N., Ghosh S.",
+   "venue": "Sustainable Energy & Fuels",
+   "volume": "4",
+   "pages": "6054-6065",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Quantum chemical calculation based investigation of synergistic chelating between multiple hydroxyamide ligands and La3+ ion",
+   "authors": "Pati A., Kundu T. K., Pal S.",
+   "venue": "Computational and Theoretical Chemistry",
+   "volume": "1170",
+   "pages": "1-12",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Nonbonding interaction analyses on PVDF/[BMIM][BF4] complex system in gas and solution phase",
+   "authors": "Sarkar R., Kundu T. K.",
+   "venue": "Journal of Molecular Modeling",
+   "volume": "25",
+   "pages": "1-27",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Development and application of mathematical models to simulate liquid phase accumulation, drainage and heat transfer in blast furnace hearth",
+   "authors": "Upadhyay H., Kundu T.K. Proceedings for the 8th International Conference on Modeling and Simulation of Metallurgical Processes in Steelmaking, STEELSIM 2019 88-98",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2019,
+   "type": "Conferences",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Density functional theory studies on PVDF/ionic liquid composite systems",
+   "authors": "Sarkar R., Kundu T. K.",
+   "venue": "Journal of Chemical Sciences",
+   "volume": "130",
+   "pages": "1-18",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Density Functional Theory Study of Structural and Electronic Properties of '-Ni3Al and \"-Ni3Nb",
+   "authors": "Gorai D. K., Kundu T. K.",
+   "venue": "IOP Conference Series: Materials Science and Engineering",
+   "volume": "338",
+   "pages": "1-6",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "DFT Studies on Interaction between Lanthanum and Hydroxyamide",
+   "authors": "Pati A., Kundu T. K.",
+   "venue": "IOP Conference Series: Materials Science and Engineering",
+   "volume": "338",
+   "pages": "1-6",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Adsorption Studies of Gadolinium ion on Graphitic Carbon Nitride",
+   "authors": "Kuila S. K., Kundu T. K.",
+   "venue": "IOP Conference Series: Materials Science and Engineering",
+   "volume": "338",
+   "pages": "1-6",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Correction to: Density functional theory studies on PVDF/ionic liquid composite systems (Journal of Chemical Sciences, (2018), 130, 8, (115), 10.1007/s12039-018-1522-4)",
+   "authors": "Sarkar R., Kundu T.K.",
+   "venue": "Journal of Chemical Sciences",
+   "volume": "130",
+   "pages": null,
+   "year": 2018,
+   "type": "Others",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A DFT+U study of the catalytic activity of lanthanum nickelate",
+   "authors": "Misra D., Kundu T. K.",
+   "venue": "The European Physical Journal B",
+   "volume": "90",
+   "pages": "1-8",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Strain-Controlled Transport Mechanism in Strongly Correlated LaNiO3",
+   "authors": "Kundu T. K., Misra D.",
+   "venue": "Journal of Electronic Materials",
+   "volume": "46",
+   "pages": "150-157",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A First-principle Study of The Optical Properties of Pure and Doped LaNiO3",
+   "authors": "Tarun Kumar Kundu, Debolina Misra Advanced Materials Letters 7(5) 344-348",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2016,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Cellular Automata Modeling of Decarburization of Metal Droplets in Basic Oxygen Steelmaking",
+   "authors": "Ankit, T. K.",
+   "venue": "Kundu IOP Conf. Series: Materials Science and Engineering",
+   "volume": "115(1)",
+   "pages": null,
+   "year": 2016,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of strain on the optical properties of LaNiO3: A first-principle study",
+   "authors": "D. Misra, T. K.",
+   "venue": "Kundu Computational Materials Science 112 (A)",
+   "volume": null,
+   "pages": "113-119",
+   "year": 2016,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Oxygen vacancy induced metal-insulator transition in LaNiO3",
+   "authors": "Debolina Misra, Tarun Kumar Kundu The European Physical Journal B 89: 4 -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2016,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Transport properties and metal insulator transition in oxygen deficient LaNiO3: a density functional theory study",
+   "authors": "Misra D., Kundu T. K.",
+   "venue": "Materials Research Express",
+   "volume": "3",
+   "pages": "095701",
+   "year": 2016,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of Strain on the Physical Properties of Lanthanum Nickelate",
+   "authors": "D. Misra, T. K. Kundu and Ankit TMS 2016: 145 Annual Meeting & Exhibition: Supplemental Proceedings, John Wiley & Sons, Inc., Hoboken, NJ, USA. -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2016,
+   "type": "Others",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Design of Methane Hydrate Inhibitor Molecule Using Density Functional Theory",
+   "authors": "S. Pal, T. K.",
+   "venue": "Kundu Journal of Cluster Science 26 :551-563",
+   "volume": null,
+   "pages": null,
+   "year": 2015,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Development of High Capacity Na0.7(Ni0.4Mn0.4Co0.1Fe0.1)O2 Cathode Material for Sodium Ion Batteries",
+   "authors": "Chandra Kant Kaithwas, T. K.",
+   "venue": "Kundu IOP Conf. Series: Materials Science and Engineering",
+   "volume": "75",
+   "pages": null,
+   "year": 2015,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Modeling of Dephosphorization using Bloated Droplet Theory in Basic Oxygen Steelmaking",
+   "authors": "Ankit, T. K.",
+   "venue": "Kundu IOP Conf. Series: Materials Science and Engineering",
+   "volume": "75",
+   "pages": null,
+   "year": 2015,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Theoretical study of methanol as inhibitor and cyclopentane as stabilizer of dodecahedron methane hydrate cage",
+   "authors": "S. Pal, T. K.",
+   "venue": "Kundu IOP Conference Series Materials Science and Engineering",
+   "volume": "73",
+   "pages": null,
+   "year": 2015,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Effect of Methanol on 5_12 Methane Hydrate Cage Cluster - A Molecular Dynamics Study",
+   "authors": "S. Pal, T. K.",
+   "venue": "Kundu Journal of Petroleum Engineering & Technology",
+   "volume": "4(2)",
+   "pages": null,
+   "year": 2014,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Hot metal temperature variation during blast furnace tapping",
+   "authors": "Hemant Upadhyay and T. K. Kundu Jindal Tech, 2 67-72",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Drain Rate and Liquid Level Simulation in Blast Furnace Hearth Using Plant Data",
+   "authors": "Hemant Upadhyay and T. K.",
+   "venue": "Kundu ISRN Metallurgy Article ID",
+   "volume": "960210",
+   "pages": null,
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Pentagonal dodecahedron methane hydrate cage and methanol system - an Ab initio study",
+   "authors": "Snehanshu Pal and T. K.",
+   "venue": "Kundu Journal of Chemical Sciences",
+   "volume": "125(2)",
+   "pages": null,
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Theoretical study of hydrogen bond formation in chitosan and pentagonal dodecahedron methane hydrate cage structure",
+   "authors": "Snehanshu Pal and T. K. Kundu Chemical Science Transaction, 2 (2) 447-454",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "CFD analysis to estimate refractory errosion/scab formation on blast furnace hearth wall",
+   "authors": "Hemant Upadhyay and T. K.",
+   "venue": "Kundu Jindal Tech",
+   "volume": "2",
+   "pages": "22-28",
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Natural Bond Orbital Analysis, Bond order and Frequency Calculation based study of hydrogen bond formation in different glycols and water complex",
+   "authors": "Snehanshu Pal and T. K.",
+   "venue": "Kundu Journal of Modern Chemistry and Chemical Technology",
+   "volume": "4(1)",
+   "pages": "1-20",
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Stability analysis and Frontier Orbital Study of Different Glycol and Water Complex",
+   "authors": "Snehanshu Pal and T. K.",
+   "venue": "Kundu ISRN Physical chemistry ID",
+   "volume": "753139",
+   "pages": "1-16",
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "DFT-based inhibitor and promoter selection criteria for pentagonal dodecahedron methane hydrate cage",
+   "authors": "SNEHANSHU PAL, T K KUNDU Journal of Chemical Sciences 125(5) 1259-1266",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Methane encapsulation in 51264 clathrate cage - a theoretical study",
+   "authors": "Snehanshu Pal and T. K.",
+   "venue": "Kundu Journal of Petroleum Engineering and Technology",
+   "volume": "2(3)",
+   "pages": "1-8",
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Theoretical Prediction of Maximum Number of Methane Molecule Accommodation in Unit Cages of S-I Clathrate Structure",
+   "authors": "Snehanshu Pal and T. K.",
+   "venue": "Kundu Journal of Petroleum Engineering and Technology",
+   "volume": "2(2)",
+   "pages": "40-46",
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Theoretical study of hydrogen bond formation in trimethylene glycol-water complex",
+   "authors": "Snehanshu Pal and T. K.",
+   "venue": "Kundu ISRN Physical chemistry ID",
+   "volume": "570394",
+   "pages": "1-12",
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Dodecahedron Methane Hydrate Cage Structure - An Ab initio Study",
+   "authors": "Snehanshu Pal and T. K.",
+   "venue": "Kundu Journal of Petroleum Engineering and Technology",
+   "volume": "2(1)",
+   "pages": "22-35",
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "CFD Modeling and Simulation in Materials Processing",
+   "authors": "T. K. Kundu, S.",
+   "venue": "Pal CFD Modeling of Fluid Flow Behavior and Bath Surface Deformation in LD Converter",
+   "volume": null,
+   "pages": "319-326",
+   "year": 2012,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Molecular Modeling for the Design of Novel Performance Chemicals and Materials",
+   "authors": "K Hanumantha Rao, T. K.",
+   "venue": "Kundu and S. C. Parker Molecular Modeling of Mineral Surface Reactions in Flotation",
+   "volume": null,
+   "pages": "65-105",
+   "year": 2012,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Atomistic simulation studies of magnetite surface structures and adsorption behavior in the presence of molecular and dissociated water and formic acid",
+   "authors": "Kundu, T. K., Rao, K. H. and Parker, S.",
+   "venue": "C Journal of Colloid and Interface Science",
+   "volume": "295(2)",
+   "pages": null,
+   "year": 2006,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Atomistic simulation on the adsorption of water, methanoic acid and methylamine on pure and hydroxylated quartz",
+   "authors": "K. Hanumantha Rao, Tarun kumar Kundu, Eric Forssberg Proceedings of the XXIII International Mineral Processing Congress : Istanbul, Turkey 1729-1735",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2006,
+   "type": "Others",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Competitive adsorption on wollastonite: an atomistic simulation approach",
+   "authors": "Kundu, T. K., Rao, K. H. and Parker, S. C Journal of Physical Chemistry Part B: Condensed Matter, Materials, Surfaces, Interfaces & Biophysica 109 (22) -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2005,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Molecular modelling of mineral surface structures and adsorption phenomena in flotation",
+   "authors": "Rao, K. H., Kundu, T. K., Parker, S. C. and Forssberg, E.",
+   "venue": "Centenary of Flotation Symposium Proceedings",
+   "volume": null,
+   "pages": null,
+   "year": 2005,
+   "type": "Others",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Atomistic simulation of the surface structure of wollastonite",
+   "authors": "Kundu, T. K, Rao, K. H. and Parker, S.C Chemical Physics Letters 377(1-2) -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2003,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Atomistic simulation of the surface structure of wollastonite and adsorption phenomena relevant to flotation",
+   "authors": "Kundu, T. K, Rao, K. H. and Parker, S.C International Journal of Mineral Processing 72(1-4) -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2003,
+   "type": "Journal",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Atomistic simulation studies of surface structure of hematite and magnetite crystals and adsorption behaviour of water",
+   "authors": "Kundu, T. K, Rao, K. H. and Parker, S.C International Seminar on Mineral Processing Technology 190-197",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2003,
+   "type": "Others",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Atomistic simulation techniques for designing mineral specific collector molecules in froth flotation",
+   "authors": "Kundu, T. K, Rao, K. H., Parker, S.C. and Forssberg, E.. International Seminar on Mineral Processing Technology 272-287",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2002,
+   "type": "Others",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Atomistic simulation techniques for modelling mineral surface reactions",
+   "authors": "Kundu, T. K., Rao, K. H. & Parker, S.",
+   "venue": "C Proceedings: Advances in the understanding of adsorption phenomena at solid/aqueous solution interface",
+   "volume": null,
+   "pages": "67-72",
+   "year": 2001,
+   "type": "Others",
+   "faculty": [
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

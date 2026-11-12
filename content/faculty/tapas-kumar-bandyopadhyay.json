@@ -1,0 +1,240 @@
+{
+  "name": "Tapas Kumar Bandyopadhyay",
+  "slug": "tapas-kumar-bandyopadhyay",
+  "designation": "Professor",
+  "isHead": false,
+  "email": "tapas@rgsoipl.iitkgp.ac.in",
+  "phone": "+91-3222-281730",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Microstructure-property correlation",
+    "Intellectual property management",
+    "Joining of Dissimilar Materials",
+    "Advanced High-strength Steels",
+    "Biomaterials"
+  ],
+  "areas": [
+    "physical-mechanical",
+    "ceramics-composites"
+  ],
+  "researchStatement": [
+    "He received his PhD from Indian Institute of Technology Kharagpur. He worked on Fe-based Metal Matrix Composite (MMC).  He developed Fe-TiC and Fe-ZrC Composite from cheap/waste raw materials like siliceous sand (red mud extract) and zircon sand. He patented the method for synthesis of Fe-TiC Composite in India. His current research is directed towards development and characterization of high temperature materials, and automobile materials. He has been also working on various inter-disciplinary areas like nanotechnology and patenting, intellectual property management and policy.  He has strong interest to work on socio-economic aspects such as Geographical Indication Registration and Promotion, and Educational Model for High School Students"
+  ],
+  "awards": [
+    "Best Poster Paper award: ICMME",
+    "Microsoft CLE",
+    "Second Prize: BTTD-2015"
+  ],
+  "currentProjects": [
+    {
+      "title": "Analysis of Defects in TMT Bars",
+      "role": "Principal Investigator",
+      "funder": "Orissa Alloy Steel Pvt. Limited"
+    },
+    {
+      "title": "Study on the effect of heat-treatment on microstructures and properties of SUP9 and SUP11A steels",
+      "role": "Co-Principal Investigator",
+      "funder": "Soni Auto & Allied Industries Ltd."
+    },
+    {
+      "title": "Synthesis and characterization of molybdenum disilicide heating element",
+      "role": "Co-Principal Investigator",
+      "funder": "Naskar and Company"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "ANALYZING EUROPEAN AND US PATENT CASES (AEPC)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "IP Enforcement in India: A Study for the Creation of an National/Centralized IP Court",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "An Innovative C-4 Model for High School Students",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Critical Scrutiny of the Open Source Contractual Models in Light of the Indian Intellectual Property Law and Contract Law with Special Reference to Internet of Things",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Design and Fabrication of Multimaterial --Multihead 3D Printer for Tissue Phantom development utilizing CT/MRI data",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Design Infringement Analysis for Aeronaut Fans Industry Pvt Ltd.",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Study on Weldability of Maraging Steel by Conventional and High Energy Density Welding",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "STUDY ON CORROSION BEHAVIOUR OF MILD STEEL PLATE USED IN COKE OVEN UNIT",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Registration of Geographical Indication in West Bengal and IP Yatra",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Building Awareness on Intellectual Property Rights for MSMEs - IP Faciliation Centre",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "IP Auditing and Assessment for MSME Start-Up and Others",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Improvement of the processing condition for the production of defect-free high strength Ductile iron pipe",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Assessment of Impact of Power Cycle Equipment and Component due to ingress of Saline Water",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Chemical composition analysis of supplied steel sample",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Compatibility Study of Materials with Regard to Various Chloride and Sulphate Concentration for the Sulphate Removal Plant",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Conducting Carbon Sequestration Study including carbon emissions from coal mining in Cluster-III, Govindpur Area, BCCL",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Court-Referred Mediation in the States of West Bengal and Jharkhand",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Bipolar Lead Acid Battery for Renewable Storage Application",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of conservation plan for plant resources of Nayagram and its adjacent areas in Jhargram for livelihood sustenance of the Lodha communities under the institutional mechanism of Biological Diversity Act, 2002",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Nano-structured CoNiCrAly Bond Coat by HVOF Spraying for Thermal Barrier Coating Application",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Establishment of Ultra-Short Pulsed Laser Processing Regime for Surface Treatment of Titanium based Implant for the Tailored Mechano-Chemical Property in Simulated Environment",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "FIST Program - 2012 [129]",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Functionally Graded Smart Thermal Barrier Coating by Combined Plasma based Hybrid Processing and Laser based 3-D Printing on HS188 Superalloy (IMPRINT-2/INDUSTRY PART)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Functionally Graded Smart Thermal Barrier Coating by Combined Plasma based Hybrid Processing and Laser based 3-D Printing on HS188 Superalloy (IMPRINT-2/SERB PART)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Governing framework of future of cities - an evaluation",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "KIRAN-IPR Women Scientist Scheme (WOS-C)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "MS CENTRE OF EXCELLENCE IN IP RESEARCH AND TECHNOLOGY POLICY AT IIT KHARAGPUR (MICROSOFT SCHOLARS PROGRAM)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "REGISTRATION OF GEOGRAPHICAL INDICATION OF TEXTILES ITEMS IN ORISSA",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Root cause analysis for corrosion in LPG mounded storages",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Scientific Study on Carbon sequestration analysis due to increased amount of carbon in respect of deforestation and suggest afforestation plan to achiever net zero carbon in Kendudihi North Iron ore block of M/s Rugta Ltd.",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Setting Up High-End Testing Facilities of Materials for Biomaterials, Aerospace and Automotive Applications (SGDRI-2015)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Strain Partitioning and Damage Mechanism during Thermomechanical Fatigue in a Ni-based CM247LC Superalloy",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Studies on Wear and Corrosion Mechanisms of Mg-based Compositionally Complex Alloys (CCAs) and its Tailoring through Laser Surface Engineering",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Study of implementation of features in the Indian Patent Office Search Platform, IPATS",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Thermo-Chemical Treatment on Porous Titanium and its Tribo-Corrosion Property Evaluation for Orthopedic Application",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "WISE Internship in IPR",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "WISE-Kiran 2021 Women Scientist Scheme",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/tapas-kumar-bandyopadhyay.webp",
+  "researchImage": "/images/research/group-tapas-kumar-bandyopadhyay.webp",
+  "website": null,
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-tapas",
+  "source": "IIT Kharagpur institute faculty profile"
+}

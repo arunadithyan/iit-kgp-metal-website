@@ -1,0 +1,257 @@
+{
+  "name": "Rahul Mitra",
+  "slug": "rahul-mitra",
+  "designation": "Professor",
+  "isHead": false,
+  "email": "rahul@metal.iitkgp.ac.in",
+  "phone": "+91-3222-283292",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Advanced Alloys & Superalloys",
+    "Mechanical metallurgy",
+    "Thin film growth and epitaxy",
+    "Corrosion & environmental degradation",
+    "Advanced Materials Processing"
+  ],
+  "areas": [
+    "physical-mechanical",
+    "extractive-process",
+    "functional-devices"
+  ],
+  "researchStatement": [
+    "Structure-property relations in Molybdenum and Niobium Silicide Based Alloys and Composites for high temperature applications",
+    "Near-net shape processing and structure-property relations in Zirconium Diboride and Hafnium Diboride Ultra-high Temperature Ceramic Composites with emphasis on thermophysical properties, creep and oxidation",
+    "Structure-property relations of C-fibre-SiC composites developed for aero-engine applications",
+    "Structure and properties of mushy state rolled Al alloy based composites",
+    "Processing and characterization of DC/RF magnetron sputtered or electrodeposited nanocomposite thin films"
+  ],
+  "awards": [
+    "Fellow of Indian National Science Academy (FNA)",
+    "Faculty Excellence Award",
+    "G.D. Birla Gold Medal 2021",
+    "Fellow of the National Academy of Sciences (FNASc)",
+    "Elected Fellow of INAE, 2016"
+  ],
+  "currentProjects": [
+    {
+      "title": "Developing a novel rare-earth modified AlSi10Mg alloy via laser additive manufacturing for high-temperature automobile and aerospace applications",
+      "role": "Co-Principal Investigator",
+      "funder": "Various internal users of the Institute"
+    },
+    {
+      "title": "Material Synthesis in SPS Lab",
+      "role": "Co-Principal Investigator",
+      "funder": "Various Government and Non-Government Organisations"
+    },
+    {
+      "title": "Structural characterization by Field Emission gun Scanning Electron Microscopy",
+      "role": "Co-Principal Investigator",
+      "funder": "Department of Metallurgical and Materials Engineering"
+    },
+    {
+      "title": "Structural Characterization by Field Emission gun Scanning Electron Microscopy (for internal users)",
+      "role": "Co-Principal Investigator",
+      "funder": "Department of Metallurgical and Materials Engineering"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "EFFECT OF CYCLIC OXIDATION AND RESIDUAL STRESSES ON OXIDATION KINETICS AND MOLYBDENUM SILICIDE BASED ALLOYS AND COMPOSITES",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "EFFECT OF RARE EARTH ELEMENTS ON ISOTHERMAL AND CYCLIC OXIDATION BEHAVIOUR OF NIOBIUM & MOLYBDENUM SILICIDE BASED ALLOYS",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "STRUCTURE PROPERTY RELATIONS IN CERAMIC COMPOSITES FOR HIGH TEMPERATURE APPLICATIONS IN NOSE CONE TILES IN HYPERSONIC VEHICLES",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "TESTING OF TUNGSTEN CARBIDE TIPS",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Project Advisory Committee (PAC MEETING-2013)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Arun Sarin Electronics materials la (ASEM)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Microstructural evaluation and structure property correlations for Nickel, Titanium and Iron based alloy systems",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Investigation of defects and phase transformations in alloy systems for high temperature applications",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Investigation of Defects and Phase Transformations in Alloy Systems for High Temperature Applications",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Comparative study of the isothermal/cyclic oxidation behavior of molybdenum sillicide based alloys and composites in wet and dry air and effect of prior oxidation on their creep strengths",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "ARUN SARIN ELECTRONIC MATERIALS LABORATORY (ASEM)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Study of microstructure - property relations in Nickel, Titanium and Iron based alloys",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Evaluation of Creep Crack Growth (CCG) Behaviour for IN625 Cast Material",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Evaluation of Creep Crack Growth (CCG) Behaviour of SS 304HCu Weld Material",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Remnant Life Assessment of Creep - Resistant Steels Using Accelerated Creep Test",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Research Services for Studying and Analysing the Phenomenon of Segregation in T-72/T-90 PYT Barrels",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Investigation of Plasma Treated 316L Stainless Steel Samples for Biomedical Applications",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Structure - Property Relations of C-SiC Composites Prepared by Chemical Vapor Infiltration (GTMAP)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "EXAMINATION OF STAINLESS STEEL COLD ROLLED SAMPLES",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of High Performance Materials for Various Defence Related Applications",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Evaluation of Interleaving and Matrix Modification Techniques on Interlaminar Fracture Toughness and Fatigue Behaviour of Carbon Fiber/epoxy Composites",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Performance enhancement of load bearing biodegradable implants by surface engineering",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Study of crack growth mechanism of nickel base super alloy GTM Su 718 under constant load at elevated temperature",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "ANRF foreign travel reimbursement scheme",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "ADVANCED CONTROL AND FAILURE PROGNOSIS AND DIAGNOSIS OF INDUSTRIAL PROCESSES USING DATA FUSION",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Alloy Segregation in Baron added 9Cr-1Mo Steel Under Different Thermal and Thermo-mechanical Condition",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Comparative study between V and Nb micro alloyed steels from Tata Steel in terms of precipitation strengthening",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "DEVELOPMENT OF NIOBIUM SILICIDE BASED ALLOYS AND COMPOSITES FOR ELEVATED TEMPERATURE APPLICATIONS",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Evaluation of Fracture and Fatigue Crack Growth (FCG) for IN625 Cast Material",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Evaluation of Fracture and Fatique Crack Growth (FCG) Behaviour of SS304HCu Weld Material",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "LIFE ESTIMATION AND MICROSTRUCTURAL DAMAGE OF IRRADIATED AND UN-IRRADIATED CU-CR-ZR ALLOY",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Microstructure Engineering to Enhance Resistance Against Creep & High Temperature Hot Corrosion in a Ni-Based Superalloy",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Modelling of Oxidation and Exfoliation of Oxide in Grade T91 Steel",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Process induced microstructural variation towards improved ductile brittle transition temperature of 9cr-Mo steel",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "SWIFT HEAVY ION INDUCED PHASE SEPARATION AND NANOSTRUCTURE FORMATION",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "SYNTHESIS AND CHARACTERIZATION OF NANOSTRUCTURED MATERIALS FOR FUNCTIONAL AND STRUCTURAL APPLICATIONS",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "T1/T1B2 B1-LAYERED AND MULTILAYERED COATING ON STEEL SUBSTATE BY PULSED LAYER DEPOSITIONS (PLD) TECHNIQUE TO IMPROVE TRIBOLOGICAL PROPERTIES (HIGH WEAR/ABRASION RESISTANCE LOW FRICTIN COEFFICIENT) AND CUTTING EFFECIANCY",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Understanding Precipitation Behaviour and Micro-structural Evolution at Different Stages of Processing of CRGO Steel",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/rahul-mitra.webp",
+  "researchImage": "/images/research/group-rahul-mitra.webp",
+  "website": "https://sites.google.com/view/rahulmitra-iitkgp/home",
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-rahul",
+  "source": "IIT Kharagpur institute faculty profile"
+}

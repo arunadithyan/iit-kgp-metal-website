@@ -1,0 +1,2604 @@
+{
+ "faculty": "karabi-das",
+ "items": [
+  {
+   "title": "Exploring the potential of Ni2V2O7 nanorods anchored on electrophoretically deposited porous carbon black for high-performance lithium-ion battery anodes",
+   "authors": "Anand R., Sau A., Das K., Das S.",
+   "venue": "Applied Surface Science",
+   "volume": "718",
+   "pages": "164984",
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Theoretical and experimental study of electroplated - Ni Zn coatings from a non-aqueous electrolyte: effect of additives on the coating's microstructure, texture characteristics and mechanical properties",
+   "authors": "Guerrero J. M., Sethi S., Kundu T. K., Das S., Das K.",
+   "venue": "Surface and Coatings Technology",
+   "volume": "522",
+   "pages": "133144",
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das",
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Development of Transparent Polyurethane-based Tin Oxide Nanocomposite Coatings with Dual Functionalities: Enhanced Hydrophobicity and Photocatalytic Activity for Self-Cleaning and Anti-wetting Applications",
+   "authors": "Kumar P., Mandal S., Satpathy B., Das K., Sen R., Das S.",
+   "venue": "Journal of Materials Science: Materials in Electronics",
+   "volume": "37",
+   "pages": null,
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Unravelling the Electrochemical Kinetic and Thermodynamic Parameters of Ni2V2O7 anode material using Cyclic Voltammetry, Galvanostatic Intermittent Titration Technique, and Electrochemical Impedance Spectroscopy techniques for Lithium-ion Batteries",
+   "authors": "Anand R., Sau A., Das K., Das S.",
+   "venue": "Journal of Power Sources",
+   "volume": "678",
+   "pages": "240104",
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of CTAB and SDBS surface active additives on the microstructural, tribological, and corrosion performance of Zn-Co alloy coatings developed from a DES",
+   "authors": "Kumari A., Prasad P. S., Satpathy B., Das S., Das K.",
+   "venue": "Surfaces and Interfaces",
+   "volume": "91",
+   "pages": "109254",
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Surfactant assisted hydrothermal synthesis and comprehensive characterization of tin oxide nanoparticles: influence of surfactants on morphology, surface area, wettability, and optical properties for advanced functional applications",
+   "authors": "Kumar P., Mandal S., Das K., Sen R., Das S.",
+   "venue": "Journal of Materials Science",
+   "volume": "61",
+   "pages": "5877-5896",
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Tailor made lithium nickel manganese oxide with appropriate composition, structure and morphology: Optimizing synthesis condition and electrolyte composition for enhanced performance",
+   "authors": "Sau A., Anand R., Das K., Das S.",
+   "venue": "Journal of Power Sources",
+   "volume": "667",
+   "pages": "239289",
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Comparative evaluation of the characteristics of calcium phosphate coating s properties synthesized using chemical & biosurfactant-aided pulsed current electrodeposition.",
+   "authors": "Prasad P. S., Hazra C., Byram P. K., Sethi S. S., Chakravorty N., Sen R., Das S., Das K.",
+   "venue": "Surfaces and Interfaces",
+   "volume": "56",
+   "pages": "1-20",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Comparative Insights of Bio and Chemical Surfactants in CuO Nanoparticle Synthesis: Unveiling the Superior Antibacterial Efficacy of biosurfactants.",
+   "authors": "Mandal S., Hazra C., Joshi N., Kumar P., Sen R., Das S., Das K.",
+   "venue": "Journal of Industrial and Engineering Chemistry",
+   "volume": "147",
+   "pages": "566-583",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Thermal and structural studies of black anodic coating on additively manufactured Al 10Si Mg alloy for effective spacecraft thermal control applications",
+   "authors": "Ghosh R., Dhar A., Dey A., Thota H. K., Yenni G. R., Kumar D. R., Das K.",
+   "venue": "The European Physical Journal Special Topics",
+   "volume": null,
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Influence of the peak current density on the structural, tribological, and electrochemical performance of Zn-Co alloy coatings electrodeposited from a Choline Chloride-Ethylene glycol-based deep eutectic solvent",
+   "authors": "Kumari A., Satpathy B., Prasad P. S., Guerrero J. M., Das S., Das K.",
+   "venue": "Surfaces and Interfaces",
+   "volume": "64",
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Evaluating antimicrobial activity: Biogenic vs. Chemically Functionalized Zinc Oxide Nanoparticles.",
+   "authors": "Mandal S., Hazra C., Joshi N., Sen R., Das S., Das K.",
+   "venue": "Materials Letters",
+   "volume": "392",
+   "pages": "1-4",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Study of thermodynamic and kinetic behaviours of tin anode and its variation with state of charge, state of health and operating current rates of the battery",
+   "authors": "Sau A., Das K., Das S.",
+   "venue": "Journal of Electroanalytical Chemistry",
+   "volume": "981",
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Phase transformation kinetics of the formation of lithiated phase over charge-discharge cycling in tin anode for the lithium ion battery: A quantitative deep dive",
+   "authors": "Sau A., Das K., Das S.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "1025",
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Electrochemical performance of Ni2Zn11 coatings synthesized from non aqueous bath",
+   "authors": "Guerrero J. M., Prasad P. S., Kumari A., Satpathy B., Das S., Das K.",
+   "venue": "Journal of Materials Science",
+   "volume": "60",
+   "pages": "23656-23681",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Multi-scale Mechanical Characterization of Aluminum Matrix Hybrid Composites: Correlating Nano and Micro-indentation Responses",
+   "authors": "Sethi J., Das S., Das K.",
+   "venue": "Journal of Materials Engineering and Performance",
+   "volume": "35",
+   "pages": "6820-6837",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Electrophoretic deposition of ethylcellulose- nano zinc oxide loaded bioactive glass- polymeric composite coatings on stainless steel for antibacterial and bone regeneration applications",
+   "authors": "Hadem H., Ojha A. K., Mukherjee S., Prasad P. S., Biswas A., Dhara S., Das S., Das K.",
+   "venue": "Colloids and Surfaces A: Physicochemical and Engineering",
+   "volume": "725",
+   "pages": "137544",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Layered intercalated architecture of Ni2V2O7 nanoparticle and N-doped reduced graphene oxide composite sheet as an electrode material for solid-state asymmetric supercapacitor",
+   "authors": "Anand R., Sau A., Das K., Das S.",
+   "venue": "Journal of Power Sources",
+   "volume": "642",
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Application of Electrochemical Impedance Spectroscopy in Sn Anode and Lithium Nickel Manganese Oxide Cathode: Understanding the State of Charge and Health of Lithium Ion Battery as a Function of Temperature",
+   "authors": "Sau A., Anand R., Das K., Das S.",
+   "venue": "Energy Technology",
+   "volume": "13",
+   "pages": "2500174",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Unsupervised Machine Learning Prediction of a Novel 1:3 Intermetallic Phase with the Synthesis of TbIr3 (PuNi3-type) as Experimental Validation",
+   "authors": "Sethi S., Dutta A., Jaffal E. I., Yadav N., Shiryaev D., Hoang B., Machathi A., Lee S., Das K., Jana P. P., Oliynyk A.",
+   "venue": "Journal of the American Chemical Society",
+   "volume": "147",
+   "pages": "14739-14755",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A comparative evaluation of green surfactant-assisted calcium phosphate coatings developed through electro-deposition & biomimetic routes.",
+   "authors": "Prasad P. S., Byram P. K., Hadem H., Hazra C., Sen R., Das S., Das K.",
+   "venue": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+   "volume": "707",
+   "pages": "1-14",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Unveiling the unique site preference of Ga in the defect wurtzite type In2Se3 Ga2Se3 system: an experimental and computational study",
+   "authors": "Sethi S., Lakshan A., Roy A., Das S., Das K., Jana P. P.",
+   "venue": "Dalton Transactions",
+   "volume": null,
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Development and performance evaluation of chitosan hydrogel based ZnO/CuO antibacterial and antialgal nanocoating for the control of biofouling in cultural heritage stones",
+   "authors": "Mandal S., Hazra C., Joshi N., Kumar P., Sen R., Das S., Das K.",
+   "venue": "Construction and Building of Materials",
+   "volume": "489",
+   "pages": "142236",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "CTAB-facilitated ex-situ synthesis of chitosan-based ZnO, CuO, and ZnO/CuO nanocomposites for improved optical emission",
+   "authors": "Mandal S., Basak S., Kumar P., Satpathy B., Das S., Das K.",
+   "venue": "Optical Materials",
+   "volume": "155",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Pseudo lamellae of Cu6Sn5 on the crystal facet of Sn in electrodeposited eutectic Sn-Cu lead-free solder",
+   "authors": "Mallik M., Das K., Ghosh R.N., Das S.",
+   "venue": "Materials Today Communications",
+   "volume": "38",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Biosurfactant-Assisted Cu Doping of Brushite Coatings: Enhancing Structural, Electrochemical, and Biofunctional Properties",
+   "authors": "Siva Prasad P., Byram P.K., Hazra C., Chakravorty N., Sen R., Das S., Das K.",
+   "venue": "ACS Applied Materials and Interfaces",
+   "volume": "16",
+   "pages": "10601-10622",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of Cetyl Trimethyl ammonium bromide (CTAB) amount on the Nanoindentation creep behaviour of Sn-cu-Y2O3 nanocomposite Lead-free solder",
+   "authors": "Mallik M., Ghosh R. N., Das S., Das K.",
+   "venue": "Materials Characterization",
+   "volume": "212",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A comparison of chemical and biogenic surfactant mediated synthesis of ZnO/CuO: Highlighting the antimicrobial activity of the bio-functionalized metal oxide nanoparticles",
+   "authors": "Mandal S., Hazra C., Joshi N., Jain N., Kumar P., Sen R., Das S., Das K.",
+   "venue": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+   "volume": "690",
+   "pages": "133780",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Mixed alkali effect on the mechanical, thermal and biological properties of 58S bioactive glass",
+   "authors": "Hadem H., Ojha A. K., Mitra A., Rajasekaran R., Dhara S., Das S., Das K.",
+   "venue": "Ceramics International",
+   "volume": "15",
+   "pages": "31925-31936",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Optimizing the quality of bioactive glass-polymer coatings through analysis of the effect of dispersing agents on zeta potential and suspension conductivity",
+   "authors": "Hadem H., Satpathy B., Mitra A., Das S., Das K.",
+   "venue": "Materials Letters",
+   "volume": "354",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Multifaceted insights into Au coatings electrodeposited from a ChCl-EG based Deep Eutectic Solvent (DES): Unravelling the effect of surfactant polarity and current density on the morphology, mechanical properties, and anti-tarnishing efficacy",
+   "authors": "Satpathy B., Sau A., Guerrere J. M., Das S., Das K.",
+   "venue": "Surfaces and Interfaces",
+   "volume": "49",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Artificial Neural Network-based approach for prediction of nanomechanical properties of anodic coating on additively manufactured Al-10Si-Mg alloy",
+   "authors": "Ghosh R., Sahu B., Dey A., Thota H., Das K.",
+   "venue": "Modelling and Simulation in Materials Science and Engineering",
+   "volume": "32",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Study on local strain distribution and grain boundary characteristics of tensile-deformed TRIP-assisted medium manganese steel",
+   "authors": "Mohapatra S., Mandal A., Das S., Das K.",
+   "venue": "Materials Science and Engineering: A",
+   "volume": "894",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Study on strain distribution and texture evolution of Fe-0.18C-4Al-7Mn steel under different strain rate conditions",
+   "authors": "Mohapatra S., Das K., Das S.",
+   "venue": "Materials Letters",
+   "volume": "354",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Feasibility Insights of the Green-Assisted Calcium-Phosphate Coating on Biodegradable Zinc-Alloys for Biomedical Application: In Vitro and In Vivo Studies",
+   "authors": "Palai D., Dey A., Prasad P. S., Roy T., Mukherjee S., Dhara S., Das S., Das K.",
+   "venue": "ACS Applied Materials and Interfaces",
+   "volume": "16",
+   "pages": "24274-24294",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Electrochemical characteristics of electrophoretically deposited nickel antimony oxide anode for lithium-ion rechargeable cells",
+   "authors": "Ray U., Das D., Jena S., Mitra A., Das K., Majumder S.B., Das S.",
+   "venue": "Journal of Power Sources",
+   "volume": "594",
+   "pages": "234044",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Electrodeposition process optimization by response surface methodologies to obtain high-corrosion resistant Znâ Ni coatings",
+   "authors": "Guerrero J.D.M., Satpathy B., Prasad P.S., Das S., Das K.",
+   "venue": "Surface and Coatings Technology",
+   "volume": "479",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Lipopeptide and glycolipid assisted growth of ZnO micro-/nano-structures: Evaluating the role of chemical and microbial green surfactant",
+   "authors": "Mandal S., Hazra C., Jena S., Kumar P., Sen R., Das S., Das K.",
+   "venue": "Journal of Industrial and Engineering Chemistry",
+   "volume": "129",
+   "pages": "352-364",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Electrophoretic deposition of 58S bioactive glass polymer composite coatings on 316L stainless steel: An optimization for corrosion, bioactivity and cytocompatibility",
+   "authors": "Hadem H., Mitra A., Ojha A., Rajasekaran R., Satpathy B., Das D., Mukherjee S., Dhara S., Das S., Das K.",
+   "venue": "ACS Applied Biomaterials",
+   "volume": null,
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Nanostructured metal oxide based coating for the protection and conservation of cultural heritage: A comprehensive review",
+   "authors": "Mandal S., Kumar P., Satpathy B., Das K., Das S.",
+   "venue": "Journal of Cultural Heritage",
+   "volume": "69",
+   "pages": "94-112",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Synergistic effect of bimodal structure and Cu-coated CNTs on the properties of Cu/CNTs composites",
+   "authors": "Mishra S., Mohapatra S., Mudliyar B.S., Das S., Das K.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "971",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Electrolyte formulation for safe lithium-ion and post lithium-ion batteries, and process for manufacturing the same.",
+   "authors": "Das S., Majumder S. B., Das K., Mitra A.",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2024,
+   "type": "Patent",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "In situ aluminum based dual matrix composites with enhanced thermal conductivity",
+   "authors": "Das K., Lakra S., Bandyopadhyay T. K., Das S.",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2024,
+   "type": "Patent",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das",
+    "tapas-kumar-bandyopadhyay"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Porous nanostructured tin-antimony-copper based alloy electrodes as anode material for lithium batteries and methods thereof",
+   "authors": "Das S., Kumar A., Sengupta S., Mitra A., Das K. -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2024,
+   "type": "Patent",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Self-cleaning and Photodegradation Properties of Polyurethane based Tin Oxide Nanocomposite Coating",
+   "authors": "Kumar P., Mandal S., Das K., Sen R., Das S. -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2024,
+   "type": "Patent",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A formulation for silver electroplating",
+   "authors": "Das S., Das K., Bandyopadhyay T. K., Satpathy B., Jena S.",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2024,
+   "type": "Patent",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das",
+    "tapas-kumar-bandyopadhyay"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A hybrid coating material composition for the control of biofouling in cultural heritage artefacts",
+   "authors": "Mandal S., Hazra C., Kumar P., Das K., Sen R., Das S. -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2024,
+   "type": "Patent",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The effect of milling time, and sintering temperature and time on the microstructure-property relationship of aluminium-matrix hybrid composites",
+   "authors": "Sethi J., Das S., Das K.",
+   "venue": "Materials Today Communications",
+   "volume": "35",
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Innovative Electrodeposition of Bimetallic Cu Sn in a Stable Nonelectroactive Pyrophosphate-Based Bath: Reduction and Nucleation Growth Analysis",
+   "authors": "Kumar V., Nayak D., Das K., Das S. Journal of Physical Chemistry C, 127 20360-20371",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Insights into the dynamic impact behavior of intercritically annealed automotive-grade Fe 7Mn 4Al 0.18C steel",
+   "authors": "Mohapatra S., Poojari G., Das S., Das K., Materials Science and Engineering A 887 -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Theoretical and experimental studies of mirror-bright Au coatings deposited from a novel cyanide-free thiosulphate-based electroplating bath",
+   "authors": "Satpathy B., Jena S., Das S., Das K.",
+   "venue": "Surface and Coatings Technology",
+   "volume": "453",
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Electrochemical study of intercritically annealed Fe-0.18C-7Mn-4Al steel",
+   "authors": "Mohapatra S., Palai D., Satpathy B., Das S., Das K.",
+   "venue": "Materials Today Communications",
+   "volume": "34",
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Development of Zn-2Cu-xMn/Mg Alloys for Orthopedic Applications: Mechanical Performance to In Vitro Degradation under Different Physiological Environments",
+   "authors": "Palai D., Prasad P., Satpathy B., Das S., Das K.",
+   "venue": "ACS Biomaterials Science and Engineering",
+   "volume": "9",
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Pulse galvanostatic electrodeposition of biosurfactant assisted brushite-hydroxyapatite coatings on 316L stainless steel with enhanced electrochemical and biological properties",
+   "authors": "Prasad P., Hazra C., Jena S., Byram P. K., Sen R., Chakravorty N., Das S., Das K.",
+   "venue": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+   "volume": "671",
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Comprehensive Study on the Effect of Annealing Temperature on the Tensile and Impact Behavior of Automotive-Grade Medium Manganese Steel (Fe-6.22Mn-0.18C)",
+   "authors": "Mohapatra S., G., Satpathy B., Das S., Das K.",
+   "venue": "J. of Materials Engineering and Performance",
+   "volume": null,
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Surfactant-assisted synthesis of hydroxyapatite particles: a comprehensive review",
+   "authors": "Prasad P.S., Marupalli B.C.G., Das S., Das K.",
+   "venue": "Journal of Materials Science",
+   "volume": "58",
+   "pages": "6076-6105",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Experimental and DFT investigations on the influence of cetrimonium bromide (CTAB) on surface morphology and anti-tarnishing performance of pulse galvanostatically deposited gold coatings from a cyanide-free electroplating solution",
+   "authors": "Satpathy B., Quraishy M., Kundu T. K., Das S., Das K.",
+   "venue": "Surfaces and Interfaces",
+   "volume": "40",
+   "pages": "1-15",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das",
+    "tarun-kumar-kundu"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Controlled modulation of coating morphology, mechanical properties and anti-tarnishing response of nanocrystalline Au-Cu alloy coatings electrodeposited from a thiourea (TU)-based non-toxic cyanide-free bath: Effect of current density variation",
+   "authors": "Satpathy B., Kumari A., Das K., Das S.",
+   "venue": "Materials Today Communications",
+   "volume": "37",
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Mechanical behavior and texture evolution of integrated MCNTs/Cu composites with balanced electrical/thermal conductivity",
+   "authors": "Mishra S., Jena S., Mohapatra S., Das S., Das K.",
+   "venue": "Powder Technology",
+   "volume": null,
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of strain rate on the microstructure evolution and tensile behavior of medium manganese steel",
+   "authors": "Mohapatra S., Kumar S., Das S., Das K.",
+   "venue": "Materials Letters",
+   "volume": "330",
+   "pages": "133243",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Influence of intercritical annealing temperature on microstructure, microtexture, and tensile behavior of TRIP-assisted medium manganese steel",
+   "authors": "Mohapatra S., Mandal A., Poojari G., Das S., Das K.",
+   "venue": "Materialia",
+   "volume": "28",
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of surfactant on the morphology and anti-tarnishing behaviour of Ag coatings electrodeposited from a novel cyanide-free thiosulphate-based electroplating bath",
+   "authors": "Satpathy B., Jena S., Das S., Das K.",
+   "venue": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+   "volume": "668",
+   "pages": "131443",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A systematic study on microstructure evolution, mechanical stability and the micro-mechanical response of tensile deformed medium manganese steel through interrupted tensile test",
+   "authors": "Mohapatra S., Poojari G., Marandi L., Das S., Das K.",
+   "venue": "Materials Characterization",
+   "volume": "195",
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of Thermo Processing on the Microstructure, Impact Abrasion Wear, and Corrosion Resistance Properties of TiC Reinforced Al-Added High-Mn Steel Matrix Composite",
+   "authors": "Dalai R., Mohapatra S., Das S., Das K. JOM 75 5281-5289",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Corrigendum to Nanoindentation responses of black anodic coating on additively manufactured Al 10Si Mg alloy [Ceram. Int. 48 (2022) 35883 35895, (S0272884222032886), (10.1016/j.ceramint.2022.09.110)]",
+   "authors": "Ghosh R., Dey A., Kavitha M.K., Thota H.K., Dhan S., Rajendra A., Das K.",
+   "venue": "Ceramics International",
+   "volume": "49",
+   "pages": "8646",
+   "year": 2023,
+   "type": "Others",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Multiwalled carbon nanotubes coated with twin-strengthened copper",
+   "authors": "Mishra S., Jena S., Das S., Das K.",
+   "venue": "Materials Chemistry and Physics",
+   "volume": "280",
+   "pages": null,
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Nanoindentation responses of black anodic coating on additively manufactured Al 10Si Mg alloy",
+   "authors": "Ghosh R., Dey A., Kavitha M.K., Thota H.K., Dhan S., Rajendra A., Das K.",
+   "venue": "Ceramics International",
+   "volume": "48",
+   "pages": "35883-35895",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Isothermal transformation kinetics, microstructure and mechanical properties of a carbide free bainitic steel",
+   "authors": "Mondal J., Das K., Das S.",
+   "venue": "Materials Characterization",
+   "volume": "177",
+   "pages": null,
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A comprehensive review of various non-cyanide electroplating baths for the production of silver and gold coatings",
+   "authors": "Satpathy B., Jena S., Das S., Das K.",
+   "venue": "International Materials Review",
+   "volume": null,
+   "pages": "1-37",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The effect of microstructure and mechanical properties on the slurry erosion behavior of carbide-free bainitic and martensitic steel",
+   "authors": "Mondal J., Das K., Das S.",
+   "venue": "Wear 504-505",
+   "volume": null,
+   "pages": null,
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A review on nanodispersed lead-free solders in electronics: synthesis, microstructure and intermetallic growth characteristics",
+   "authors": "Krupa Teja M. B., Sharma A., Das S., Das K.",
+   "venue": "Journal of Materials Science",
+   "volume": null,
+   "pages": "1-37",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Comparative Study of Slurry Erosion and Sliding Wear Properties of Quenched and Tempered Martensitic Steels",
+   "authors": "Mondal J., Das K., Das S.",
+   "venue": "Journal of Materials Engineering and Performance",
+   "volume": null,
+   "pages": null,
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of annealing time on the microstructure and mechanical properties of aluminum added low-density medium manganese steel",
+   "authors": "Mohapatra S., Das K., Das S.",
+   "venue": "Materials Letters",
+   "volume": "318",
+   "pages": null,
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Structural and mechanical characterization of nano-structured Cu Ag bimetallic coatings developed from a novel thiourea-based electroplating bath",
+   "authors": "Satpathy B., Kayal N., Jena S., Das S., Das K.",
+   "venue": "Materials Characterization",
+   "volume": "189",
+   "pages": null,
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Development of flat absorber black anodic coating on 3D printed Al 10Si Mg alloy for spacecraft thermal control application",
+   "authors": "Ghosh R., Dey A., Kavitha M.K., Thota H.K., Rani R.U., Rajendra A., Das K.",
+   "venue": "Ceramics International",
+   "volume": "48",
+   "pages": "35689-35697",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A bath for cyanide-free gold electroplating",
+   "authors": "Das K., Das S., Nayyar N., Satpathy B., Jena S. -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2022,
+   "type": "Patent",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Influence of Copper on the Microstructural, Mechanical, and Biological Properties of Commercially Pure Zn-Based Alloys for a Potential Biodegradable Implant",
+   "authors": "Palai D., Roy T., Prasad P.S., Hazra C., Dhara S., Sen R., Das S., Das K.",
+   "venue": "ACS Biomaterials Science and Engineering",
+   "volume": null,
+   "pages": null,
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Synthesis and properties of Al-AlN-CuCNT and Al-Y2W3O12-CuCNT hybrid composites",
+   "authors": "Sethi J., Jena S., Das S., Das K.",
+   "venue": "Materials Science and Engineering A",
+   "volume": "810",
+   "pages": null,
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A comparative study of electrodeposition routes for obtaining silver coatings from a novel and environment-friendly thiosulphate-based cyanide-free electroplating bath",
+   "authors": "Satpathy B., Jena S., Das S., Das K.",
+   "venue": "Surface and Coatings Technology",
+   "volume": "424",
+   "pages": null,
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Electrophoretically deposited NiSb2O6-carbon black composite film as a potential anode for sodium-ion battery",
+   "authors": "Ray U., Das D., Jena S., Mitra A., Das K., Majumder S.B., Das S.",
+   "venue": "Surface and Coatings Technology",
+   "volume": "408",
+   "pages": null,
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Cetrimonium bromide assisted formation of antimony alloy nanorods for use as an anode in lithium-ion and sodium-ion full-cells",
+   "authors": "Jena S., Mitra A., Das S., Das D., Das K., Majumder S.B., Das S.",
+   "venue": "Applied Surface Science",
+   "volume": "542",
+   "pages": null,
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "In situ dual matrix composite with segregated microstructure fabricated from Al TiO2 B2O3 system by mechanical thermal process",
+   "authors": "Lakra S., Bandyopadhyay T.K., Das S., Das K.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "860",
+   "pages": null,
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das",
+    "tapas-kumar-bandyopadhyay"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Thermal conductivity of in-situ dual matrix aluminum composites with segregated morphology",
+   "authors": "Lakra S., Bandyopadhyay T.K., Das S., Das K.",
+   "venue": "Materials Research Bulletin",
+   "volume": "144",
+   "pages": null,
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das",
+    "tapas-kumar-bandyopadhyay"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Evaluating the influence of milling time,and sintering temperature and time on the microstructural changes and mechanical properties of Al-Y2W3O12-AlN hybrid composites",
+   "authors": "Sethi J., Das S., Das K.",
+   "venue": "Powder Technology",
+   "volume": "377",
+   "pages": "244-256",
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A strategy for designing low-cost, environment-friendly, high energy and power density sodium-ion full cells: Effect of extrinsic pseudocapacitance",
+   "authors": "Jena S., Mitra A., Das S., Das D., Agrawal S., Das K., Majumder S.B., Das S.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "854",
+   "pages": null,
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Pulse potentiostatic deposition of Fe[sbnd]Zn based intermetallic coatings and evaluation of its catalytic activity for hydrogen evolution reaction",
+   "authors": "Biswas S., Das S., Jena S., Mitra A., Das S., Das K.",
+   "venue": "Surface and Coatings Technology",
+   "volume": "402",
+   "pages": null,
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Reciprocating Sliding Wear of Cu, Cu-SiC Functionally Graded Coating on Electrical Contact",
+   "authors": "Banthia S., Amid M., Sengupta S., Das S., Das K.",
+   "venue": "Journal of Materials Engineering and Performnace",
+   "volume": "29",
+   "pages": "3930-3940",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Study on the Tribological Properties of Al-AlN-Y2W3O12 Hybrid Composites",
+   "authors": "Sethi J., Mohapatra S., Sethi A., Das S., Das K.",
+   "venue": "Journal of Materials Engineering and Performance",
+   "volume": "29",
+   "pages": "5638-5654",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "An investigation of mechanical property and sliding wear behaviour of 400Hv grade martensitic steels",
+   "authors": "Mondal J., Das S., Das K.",
+   "venue": "Wear 458-459",
+   "volume": null,
+   "pages": null,
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Synthesis and characterization of in-situ (Al Al3Ti Al2O3)/Al dual matrix composite",
+   "authors": "Lakra S., Bandyopadhyay T.K., Das S., Das K.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "842",
+   "pages": null,
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "tapas-kumar-bandyopadhyay"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Relationship between the microstructure and properties of thermomechanically processed Feâ 17Mn and Feâ 17Mnâ 3Al steels",
+   "authors": "Dalai R., Das S., Das K. International Journal of Minerals, Metallurgy and Materials 26 64-75",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Cu, Cu-SiC functionally graded coating for protection against corrosion and wear",
+   "authors": "Banthia S., Sengupta S., Das S., Das K.",
+   "venue": "Surface and Coatings Technology",
+   "volume": "374",
+   "pages": "833-844",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of thermo-mechanical processing on the low impact abrasion and low stress sliding wear resistance of austenitic high manganese steels",
+   "authors": "Dalai R., Das S., Das K.",
+   "venue": "Wear 420-421",
+   "volume": null,
+   "pages": "176-183",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Study on thermal and mechanical properties of yttrium tungstate-aluminium nitride reinforced aluminium matrix hybrid composites",
+   "authors": "Sethi J., Das S., Das K.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "774",
+   "pages": "848-855",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Novel pulse potentiostatic deposition route for obtaining pure intermetallic Cu5Zn8-CuZn composite coating using glycerol-NaOH based electrolyte with advanced scratch resistance and anti-corrosive properties",
+   "authors": "Das S., Jena S., Banthia S., Mitra A., Das S., Das K.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "792",
+   "pages": "770-779",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Novel pulse potentiostatic electrodeposition route for obtaining pure intermetallic Cu5Zn8-CuZn composite coating using glycerol-NaOH based electrolyte with advanced scratch resistance and anti-corrosive properties",
+   "authors": "Das S., Jena S., Banthia S., Mitra A., Das S., Das K.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "792",
+   "pages": "770-779",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Electrodeposited functionally graded coating inhibits gram positive and gram negative bacteria by a lipid peroxidation mediated membrane damage mechanism",
+   "authors": "Banthia S., Hazra C., Sen R., Das S., Das K.",
+   "venue": "Materials Science and Engineering C",
+   "volume": "102",
+   "pages": "623-633",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Synthesis and characterization of novel Cu, Cu-SiC functionally graded coating by pulse reverse electrodeposition",
+   "authors": "Banthia S., Sengupta S., Das S., Das K.",
+   "venue": "Applied Surface Science 467-468",
+   "volume": null,
+   "pages": "567-579",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructure and property relationship of thermo mechanically processed Fe17Mn and Fe17Mn3Al steel",
+   "authors": "Dalai R., Das S., Das K. International Journal of Minerals, Metallurgy and Materials 26 64-75",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Melt impregnation as a post processing treatment for performance enhancement in high capacity 3D microporous tin-copper-nickel intermetallic anode for Li-ion battery supported by electrodeposited nickel scaffold: A structural study",
+   "authors": "Sengupta S., Patra A., Mitra A., Jena S., Das K., Majumder S.B., Das S.",
+   "venue": "Applied Surface Science",
+   "volume": "441",
+   "pages": "965-977",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Substrate effect on electrodeposited copper morphology and crystal shapes",
+   "authors": "Banthia S., Sengupta S., Mallik M., Das S., Das K.",
+   "venue": "Surface Engineering",
+   "volume": "34",
+   "pages": "485-492",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Sandwich architecture of SneSnSb alloy nanoparticles and N-doped reduced graphene oxide sheets as a high rate capability anode for lithium-ion batteries",
+   "authors": "Jena S., Mitra A., Patra A., Sengupta S., Das K., Majumder S. B., Das S.",
+   "venue": "Journal of Power Sources",
+   "volume": "401",
+   "pages": "165-174",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Sandwich architecture of SNSNSb alloy nanoparticles and N-doped reduced graphene oxide sheets as a high rate capability anode for lithium ion batteries",
+   "authors": "Jena S., Mitra A., Patra A., Sengupta S., Das K., Majumder S. B., Das S.",
+   "venue": "Journal of Power Sources",
+   "volume": "401",
+   "pages": "165-174",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Comparison of Osteoconduction, cytocompatibility and corrosion protection performance of hydroxyapatite-calcium hydrogen phosphate composite coating synthesized in-situ through pulsed electro-deposition with varying amount of phase and crystallinity",
+   "authors": "Chakraborty R., Seesala V.S., Sengupta S., Dhara S., Saha P., Das K., Das S.",
+   "venue": "Surfaces and Interfaces",
+   "volume": "10",
+   "pages": "1-10",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A study on the effect of electrodeposition parameters on the morphology of porous nickel electrodeposits",
+   "authors": "Sengupta S., Patra A., Jena S., Das K., Das S.",
+   "venue": "Metallurgical Transactions A",
+   "volume": "49",
+   "pages": "920-937",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of anodic passivation at high applied potential difference on the crystal shape and morphology of copper electrodeposits: Thermodynamics and kinetics of electrocrystallization",
+   "authors": "Mitra A., Mallik M., Sengupta S., Banthia S., Das K., Das S.",
+   "venue": "Crystal Growth and Design",
+   "volume": "17",
+   "pages": "1539-1549",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of different electrolytes on the microstructure, corrosion and whisker growth of pulse plated tin coatings",
+   "authors": "Sharma A., Das S., Das K.",
+   "venue": "Journal of Microelectronic Engineering",
+   "volume": "170",
+   "pages": "59-68",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "MWCNT reinforced bone like calcium phosphate Hydroxyapatite composite coating developed through pulsed electrodeposition with varying amount of apatite phase and crystallinity to promote superior osteoconduction, cytocompatibility and corrosion protection performance compared to bare metallic implant surface",
+   "authors": "Chakrabirty R., Seesala V. S., Sen M., Sengupta S., Dhara S., Saha P., Das K., Das S.",
+   "venue": "Surface and Coatings Technology",
+   "volume": "325",
+   "pages": "496-514",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Novel Multiphase Sn-Sb-Cu Alloy Electrodeposited on 3D Interconnected Microporous Cu Current Collector as Negative Electrode for Lithium Ion Battery",
+   "authors": "Sengupta S., Patra A., Deo Y., Das K., Majumder S. B., Das S.",
+   "venue": "Metallurgical and Materials Transactions E",
+   "volume": "4",
+   "pages": "51-59",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Investigation on lithium conversion behavior and degradation mechanisms in Tin based ternary component alloy anodes for lithium ion batteries",
+   "authors": "Sengupta S., Mitra A., Dahiya P. P., Kumar A., M., Das K., Majumder S. B., Das S.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "721",
+   "pages": "236-248",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "3D microporous Sn-Sb-Ni alloy impregnated Ni foam as high-performance negative electrode for lithium-ion batteries",
+   "authors": "Sengupta S., Patra A., Akhtar M., Das K., Majumder S. B., Das S.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "705",
+   "pages": "290-300",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Lead free Sn-Ce-O composite coating on Cu produced by pulse electrodeposition from an aqueous acidic sulphate electrolyte",
+   "authors": "Sharma A., Das K., Das S.",
+   "venue": "Journal of Electronic Materials",
+   "volume": "46",
+   "pages": "5855-5865",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Synergistic Effect of Peak Current Density and Nature of Surfactant on Microstructure, Mechanical and Electrochemical Properties of Pulsed Electrodeposited Ni-Co-SiC Nanocomposites",
+   "authors": "R D. P., Patra A., Sengupta S., Das S., Das K.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "729",
+   "pages": "1093-1107",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Synthesis and characterization of MWCNT reinforced nano-crystalline copper coating from a highly basic bath through pulse electrodeposition",
+   "authors": "Chakraborty R., Sengupta S., Das S., Saha P., Das K.",
+   "venue": "Surfaces and Interfaces",
+   "volume": "9",
+   "pages": "28-35",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "siddhartha-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Fabrication of Sn nanostructures by template assisted pulse electrodeposition",
+   "authors": "Sharma A., Bhattacharya S., Das S., Das K.",
+   "venue": "Surface Engineering",
+   "volume": "32",
+   "pages": "378-384",
+   "year": 2016,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Characterization of microstructure and properties of Al-Al3Zr-Al2O3 composite",
+   "authors": "Mandal A., Das K., Das S.",
+   "venue": "Bulletin of Materials Science",
+   "volume": "39",
+   "pages": "913-924",
+   "year": 2016,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Synthesis and Properties of Pulse Electrodeposited Lead-Free Tin-Based Sn/ZrSiO4 Nanocomposite Coatings",
+   "authors": "Bhattacharya S., Sharma A., Das S., Das K.",
+   "venue": "Metallurgical and Materials Transactions",
+   "volume": "47",
+   "pages": "1292-1312",
+   "year": 2016,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Synthesis of calcium hydrogen phosphate and hydroxyapatite coating on SS316 substrate through pulsed electrodeposition",
+   "authors": "Chakraborty R., Sengupta S., Saha P., Das K., Das S.",
+   "venue": "Materials Science and Engineering C",
+   "volume": "69",
+   "pages": "875-883",
+   "year": 2016,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Pulse Electrodeposition of Lead Free Tin Based Composites for Microelectronic Packaging",
+   "authors": "Sharma A., Das K., Das S.",
+   "venue": "Electrodeposition of composite materials",
+   "volume": null,
+   "pages": "253-274",
+   "year": 2016,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Corrosion behaviour of TiC and (Ti,W)C-reinforced Fe-17Mn and Fe-17Mn-3Al austenitic steel matrix in-situ composites",
+   "authors": "Srivastava A. K., Das K., Toor S. K., Sugimoto K. Metallography, Microstructure, and Analysis 4 371-380",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2015,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Corrosion Behaviour of TiC-Reinforced Hadfield Manganese Austenitic Steel Matrix In-Situ Composites",
+   "authors": "Srivastava A., Das K., Toor S. K.",
+   "venue": "Open Journal of Metal",
+   "volume": "5",
+   "pages": "11-17",
+   "year": 2015,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Electrochemical corrosion behavior of CeO2 nanoparticle reinforced Sn-Ag based lead free nanocomposite solders in 3.5 wt% NaCl bath",
+   "authors": "Sharma A., Das S., Das K.",
+   "venue": "Surface and Coatings Technology",
+   "volume": "261",
+   "pages": "235-243",
+   "year": 2015,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "An electrolyte bath composition for whisker resistant tin plating on metal substrates (Application No. 1001/KOL/2013, Publication date: 06.03.2015, status: Awaiting examination)",
+   "authors": "Sharma A., Das S., Das K. -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2015,
+   "type": "Patent",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Pulse electroplating of ultrafine grained tin coating",
+   "authors": "Sharma A., Das K., Das S.",
+   "venue": "Electroplating of nanostructures",
+   "volume": null,
+   "pages": "105-129",
+   "year": 2015,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Synthesis and thermal behavior of Cu/Y2W3O12 composite",
+   "authors": "Das S., Das S., Das K.",
+   "venue": "Ceramics International",
+   "volume": "40",
+   "pages": "6465-6472",
+   "year": 2014,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Influence of current density on surface morphology and properties of pulse plated tin films from citrate electrolyte",
+   "authors": "Sharma A., Das S., Das K.",
+   "venue": "Applied Surface Science",
+   "volume": "290",
+   "pages": "373-380",
+   "year": 2014,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of various additives on morphological and structural characteristics of pulse electrodeposited tin coatings from stannous sulphate electrolyte",
+   "authors": "Sharma A., Das K., Fecht H. J., Das S.",
+   "venue": "Applied Surface Science",
+   "volume": "314",
+   "pages": "516-522",
+   "year": 2014,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Development of TiC reinforced austenitic manganese steel",
+   "authors": "Dalai R. P., Das S., Das K.",
+   "venue": "Canadian Metallurgical Quarterly",
+   "volume": "53",
+   "pages": "317-325",
+   "year": 2014,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of Current Density on the Nucleation and Growth of Crystal Facets during Pulse Electrodeposition of Sn-Cu Lead Free Solder",
+   "authors": "Mallik M., Mitra A., Sengupta S., Das K., Ghosh R., Das S.",
+   "venue": "Crystal Growth and Design",
+   "volume": "14",
+   "pages": "6542-6549",
+   "year": 2014,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A study on the effect of pulse electrodeposition parameters on the morphology of pure tin coatings",
+   "authors": "Sharma A., Bhattacharya S., Das S., Das K.",
+   "venue": "Metallurgical and Materials Transactions A",
+   "volume": "45",
+   "pages": "4610-4622",
+   "year": 2014,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Porous nanostructured tin-antimony-copper based alloy electrodes as anode material for lithium ion batteries and methods thereof (Application No. 0613/KOL/2014)",
+   "authors": "Das S., Kumar A., Sengupta S., Mitra A., Das K. -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2014,
+   "type": "Patent",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Experimental investigation of the effect of working parameters on wire offset in wire electrical discharge machining of Hadfield manganese steel",
+   "authors": "Srivastava A. K., Pal S. K., Saha P., Das K.",
+   "venue": "J. of surface Engineered Materials and advanced Technology",
+   "volume": "3",
+   "pages": "295-302",
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Low Temperature Synthesis of Negative Thermal Expansion Y2W3O12",
+   "authors": "Das S., Das S., Das K.",
+   "venue": "Journal of materials Engineering and performance",
+   "volume": "22",
+   "pages": "3357-3362",
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Fabrication of Sn-Ag/CeO2 Electro-Composite Solder by Pulse Electrodeposition",
+   "authors": "Sharma A., Bhattacharya S., Das S., Das K.",
+   "venue": "Metallurgical and Materials Transactions",
+   "volume": "44",
+   "pages": "5587-5601",
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Multi-objective optimization in wire-electro-discharge machining of TiC reinforced composite through Neuro-Genetic technique",
+   "authors": "Saha P., Tarafdar D., Pal S. K., Saha P., Srivastava A. K., Das K.",
+   "venue": "Applied Soft Computing",
+   "volume": "13",
+   "pages": "2065-2074",
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Development of lead free pulse electrodeposited tin based composite solder coating reinforced with ex-situ cerium oxide nanoparticles",
+   "authors": "Sharma A., Bhattacharya S., Das S., Fecht H. J., Das K.",
+   "venue": "Journal of alloys and Compounds",
+   "volume": "574",
+   "pages": "609-616",
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Synthesis and properties of pulse electrodeposited Ni-CeO2 nanocomposite",
+   "authors": "Sen R., Das S., Das K.",
+   "venue": "Metallurgical and MaterialsTrasactions A",
+   "volume": "43",
+   "pages": "3809-3823",
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Influence of current density on microstructure of pulse electrodeposited tin coatings",
+   "authors": "Sharma A., Bhattacharya S., Sen R., Reddy B., Fecht H. J., Das K., Das S.",
+   "venue": "Materials Characterization",
+   "volume": "68",
+   "pages": "22-32",
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Influence of duty cycle on the microstructure and microhardness of pulse electrodeposited Ni-CeO2 nanocomposite coating",
+   "authors": "Sen R., Das S., Das K. materials Research Bulletin 47 478-485",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Influence of sodium saccharin on the microstructure of pulse electrodeposited Ni-CeO2 nanocomposite coating",
+   "authors": "Sen R., Das S., Das K.",
+   "venue": "J. of Nanoscience and Nanotechnology",
+   "volume": "12",
+   "pages": "7944-7949",
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "In-situ synthesis, microstructure and properties of TiC & (Ti,W)C-reinforced Fe-Mn-Al austenitic steel matrix composites",
+   "authors": "Srivastava A. K., Das K.",
+   "venue": "Journal of Materials Engineering and performance",
+   "volume": "21",
+   "pages": "2438-2445",
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructural characterization of nano-sized ceria powders by X-Ray Diffraction analysis",
+   "authors": "Sen R., Das S., Das K.",
+   "venue": "Metallurgical and Materials Transactions A",
+   "volume": "42",
+   "pages": "1409-1417",
+   "year": 2011,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of fuel-to-nitrate ratio on the powder characteristics of nanosized CeO2 synthesized by mixed fuel combustion method",
+   "authors": "Palneedi H., Mangam V., Das S., Das K.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "509",
+   "pages": "9912-9918",
+   "year": 2011,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of stirring rate on the microstructure and microhardness of Ni-CeO2 nanocomposite coating and investigation of the corrosion property",
+   "authors": "Sen R., Das S., Das K.",
+   "venue": "Surface and Coating Technology",
+   "volume": "205",
+   "pages": "3847-3855",
+   "year": 2011,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The effect of bath temperature on the crystallite size and microstructure of Ni-CeO2 nanocomposite coating",
+   "authors": "Sen R., Das S., Das K.",
+   "venue": "Materials Characterization",
+   "volume": "62",
+   "pages": "257-262",
+   "year": 2011,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Combustion and ball milled synthesis of rare earth nano-sized ceria powder",
+   "authors": "Sen R., Das S., Das K.",
+   "venue": "Materials Science and Applications",
+   "volume": "2",
+   "pages": "416-420",
+   "year": 2011,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Mechanical Thermal Synthesis of In-situ Al based hybrid nanocomposites in Al-Ni-Ti-O system",
+   "authors": "Dilip J. S., Reddy B., Das S., Das K.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "490",
+   "pages": "103-109",
+   "year": 2010,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Structure and properties of electrocodeposited Cu-CeO2 nanocomposite thin films",
+   "authors": "Mangam V., Das K., Das S.",
+   "venue": "Materials Chemistry and Physics",
+   "volume": "120",
+   "pages": "631-635",
+   "year": 2010,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of current density on microstructure and hardness of Ni-CeO2 nanocomposite coating synthesized by pulsed electrodeposition technique",
+   "authors": "Sen R., Das S., Das K.",
+   "venue": "J. of Nanoscience and Nanotechnology",
+   "volume": "10",
+   "pages": "8217-8226",
+   "year": 2010,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of surfactant on the co-electrodeposition of the nano-sized ceria particle in the nickel matrix",
+   "authors": "Sen R., Bhattacharya S., Das S., Das K.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "489",
+   "pages": "650-658",
+   "year": 2010,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Synthesis and characterization of pulse co-electrodeposited nickel/ceria nanocomposites",
+   "authors": "Sen R., Sharma A., Bhattacharya S., Das S., Das K.",
+   "venue": "J. of Nanoscience and Nanotechnology",
+   "volume": "10",
+   "pages": "4998-5003",
+   "year": 2010,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Electrical resistivity measurement of micro/nano crystalline Ni and Ni-CeO2 nanocomposite coatings using four probe method",
+   "authors": "Sen R., Das S., Das K.",
+   "venue": "International Journal of Nanotechnology and Applications",
+   "volume": "4",
+   "pages": "207-212",
+   "year": 2010,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The abrasive wear resistance of TiC and (Ti,W)C reinforced austenitic high manganese steel matrix in-situ composite",
+   "authors": "Srivastava A. K., Das K.",
+   "venue": "Tribology International",
+   "volume": "43",
+   "pages": "944-950",
+   "year": 2010,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Aqueous combustion synthesis and characterization of Zirconia-Alumina nanocomposites",
+   "authors": "Kishan J., Mangam V., Reddy B., Das S., Das K.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "490",
+   "pages": "631-636",
+   "year": 2010,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Friction and wear behavior of Cu-CeO2 nanocomposite coatings synthesized by pulsed electrodeposition",
+   "authors": "Mangam V., Bhattacharya S., Das K., Das S.",
+   "venue": "Surface and Coatings Technology",
+   "volume": "205",
+   "pages": "801-805",
+   "year": 2010,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Modified Williamson-Hall Plot, (SW-4383/2010)",
+   "authors": "Sen R., Das K. -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2010,
+   "type": "Copyright",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Study of Microstructure and Tribological Behaviour of Al-4.5% Cu/Al3Ti Composites",
+   "authors": "Das K., Narnaware L. K.",
+   "venue": "Materials Characterization",
+   "volume": "60",
+   "pages": "808-816",
+   "year": 2009,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "In-situ Al based bulk Nanocomposites by Solid-State Aluminothermic reaction in Al-Ti-O system",
+   "authors": "Dilip J. S., Reddy B., Das S., Das K.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "475",
+   "pages": "178-183",
+   "year": 2009,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "In-situ synthesis and characterization of TiC-reinforced Hadfield austenitic manganese steel matrix composite",
+   "authors": "Srivastava A. K., Das K.",
+   "venue": "ISIJ International",
+   "volume": "49",
+   "pages": "1372-1377",
+   "year": 2009,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructural and mechanical characterization of in-situ TiC and (Ti,W)C-reinforced high manganese austenitic steel matrix composites",
+   "authors": "Srivastava A. K., Das K.",
+   "venue": "Materials Science & Engineering A",
+   "volume": "516",
+   "pages": "1-6",
+   "year": 2009,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Modeling of wire-electro-discharge machining of TiC/Fe in-situ metal matrix composite using normalized RBFN with enhanced k-means clustering technique",
+   "authors": "Saha P., Tarafdar D., Pal S. K., Saha P., Srivastava A. K., Das K.",
+   "venue": "Int. J. of Manufacturing Sci. and Technol.",
+   "volume": "43",
+   "pages": "107-116",
+   "year": 2009,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Abrasive wear behavior of Al-4.5wt.%Cu/(Zircon sand+Silicon carbide) Hybrid Composite",
+   "authors": "Das S., Das K., Das S.",
+   "venue": "Journal of Composite Materials",
+   "volume": "43",
+   "pages": "2665-2672",
+   "year": 2009,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Al-Ti-C-Sr master alloy - A melt inoculant for simultaneous grain refinement and modification of hypoeutectic Al-Si alloys",
+   "authors": "Prasad Rao A. K., Das K., Murty B. S., Chakraborty M.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "480",
+   "pages": "49-51",
+   "year": 2009,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Process for the Production of Ferrous Based Composite Materials. No.233871, Granted",
+   "authors": "Das K., Bandyopadhyay T. K.",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2009,
+   "type": "Patent",
+   "faculty": [
+    "karabi-das",
+    "tapas-kumar-bandyopadhyay"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A study of precipitation and recrystallization behavior of aluminum alloy AA1235",
+   "authors": "Roy R. K., Kar S. K., Das K., Das S.",
+   "venue": "Journal of Materials Science",
+   "volume": "41",
+   "pages": "1039-1045",
+   "year": 2006,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "sujoy-kumar-kar"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructures and tensile properties of commertial purity aluminum alloy AA1235 under different annealing conditions",
+   "authors": "Roy R. K., Kar S. K., Das K., Das S.",
+   "venue": "Materials Letters",
+   "volume": "59",
+   "pages": null,
+   "year": 2005,
+   "type": "Journal",
+   "faculty": [
+    "karabi-das",
+    "sujoy-kumar-kar"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

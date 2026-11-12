@@ -1,0 +1,162 @@
+{
+  "name": "Koushik Biswas",
+  "slug": "koushik-biswas",
+  "designation": "Professor",
+  "isHead": false,
+  "email": "k_biswas@metal.iitkgp.ac.in",
+  "phone": "+91-3222-283244",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Modelling of metals and ceramics",
+    "Multifunctional ceramics",
+    "cement",
+    "Energy materials",
+    "Additive and Laser based Manufacturing"
+  ],
+  "areas": [
+    "extractive-process",
+    "ceramics-composites",
+    "computational-ai",
+    "energy-sustainability"
+  ],
+  "researchStatement": [
+    "Energy materials (Hydrogen storage - Solid Oxide Fuel Cell - Lithium Ion Battery)",
+    "Electroceramics (Ferroelectric - Pyroelectric - Relaxor - Multiferroics)",
+    "Structural Ceramics (ZrO2 - Al2O3 - TBC - SiC)",
+    "Ceramic Reinforced Metal Matrix Composites (steel and Al-based MMC with SiC - TiC-other Carbide)",
+    "Sintering (Conventional - Microwave - SPS)",
+    "Abinitio (DFT) and MD Modeling"
+  ],
+  "awards": [],
+  "currentProjects": [],
+  "completedProjects": [
+    {
+      "title": "A NOVEL ROUTE OF SYNTHESIS FOR DEVELOPMENT OF SOLID OXIDE FUEL CELL ANODE MATERIAL",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "SYNTHESIS AND CHARACTERIZATION OF NANOCRYSTALLINE ZRO(2)-BASED ELECTROLYTE FOR SOLID OXIDE FUEL CELLS",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "OPTIMIZATION OF MOULDING MATERIALS FOR A ROLL FOUNDRY",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "SYNTHESIS AND THERMO-MECHANICAL CHARACTERIZATION OF MOSI2-SIC-ZRO2 NANO-COMPOSITES",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "VERSATILE NANO ZIRCONIA PRODUCTION FACILITY AND INDIAN RARE EARTHS LIMITED, OSCOM",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Microwave assisted synthesis of nanocrystalline electro-ceramics for ferro-electric relaxors and SOFCs",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Light metals, rare earth elements doped nano-structured magnesium hydride admixed with or without carbon nano tube for hydrogen storage material (SGIRG)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Optimization of processing parameters to produce high aspect ratio synthetic wollastonite",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Alumina-Zirconia-Silicon Carbide Tiles for Stanag Level 4 Protection",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "A Novel Approach of Making Green Belite Cement From Electric Arc Furnace Steel Making Slag",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Hybrid Sodium - ion Cell/Super Capacitor Packs for Light Electric Vehicles",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Technology Development and Demonstration for Stanag Level 3/4 Rated Composite Integral Armour for Infantry Fighting Vehicles (IFVs)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Ironmaking Course",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Identification of problem in refractory castables in the rotary kiln of DRI plant in Rashmi Metaliks and suggested remedial",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "POWDER METALLURGY LABORATORY EQUIPMENT USAGE",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "A BRIDGE PROJECT AIMED AT THE EXPANSION OF LITHIUM LON BATTERY RESEARCH",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Composite Integral Armour of Futuristic Infantry Combat Vehicle",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of high energy density lithium ion prismatic batteries for laptops, solar and electric vehicles",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of High Performance Materials for Various Defence Related Applications",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Exploratory synthesis of Hard Carbon anode and identified cathode (TMO) and optimize in half-cell and full cells in coin cell, cylindrical and pouch formats for sodium ion batteries",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "LITHIUM ION BATTERY EQUIPMENT USAGE",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Production of rare earth permanent magnets from spent magnets and primary rare earth oxides",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "QUALITY IMPROVEMENT OF SILVER MEDALLION OBTAINED FROM KOLKATA MINT",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Structure - Property Relations of C-SiC Composites Prepared by Chemical Vapor Infiltration (GTMAP)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/koushik-biswas.webp",
+  "researchImage": "/images/research/group-koushik-biswas.webp",
+  "website": null,
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-k_biswas",
+  "source": "IIT Kharagpur institute faculty profile"
+}

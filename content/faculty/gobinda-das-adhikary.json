@@ -1,0 +1,57 @@
+{
+  "name": "Gobinda Das Adhikary",
+  "slug": "gobinda-das-adhikary",
+  "designation": "Assistant Professor Grade-I",
+  "isHead": false,
+  "email": "gda53@metal.iitkgp.ac.in",
+  "phone": "+91-3222-283286",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Dielectric and Ferroelectric materials",
+    "Piezoelectric Nano Generator",
+    "2D materials",
+    "Multiferroics and Spintronics",
+    "Magnetic Materials (Permanent Magnet)"
+  ],
+  "areas": [
+    "functional-devices"
+  ],
+  "researchStatement": [
+    "My research is primarily focused on the study of phase transitions, domain dynamics, electron–phonon interactions, polaritons, and structure-property correlation in transition metal oxides. Current research includes",
+    "Relaxor Ferroelectric",
+    "Multiferroics",
+    "Spintronic devices",
+    "Heterostructure",
+    "2D ferroelectrics",
+    "Energy storage",
+    "Quantum Ferroelectrics",
+    "Magnetic Materials"
+  ],
+  "awards": [],
+  "currentProjects": [
+    {
+      "title": "Development of high temperature lead (Pb)-free piezoelectric material, Advanced Engineering of Pb-free Piezoelectric and Ferroelectric Materials for Next-generation Energy Harvesting and sensing Applications, and Structure-property correlations in high performance Pb-free piezoelectrics",
+      "role": "Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "Large Longitudinal electrostrain more than 1 percent in thin leadfree piezoceramics with reduced oxygen vacancy",
+      "role": "Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "Large Longitudinal electrostrain more than 1 percent in thin leadfree piezoceramics with reduced oxygen vacancy",
+      "role": "Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    }
+  ],
+  "completedProjects": [],
+  "photo": "/images/faculty/gobinda-das-adhikary.webp",
+  "researchImage": "/images/research/group-gobinda-das-adhikary.webp",
+  "website": null,
+  "googleScholar": "https://scholar.google.com/citations?user=jUMwE1gAAAAJ&hl=en&oi=ao",
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-gda53",
+  "source": "IIT Kharagpur institute faculty profile"
+}

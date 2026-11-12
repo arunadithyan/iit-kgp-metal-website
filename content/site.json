@@ -1,0 +1,72 @@
+{
+  "department": "Department of Metallurgical and Materials Engineering",
+  "shortName": "Metallurgical & Materials Engineering",
+  "institute": "Indian Institute of Technology Kharagpur",
+  "tagline": "Engineering Materials. Enabling Innovation. Shaping the Future.",
+  "established": 1954,
+  "renamed": 1994,
+  "about": [
+    "The Department had its inception in 1954. Over the years, the Department has developed excellent expertise in the areas of Extractive and Physical Metallurgy, Manufacturing Processes, Mechanical Behaviour of Materials, Nano-Science and Technology, Modelling and Simulation, Surface Engineering, Powder Metallurgy and Environmental Degradation of Materials.",
+    "The Department takes pride for its wide spectrum of state of the art laboratories both for teaching and research purposes. Keeping its tradition for producing world class metallurgists, the Department has actively diversified to advanced materials for addressing today’s technological challenges in renewable energy and healthcare.",
+    "The Department has provided the required manpower for sustainable growth in India’s backbone of steel industry and continues to do so even today with the establishment of “Steel Technology Center” at IIT Kharagpur."
+  ],
+  "vision": "The Department aims to establish itself as a global leader in frontier areas of Metallurgical & Materials research and education so that it can effectively cater to the growing needs of industry, academia and research institutions of India.",
+  "mission": "Excellence in teaching and research is the key element of this vision and the Department has set clear-cut objectives and strategies to realise this vision.",
+  "headMessage": {
+    "name": "Prof. Shiv Brat Singh",
+    "facultySlug": "shiv-brat-singh",
+    "role": "Head of the Department",
+    "paragraphs": [
+      "Since its inception in 1954, our Department is catering to the needs of the nation, especially in the area of human resource development and state of the art research. The Department has been renamed as Department of Metallurgical & Materials engineering from Department of Metallurgical Engineering in 1994, to mark the progress of the Department in the area of exotic materials beyond conventional metals.",
+      "We are proud that our Department is among the very few Institutes of excellence in India that stills embraces the classical metallurgy like iron and steel research along with advanced materials, which is the need of the nation today. Along with excellence in teaching our faculty members are addressing new important real-world challenges through introducing safer lithium-ion batteries, improved biomaterials and composites.",
+      "Our faculty members are among the most cited in the world and are nationally and internationally recognized for excellence. Finally, I would like to thank all the sponsors of our research projects and activities in our Department that allow our program to thrive."
+    ]
+  },
+  "stats": [
+    { "value": "1954", "label": "Year the Department was founded", "source": "IIT Kharagpur department page" },
+    { "value": "90+", "label": "Peer-reviewed journal papers per year, averaged over the last five years", "source": "IIT Kharagpur department page" },
+    { "value": "78", "label": "Sponsored projects in the last five years, totalling ₹5,940 lakh", "source": "IIT Kharagpur department page" },
+    { "value": "43", "label": "Consultancy projects in the last five years, totalling ₹290 lakh", "source": "IIT Kharagpur department page" }
+  ],
+  "milestones": [
+    { "year": "1954", "text": "The Department of Metallurgical Engineering is established at IIT Kharagpur." },
+    { "year": "1994", "text": "Renamed the Department of Metallurgical & Materials Engineering, marking its growth into materials beyond conventional metals." },
+    { "year": "Today", "text": "Classical iron and steel research continues alongside advanced materials for energy and healthcare, supported by the Steel Technology Centre at IIT Kharagpur." }
+  ],
+  "alumni": [
+    { "name": "Sundar Pichai", "note": "B.Tech, Metallurgical Engineering, 1993 — CEO of Google" },
+    { "name": "Dr. Samir Venkatpati Kamat", "note": "B.Tech, Metallurgical Engineering, 1985 — appointed Director, DMRL" },
+    { "name": "Dr. Shrikumar Banerjee", "note": "B.Tech, Metallurgical Engineering, 1967 — Board of Governors, IIT Kharagpur" }
+  ],
+  "contact": {
+    "addressLines": ["Department of Metallurgical and Materials Engineering", "Indian Institute of Technology Kharagpur", "Kharagpur, West Bengal 721302", "India"],
+    "headEmail": "sbs22@metal.iitkgp.ac.in",
+    "headPhone": "+91-3222-282280",
+    "officeEmail": null,
+    "institutePhone": "+91-3222-255221",
+    "instituteFax": "+91-3222-255303",
+    "mapQuery": "Department of Metallurgical and Materials Engineering, IIT Kharagpur"
+  },
+  "links": {
+    "institute": "https://www.iitkgp.ac.in/",
+    "departmentPage": "https://www.iitkgp.ac.in/department/MT",
+    "legacyPortal": "http://www.metal.iitkgp.ac.in",
+    "erp": "https://erp.iitkgp.ac.in",
+    "library": "https://www.iitkgp.ac.in/academics-library",
+    "academicCalendar": "https://www.iitkgp.ac.in/academic-calendar-ug",
+    "curriculaUG": "https://www.iitkgp.ac.in/curricula-ug",
+    "curriculaPG": "https://www.iitkgp.ac.in/curricula-pg",
+    "admissions": "https://www.iitkgp.ac.in/navpage/admissions",
+    "phdAdmission": "https://www.iitkgp.ac.in/rolling-phd-admission",
+    "pmrf": "https://www.pmrf.in/",
+    "cdc": "https://cdc.iitkgp.ac.in/",
+    "campusMap": "https://www.iitkgp.ac.in/campus-map",
+    "howToReach": "https://www.iitkgp.ac.in/how-to-reach",
+    "steelTechnologyCentre": "https://www.iitkgp.ac.in/department/SL",
+    "materialsScienceCentre": "https://www.iitkgp.ac.in/department/MS"
+  },
+  "sources": [
+    { "label": "IIT Kharagpur — Department of Metallurgical and Materials Engineering", "url": "https://www.iitkgp.ac.in/department/MT" },
+    { "label": "IIT Kharagpur ERP — Curricula", "url": "https://erp.iitkgp.ac.in/ERPWebServices/curricula/specialisationList_new_currver2.jsp?stuType=UG" }
+  ]
+}

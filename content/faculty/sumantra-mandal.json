@@ -1,0 +1,187 @@
+{
+  "name": "Sumantra Mandal",
+  "slug": "sumantra-mandal",
+  "designation": "Professor",
+  "isHead": false,
+  "email": "sumantra.mandal@metal.iitkgp.ac.in",
+  "phone": null,
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Alloy Design",
+    "Grain Boundaries and Interfaces",
+    "Aqueous and High Temperature Corrosion",
+    "Creep, Fatigue and Fracture",
+    "Computational Materials Modeling"
+  ],
+  "areas": [
+    "physical-mechanical",
+    "computational-ai"
+  ],
+  "researchStatement": [
+    "Dr. Mandal and his research team are involved in designing new alloys with improved mechanical and corrosion properties. Further, his group is also involved in improving the material properties and performance of the existing alloys employing microstructure engineering approach. They have undertaken a systematic campaign to understand, evaluate and establish the various grain boundary related specific materials properties as a function of five microscopic degrees of freedom of boundaries for a range of bulk polycrystalline materials. Materials properties are being improved by understanding the synergistic influence of various microstructural features like grain boundary character, grain boundary morphology, micro-texture, grain size, precipitate morphology and its distribution etc. A systems and optimisation approach has been undertaken whereby certain property packages, rather than just a single property is achieved through this new strategy to microstructure engineering."
+  ],
+  "awards": [
+    "DAE Young Engineer Award",
+    "Young Metallurgist of the Year",
+    "TMS Shri Ram Arora Award",
+    "INAE Young Engineer Award",
+    "INSA Medal for Young Scientist"
+  ],
+  "currentProjects": [
+    {
+      "title": "CALPHAD guided alloy design of refractory multi-component alloys: next generation alternatives to Ni-based superalloy for high-temperature applications",
+      "role": "Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "Corrosion Equipment Service to Various Government and Non-Government Organisations",
+      "role": "Principal Investigator",
+      "funder": "Various Institutes / Organisations"
+    },
+    {
+      "title": "Material Study and Analysis for Downhole Specimen",
+      "role": "Principal Investigator",
+      "funder": "Vedanta Limited"
+    },
+    {
+      "title": "RCA (failure analysis) of GT 3 Turbine Blades - Stage 1 for NTPC Jhanor",
+      "role": "Principal Investigator",
+      "funder": "NTPC LIMITED"
+    },
+    {
+      "title": "Design and Development of Porous MOFs and Their Composites with Organic Polymers as Solid-State Proton Conductors in H2 Fuel Cell, Corrosion Protection, and Water Treatment",
+      "role": "Co-Principal Investigator",
+      "funder": "IIT KHARAGPUR"
+    },
+    {
+      "title": "Design and Synthesis of Dual Functional Porous HOFs and Porous PCPs for Energy Efficient Gas Separations and Solid-State Ionic Conductors in Electrochemical Energy Devices",
+      "role": "Co-Principal Investigator",
+      "funder": "IIT KHARAGPUR"
+    },
+    {
+      "title": "Developing a novel rare-earth modified AlSi10Mg alloy via laser additive manufacturing for high-temperature automobile and aerospace applications",
+      "role": "Co-Principal Investigator",
+      "funder": "Various internal users of the Institute"
+    },
+    {
+      "title": "Development of Fe-Ni Cation-Ordered-Phase Based Rare-Earth-Free Room-Temperature Permanent Magnets",
+      "role": "Co-Principal Investigator",
+      "funder": "Directorate of Futuristic Technology Management (DFTM), Defence Research and Development Organisation, Ministry of Defence"
+    },
+    {
+      "title": "Process for selective recovery of rare earth elements REEs from spent neodymium iron boron NdFeB magnets",
+      "role": "Co-Principal Investigator",
+      "funder": "Department of Science and Technology (DST)"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "Grain Boundary Engineering in a Nickel-based Superalloy: Influence of Process Variables, Aspects of Micro-mechanisms and Implication on Intergranular Corrosion",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Synergistic influence of five parameter grain boundary character, grain size and grain boundary network connectivity or intergranular corrosion behavior in a typical low stacking fault energy face centered cubic alloy system",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Microstructure Engineering to Enhance Resistance Against Creep & High Temperature Hot Corrosion in a Ni-Based Superalloy",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Modelling of Oxidation and Exfoliation of Oxide in Grade T91 Steel",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Interdiffusion and Corrosion Studies in the Fe/AI based Systems Related to Aluminide Coatings on Steel",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Root cause analysis for corrosion in LPG mounded storages",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Compatibility Study of Materials with Regard to Various Chloride and Sulphate Concentration for the Sulphate Removal Plant",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of New Correlative Characterization Techniques for Microstructure, Nanoprecipitates, Texture (using Taylor Factor Distribution) in a Model Alloy",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Role of Special Boundaries on Hydrogen Permeation in Medium Mn Steel",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Investigation of Corrosion and Passive Film Behaviour of Stainless Steel and Carbon Steel Container in Concrete Pore Solution along with Geological Media for Long Term Stability of Nuclear Waste Package during Geological Disposal",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Grain Boundary and Magnetic Domain Interaction in Oriented Bulk Magnetostrictive Fe-Ga Alloy",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Strain Partitioning and Damage Mechanism during Thermomechanical Fatigue in a Ni-based CM247LC Superalloy",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Failure analysis of stage 2 compressor blade of gas turbine unit 1 of NTPC Dadri Gas power station",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "New Material Development for Rotary Kiln Air Tube",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of High Performance Materials for Various Defence Related Applications",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Hydrogen Embrittlement in High Strength Steels for Energy Industries: Assessment and Prevention",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Hydrogen Embrittlement in High Strength Steels for Energy Industries: Assessment and Prevention",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Production of rare earth permanent magnets from spent magnets and primary rare earth oxides",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Setting Up High-End Testing Facilities of Materials for Biomaterials, Aerospace and Automotive Applications (SGDRI-2015)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "STUDY ON CORROSION BEHAVIOUR OF MILD STEEL PLATE USED IN COKE OVEN UNIT",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/sumantra-mandal.webp",
+  "researchImage": "/images/research/group-sumantra-mandal.webp",
+  "website": "https://www.admergiitkgp.com/",
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-sumantra.mandal",
+  "source": "IIT Kharagpur institute faculty profile"
+}

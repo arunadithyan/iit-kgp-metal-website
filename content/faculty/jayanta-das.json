@@ -1,0 +1,128 @@
+{
+  "name": "Jayanta Das",
+  "slug": "jayanta-das",
+  "designation": "Professor",
+  "isHead": false,
+  "email": "j.das@metal.iitkgp.ac.in",
+  "phone": "+91-3222-283284",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Bulk metallic glasses",
+    "Advanced Materials Processing",
+    "Mechanical metallurgy",
+    "High temperature materials",
+    "Metastable & nano-structured material"
+  ],
+  "areas": [
+    "physical-mechanical",
+    "extractive-process"
+  ],
+  "researchStatement": [
+    "Metastable alloys, Bulk Metallic Glasses, Non-equilibrium Processing",
+    "Functional Nanostructured Materials and Composites",
+    "Rapid Solidification, Phase transformation,",
+    "Mechanical Behaviour of Materials, Magnetic Properties",
+    "Structure- Property Relationship, Severe Plastic deformation, Cryorolling",
+    "Bulk Nanocrystalline Metals and Alloys, Low Stacking Fault Energy Materials",
+    "Development of High Temperature Oxidation Resistant Alloys"
+  ],
+  "awards": [
+    "Institute Silver Medal IIT KGP",
+    "Marie Curie Fellowship, Europe",
+    "Young Scientist Award, Germany",
+    "Deutsche Bank JuniorAward 2009",
+    "IEI Young Engineers Award 2011"
+  ],
+  "currentProjects": [
+    {
+      "title": "Archaeometallurgy and Heritage Materials Science",
+      "role": "Principal Investigator",
+      "funder": "SRIC, IIT KHARAGPUR"
+    },
+    {
+      "title": "Archaeometallurgy and Heritage Materials Science for Interdisciplinary Research, Education and Dissemination at IIT Kharagpur",
+      "role": "Principal Investigator",
+      "funder": "Indian Knowledge Systems Division, Ministry of Education, Govt. of India"
+    },
+    {
+      "title": "Characterization and anti-microbial resstance of homeopathic medicine",
+      "role": "Co-Principal Investigator",
+      "funder": "Ayush, CCRH, NEW DELHI,Ministry of Ayush, Government of India"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "Processing and characterization of bulk nanostructured brass",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "PROCESSING, CHARACTERIZATION AND DEFORMATION OF TI-FE (SN) ULTRAFINE EUTECTIC COMPOSITES",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of shape memory magneto-caloric alloys for magnetic and other applications: A non-conventional source of energy (SGBSI)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Studies on the deformation mechanism and evolution of the plasticity in nano/-ultrafine lamellar composites (SGIRG)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "High resolution x-ray diffraction laboratory",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Ni-base ultrafine composites",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Investigation of Graphene Based Transition Metal Oxide Nanocomposites as Magnetocaloric Materials for Room Temperature Magnetic Refrigeration Applications",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "High-entropy Nano-eutectic Composites: Development of a New Class of High Strength Structural Alloys",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "High-entropy Nano-eutectic Composites: Development of a New Class of High Strength Structural Alloys",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "High resolution x-ray diffraction laboratory (HXRD)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "An investigation on causes for emergence of cracks in cast Pb-5 wt.% Sb alloy spine and its possible solutions",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Comparative study of the isothermal/cyclic oxidation behavior of molybdenum sillicide based alloys and composites in wet and dry air and effect of prior oxidation on their creep strengths",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Setting Up High-End Testing Facilities of Materials for Biomaterials, Aerospace and Automotive Applications (SGDRI-2015)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/jayanta-das.webp",
+  "researchImage": "/images/research/group-jayanta-das.webp",
+  "website": "http://www.facweb.iitkgp.ac.in/~jdas/mfm/",
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-j.das",
+  "source": "IIT Kharagpur institute faculty profile"
+}

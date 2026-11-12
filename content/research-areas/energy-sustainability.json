@@ -1,0 +1,28 @@
+{
+  "slug": "energy-sustainability",
+  "order": 6,
+  "title": "Materials for Energy & Sustainability",
+  "short": "Batteries, hydrogen and cleaner metallurgy — materials for a lower-carbon industry.",
+  "overview": [
+    "Materials sit at the centre of the energy transition. Research in this area covers rechargeable battery and solid-electrolyte materials, hydrogen generation and storage alloys, solid oxide fuel cell components and other materials for clean energy technologies.",
+    "Sustainability runs through the department’s metallurgy as well: metal recycling, recovery of value from industrial waste, hydrogen-based processing and lower-energy routes for iron and steel."
+  ],
+  "themes": [
+    "Battery materials",
+    "Hydrogen storage",
+    "Fuel cells",
+    "Solar energy materials",
+    "Recycling and circular materials",
+    "Sustainable metallurgy",
+    "Materials for clean energy technologies"
+  ],
+  "image": "/images/research/area-energy-sustainability.webp",
+  "imageCredit": "chetan-singh",
+  "imageAlt": "Three false-coloured electron micrographs of spherical alloy particles",
+  "labs": [
+    "X-Ray Diffraction Lab",
+    "Thermal Analysis Lab",
+    "SEM Lab",
+    "Powder Metallurgy Lab"
+  ]
+}

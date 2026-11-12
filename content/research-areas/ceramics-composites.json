@@ -1,0 +1,28 @@
+{
+  "slug": "ceramics-composites",
+  "order": 3,
+  "title": "Ceramics & Composites",
+  "short": "Engineered ceramics, coatings and composites for heat, wear, the body and beyond.",
+  "overview": [
+    "Ceramics and composites combine materials to reach properties no single phase can provide. Research here covers structural and functional ceramics, metal matrix and nanocomposites, functionally graded materials, glass and glass-ceramics, and ceramic and composite biomaterials for bone repair.",
+    "Processing routes such as powder metallurgy, spark plasma sintering, thermal spraying and electrodeposition are studied together with the mechanical, tribological and corrosion behaviour of the finished material."
+  ],
+  "themes": [
+    "Advanced ceramics",
+    "Ceramic processing",
+    "Composite materials",
+    "Nanocomposites",
+    "High-performance materials"
+  ],
+  "image": "/images/research/area-ceramics-composites.webp",
+  "imageCredit": "mangal-roy",
+  "imageAlt": "Micro-computed tomography maps of a porous scaffold showing defect volume distribution",
+  "labs": [
+    "Powder Metallurgy Lab",
+    "Spark Plasma Sintering Lab",
+    "SEM Lab",
+    "X-Ray Diffraction Lab",
+    "Mechanical Characterization Lab",
+    "Corrosion Lab"
+  ]
+}

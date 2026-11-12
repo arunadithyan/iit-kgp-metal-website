@@ -1,0 +1,344 @@
+{
+  "name": "Debalay Chakrabarti",
+  "slug": "debalay-chakrabarti",
+  "designation": "Professor",
+  "isHead": false,
+  "email": "debalay@metal.iitkgp.ac.in",
+  "phone": "+91-3222-283282",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Physical metallurgy",
+    "Mechanical metallurgy",
+    "Iron & steel technology",
+    "Advanced Materials Processing",
+    "Deformation and Fracture of Materials"
+  ],
+  "areas": [
+    "physical-mechanical",
+    "extractive-process"
+  ],
+  "researchStatement": [
+    "Research Group website link: https://sites.google.com/view/debalaychakrabarti/welcome",
+    "Research Areas :",
+    "I am a dedicated researcher on physical and mechanical metallurgy of Steel and my interest areas can be classified into the following broad categories:",
+    "(1) Development of microstructure and texture in steel during thermo-mechanical processing.",
+    "(2) Studying the effect of microstructure and texture on mechanical properties of steel: especially ductile-to-brittle transition behaviour and low-temperature toughness.",
+    "(3) Development of steel grades having high strength and high toughness.",
+    "(4) Characterization of macro- and micro-segregation in continuous cast slab and studying their effect on slab-reheating, rolling and final mechanical properties.",
+    "(5) Developing novel grain structures in low-carbon (ferritic) steels, such as, ultra-fine grain structure or bimodal grain structures, and evaluating their effect on the mechanical properties (primarily tensile properties and toughness).",
+    "(6) Understanding the role of so-called harmful inclusions, such as, TiN and MnS and precipitates in generating ductile and brittle fracture in steel and improving the mechanical properties in spite of the presence of large inclusions, by controlling the microstructure (through careful processing and heat-treatment).",
+    "(7) Studying the formation of various microalloy precipitates, such as, Nb(C,N), V(C,N), (Ti, Mo)C during hot-rolling, thermo-mechanical controlled rolling and also cold-rolling and annealing treatments of HSLA steels and evaluating the effect of those precipitates on the microstructure, texture and mechanical properties.",
+    "(8) Defect initiation and its control in metals and alloys."
+  ],
+  "awards": [
+    "Key Reader Award for 2023 from Metallurgical and Materials Transactions journal.",
+    "Key Reader Award 2022"
+  ],
+  "currentProjects": [
+    {
+      "title": "A fresh perspective on the evolution of atom clusters and microalloy precipitates in steels and their effects on properties",
+      "role": "Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "A fresh perspective on the evolution of atom clusters and microalloy precipitates in steels and their effects on properties",
+      "role": "Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "A study on the evolution and effect of atom clusters and alloy carbide precipitates in nano-bainitic steel",
+      "role": "Principal Investigator",
+      "funder": "Department of Atomic Energy (DAE)"
+    },
+    {
+      "title": "Mechanical Testing of Materials",
+      "role": "Principal Investigator",
+      "funder": "VARIOUS PRIVATE/GOVERNMENT ORGANISATIONS"
+    },
+    {
+      "title": "Assam Skill University (ASU) Management and Operating System Development",
+      "role": "Co-Principal Investigator",
+      "funder": "KPMG ADVISORY SERVICES PRIVATE LIMITED"
+    },
+    {
+      "title": "Charge for XRD and FESEM at DHI CoE AMT",
+      "role": "Co-Principal Investigator",
+      "funder": "Various Government and Non-Government Organisations"
+    },
+    {
+      "title": "Designing a synthetic slag for inclusion control of LCAK structural steel (DHI part)",
+      "role": "Co-Principal Investigator",
+      "funder": "Ministry of Heavy Industries and Public Enterprises, GoI,TATA STEEL LIMITED"
+    },
+    {
+      "title": "Designing a synthetic slag for inclusion control of LCAK structural steel (Industry part)",
+      "role": "Co-Principal Investigator",
+      "funder": "Ministry of Heavy Industries and Public Enterprises, GoI,TATA STEEL LIMITED"
+    },
+    {
+      "title": "Evaluation of Mechanical Properties such as Tensile, Creep, LCF, KIC values of an Important Cast Ni Based Superalloy (BZL-12Y)",
+      "role": "Co-Principal Investigator",
+      "funder": "Aeronautics R and D Board"
+    },
+    {
+      "title": "Inter IIT Sports Meet",
+      "role": "Co-Principal Investigator",
+      "funder": "Various Sponsors"
+    },
+    {
+      "title": "Inter IIT Sports Meet_(External funding)",
+      "role": "Co-Principal Investigator",
+      "funder": "Sponsored Research and Industrial Consultancy (SRIC)"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "PREPARATION OF CAST-IRON EXPERIMENTAL MELT",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Chemical composition and Mechanical property evaluation for SVEC Construction Ltd.",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "DEVELOPING NEW GRADE OF ADVANCED HIGH STRENGTH STEEL WITH MIXED GRAIN STRUCTURE",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "ACHIEVING UNIFORMLY FINE FERRITE GRAIN STRUCTURE IN NB-MICROALLOYED HSLA STEELS",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "DEVELOPMENT AND EFFECT OF BIMODAL GRAIN STRUCTURES IN HSLA STEELS",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "INNOVOTIVE HEAT-TREATMENT OF CAST MICROALLOYED STEELS FOR IMPROVING THE PROPERTIES",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "DEVELOPMENT OF ADVANCED HIGH STRENGTH AUTOMOTIVE STEEL THROUGH Q & P TREATMENT",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "MICROSTRUCTURE TEXTURE TOUGHNESS RELATION IN HIGH STRENGTH AUTOMOTIVE",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "MICROSTRUCTURE TEXTURE TOUGHNESS RELATION IN HIGH STRENGTH AUTOMOTIVE",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "CHARPY IMPACT TESTING OF TMT REBAR FROM TATA STEEL",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Effect of ferrite grain structure on the mechanical properties of steel",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Process induced microstructural variation towards improved ductile brittle transition temperature of 9cr-Mo steel",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Comparative study between V and Nb micro alloyed steels from Tata Steel in terms of precipitation strengthening",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Improving the impact toughness of low-carbon steel by controlling the crystallographic texture (SGIRG)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Improving the impact toughness of low-carbon steel by controlling the microstructure and crystallographic texture",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Improving the impact transition behavior of high strength naval selects by refining the effective grain size of matrix microstructure",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Improving the Impact Toughness of High Strength Linepipe Steel from Tata Steel",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Setting Up High-End Testing Facilities of Materials for Biomaterials, Aerospace and Automotive Applications (SGDRI-2015)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Understanding Precipitation Behaviour and Micro-structural Evolution at Different Stages of Processing of CRGO Steel",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Alloy Segregation in Baron added 9Cr-1Mo Steel Under Different Thermal and Thermo-mechanical Condition",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Evaluation of Fracture and Fatique Crack Growth (FCG) Behaviour of SS304HCu Weld Material",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Evaluation of Fracture and Fatigue Crack Growth (FCG) for IN625 Cast Material",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Understanding the Effect of Steel Composition on the Charpy Impact Toughness of High-Strength (1000Mpa) Naval Grade Steel",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Project proposal on the premature failure of thermomechanically treated concrete reinforcing steel bars (TMT rebars) during bend testing and the characterization of rebars of different sizes",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Research on the Development of High-Strength Vanadium Microalloyed Steels for Structural Purpose",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Consultancy Project on the Problem faced by Copper Curves, Kolkata",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "An investigation on causes for emergence of cracks in cast Pb-5 wt.% Sb alloy spine and its possible solutions",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of dense and porous Titanium components via powder metallurgy route for biomedical applications",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of ductile cast iron for spent fuel subassembly cask for PFBR",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of duplex stainless steel",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of High Performance Materials for Various Defence Related Applications",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Rotary Hearth Furnace Technology for Treating Off Grade Iron Ore Fines of Indian Origin Including Magnetite Ore (UAY_I_IITKGP_018)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "ELIMINATION OF DEFECTS FROM LEAD CASTING FOR PLANTE BATTERIES",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Evaluation of Creep Crack Growth (CCG) Behaviour for IN625 Cast Material",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Evaluation of Creep Crack Growth (CCG) Behaviour of SS 304HCu Weld Material",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Exploring the potential of rare earth elements (REE) as inclusion modifier towards the production of inclusion-critical special-grade low carbon micro-alloyed steel",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Failure Analysis of Reformer PIGTAILS",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Manufacturing of Shells for Field Guns with Improved Design and Performance (Project ID.:6596)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Microalloyed Bainitic Steels with High Strength, Toughness and Fatigue Resistance for Auto Components",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Non Metallic Inclusions (NMI) and its Control, New Steel Products through Energy Efficient EAF at HEC",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "QUALITY IMPROVEMENT OF SILVER MEDALLION OBTAINED FROM KOLKATA MINT",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Research Services for Studying and Analysing the Phenomenon of Segregation in T-72/T-90 PYT Barrels",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Scheme for Promotion of Academic and Research Collaboration (SPARC)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Scheme for Promotion of Academic and Research Collaboration (SPARC) - IIT Kharagpur as a Nodal Institute",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Study of crack growth mechanism of nickel base super alloy GTM Su 718 under constant load at elevated temperature",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Thermo-mechanically Processed High Strength Baintic Steel Rails for Indian Railways - TBR Bridge Project",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Thermomechanically processed high strength bainitic steel rails for Indian Railways",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Understanding EB welding of Copper-Chromium-Ziroconium alloy through real experiments and data analysis using soft computing",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/debalay-chakrabarti.webp",
+  "researchImage": "/images/research/group-debalay-chakrabarti.webp",
+  "website": "https://sites.google.com/view/debalaychakrabarti/welcome",
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-debalay",
+  "source": "IIT Kharagpur institute faculty profile"
+}

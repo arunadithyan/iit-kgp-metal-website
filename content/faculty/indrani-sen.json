@@ -1,0 +1,79 @@
+{
+  "name": "Indrani Sen",
+  "slug": "indrani-sen",
+  "designation": "Professor",
+  "isHead": false,
+  "email": "indrani.sen@metal.iitkgp.ac.in",
+  "phone": "+91-3222-283252",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Shape memory alloys and smart materials",
+    "Improved Structural materials",
+    "Additive and Laser based Manufacturing",
+    "Marine Structural Engineering",
+    "Advanced Alloys & Superalloys"
+  ],
+  "areas": [
+    "physical-mechanical",
+    "extractive-process",
+    "functional-devices"
+  ],
+  "researchStatement": [
+    "One of the primary focus of the group is to correlate microstructure with small scale mechanical properties of NiTi based shape memory alloys. SMAs with a large extent of strain recoverability, termed as pseudoelasticity is increasingly used for miniaturized devices as cardio-vascular stents, sensors, micro-actuators, MEMS etc. Orientation of the grains significantly affect and control the extent of pseudoelasticity. Small scale mechanical performances of such SMAs with a special emphasis on determining the best possible orientations that yield best pseudoelasticity are characterized by the group by implementing indentation.",
+    "Mechanical performance and especially fatigue behavior of metallic alloys used for biomedical applications are of serious concern. One of the primary focus of the group is to characterize the in-vitro tensile and fatigue performances of such alloys such as Steels, NiTi and Ti alloys. Biomedical implants including cardiovascular stents, orthodontic braces etc. are used in the form of wires. Such implants tend to withstand corrosive atmosphere inside the body along with substantial stresses and their fluctuations for prolonged periods. To characterize their performance, tensile and fatigue properties of wires are studied by the group by immersing the wires in body like atmosphere in simulated body fluids along with the application of fluctuating loads. Moreover, studies are also performed on alloys used for marine applications, for example Steels with the application of saline water along with monotonic and fluctuating loads.",
+    "High temperature alloys such as newly developed third generation TiAl based intermetallic alloys are increasingly used in aerospace applications owing to their outstanding high temperature strength. Performance of such alloys with the simultaneous application of higher temperatures and fluctuating loads are aimed to be investigated by the group. The objective is to characterize the high temperature mechanical performances of indigenously produced alloys which would be beneficial for aerospace and defense applications."
+  ],
+  "awards": [
+    "Venus InternationalWomen Award",
+    "Av Humboldt Fellowship",
+    "Institute Silver Medal,IIT Kgp",
+    "National Doctoral Fellowship",
+    "Alexander von Humboldt Renewed Research Stay Fellowship"
+  ],
+  "currentProjects": [],
+  "completedProjects": [
+    {
+      "title": "Study on the small scale deformation bahaviour of NiTi based shape nemmory alloys",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "In-vitro Mechanical Characterization of NiTi Based Shape Memory Alloys",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Evaluation of Microstructural Influence on the Mechanical Properties of Laser Cladded Tool Steel",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Evaluation of Microstructural Influence on the Mechanical Properties of Laser Cladded Tool Steel",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Characterizing mechanical performance of materials at small length scale",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of High Performance Materials for Various Defence Related Applications",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Setting Up High-End Testing Facilities of Materials for Biomaterials, Aerospace and Automotive Applications (SGDRI-2015)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/indrani-sen.webp",
+  "researchImage": "/images/research/group-indrani-sen.webp",
+  "website": "https://sites.google.com/view/mmprlab-iitkgp",
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-indrani.sen",
+  "source": "IIT Kharagpur institute faculty profile"
+}

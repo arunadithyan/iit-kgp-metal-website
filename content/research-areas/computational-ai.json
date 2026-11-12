@@ -1,0 +1,24 @@
+{
+  "slug": "computational-ai",
+  "order": 4,
+  "title": "Computational Materials Science & AI",
+  "short": "Atoms to components in silico: simulation, thermodynamics and machine learning for materials design.",
+  "overview": [
+    "Computational materials science predicts structure and properties before a sample is made. Methods in use across the department include first-principles and molecular dynamics simulation, dislocation dynamics, phase-field and crystal plasticity modelling, computational thermodynamics and process simulation.",
+    "Data-driven methods — neural networks, evolutionary optimisation and materials informatics — are increasingly coupled to these models to screen alloys, battery materials and processing routes faster than experiment alone allows."
+  ],
+  "themes": [
+    "Computational materials engineering",
+    "Materials modelling and simulation",
+    "Artificial intelligence in materials science",
+    "Machine learning for materials discovery",
+    "Data-driven materials design",
+    "Computational thermodynamics"
+  ],
+  "image": "/images/research/area-computational-ai.webp",
+  "imageCredit": "amlan-dutta",
+  "imageAlt": "Composite of atomistic simulation snapshots and stress–strain results for dislocations and nanowires",
+  "labs": [
+    "Computer Lab"
+  ]
+}

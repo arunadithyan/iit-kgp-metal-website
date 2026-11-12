@@ -1,0 +1,30 @@
+{
+  "slug": "extractive-process",
+  "order": 2,
+  "title": "Extractive & Process Metallurgy",
+  "short": "From ore, scrap and residue to metal, with less energy and less waste.",
+  "overview": [
+    "Extractive and process metallurgy turns raw and secondary resources into metals and alloys. The work spans iron and steelmaking, pyrometallurgy, hydrometallurgy and electrometallurgy, and the recovery of critical metals from industrial residues and end-of-life products.",
+    "Process metallurgy carries the same thinking downstream: melting and casting, welding and joining, powder metallurgy, laser and additive manufacturing, and surface engineering, with modelling used to understand and optimise each step."
+  ],
+  "themes": [
+    "Mineral processing",
+    "Pyrometallurgy",
+    "Hydrometallurgy",
+    "Electrometallurgy",
+    "Sustainable metal extraction",
+    "Advanced manufacturing and processing"
+  ],
+  "image": "/images/research/area-extractive-process.webp",
+  "imageCredit": "chenna-rao-borra",
+  "imageAlt": "Process flowsheet: bauxite residue roasted, leached and smelted to recover alumina, metal and rare earths",
+  "labs": [
+    "Melting & Casting Lab",
+    "Powder Metallurgy Lab",
+    "Spark Plasma Sintering Lab",
+    "Thermal Analysis Lab",
+    "DTA Lab",
+    "Optical Emission Spectroscopy Lab",
+    "Machine Shop"
+  ]
+}

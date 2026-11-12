@@ -1,0 +1,1032 @@
+{
+  "title": "Research Scholars",
+  "note": "Ph.D. scholars as listed on faculty group pages.",
+  "people": [
+    {
+      "name": "Debopriyo Banerjee",
+      "area": "Computational Materials Science",
+      "supervisor": "Amlan Dutta",
+      "supervisorSlug": "amlan-dutta"
+    },
+    {
+      "name": "Raashid Firoz",
+      "area": "Mechanical behavior of high temperature alloy",
+      "supervisor": "Amlan Dutta",
+      "supervisorSlug": "amlan-dutta"
+    },
+    {
+      "name": "Ranesh Kumar Saha",
+      "area": "Computational Materials Engineering",
+      "supervisor": "Amlan Dutta",
+      "supervisorSlug": "amlan-dutta"
+    },
+    {
+      "name": "Abhilasha Pandey",
+      "area": "Sustainable Finance",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Arghyarupa Mallick",
+      "area": "2D materials reinforced Sustainable composite",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Bazaru Likhitha",
+      "area": "Biochar based water filter",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Bethelehem Burju Bukate",
+      "area": "3D printing of 2D materials",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Debasmita Datta",
+      "area": "Biodegradation of pesticides",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Dipanwita Mitra",
+      "area": "Photonics",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Dipika Sarkar",
+      "area": "Bioceramics",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Komal Dubey",
+      "area": "Wastewater Treatment",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Md Tahrim Alam",
+      "area": "Environmental Remediation",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Noorbasha Bhavani Sai",
+      "area": "2D materials for green energy",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Omkar Jagadish Sahu",
+      "area": "Manganese Steel",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Pratyasha Das",
+      "area": "Wastewater Treatment",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Rupam Bandyopadhyay",
+      "area": "Materials for environmental remediation",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Sanjit Kumar",
+      "area": "Processing and characterization of ultra-high temperature ceramic matrix composites",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Saswata Goswami",
+      "area": "2D materials for energy harvesting",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Shivangi Pandey",
+      "area": "2D materials for environmental applications",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Sibani Mahapatra",
+      "area": "nanomaterials & nanocomposites",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Suman Supriya Sahu",
+      "area": "Sustainable materials for water treatment",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Tanmoy Majhi",
+      "area": "Solid-liquid interaction on 2D materials",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Tapas Pal",
+      "area": "3D printing of metal-ceramic",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Zahoor Manzoor",
+      "area": "Environmental Remediation",
+      "supervisor": "Chandra Sekhar Tiwary",
+      "supervisorSlug": "chandra-sekhar-tiwary"
+    },
+    {
+      "name": "Arundhati Jena",
+      "area": "Extractive metallurgy and recycling",
+      "supervisor": "Chenna Rao Borra",
+      "supervisorSlug": "chenna-rao-borra"
+    },
+    {
+      "name": "Borra Venkata Lakshmi",
+      "area": "Extractive metallurgy and recycling",
+      "supervisor": "Chenna Rao Borra",
+      "supervisorSlug": "chenna-rao-borra"
+    },
+    {
+      "name": "Debjani Bhowmik",
+      "area": "E Waste Management",
+      "supervisor": "Chenna Rao Borra",
+      "supervisorSlug": "chenna-rao-borra"
+    },
+    {
+      "name": "Gautam Behera",
+      "area": "Extractive metallurgy and recycling",
+      "supervisor": "Chenna Rao Borra",
+      "supervisorSlug": "chenna-rao-borra"
+    },
+    {
+      "name": "Gutti Chinna Chandrudu",
+      "area": "Extractive metallurgy and recycling",
+      "supervisor": "Chenna Rao Borra",
+      "supervisorSlug": "chenna-rao-borra"
+    },
+    {
+      "name": "Lukka Venkata Hanuma Kumar",
+      "area": "Extractive metallurgy and recycling",
+      "supervisor": "Chenna Rao Borra",
+      "supervisorSlug": "chenna-rao-borra"
+    },
+    {
+      "name": "Preeti Prakash Sahoo",
+      "area": "Process Metallurgy",
+      "supervisor": "Chenna Rao Borra",
+      "supervisorSlug": "chenna-rao-borra"
+    },
+    {
+      "name": "Sonali Rout",
+      "area": "Extractive metallurgy and recycling",
+      "supervisor": "Chenna Rao Borra",
+      "supervisorSlug": "chenna-rao-borra"
+    },
+    {
+      "name": "Srichandan Rajballav",
+      "area": "Sustainable Metal Extraction",
+      "supervisor": "Chenna Rao Borra",
+      "supervisorSlug": "chenna-rao-borra"
+    },
+    {
+      "name": "Swarnaprabha Dehury",
+      "area": "Process metallurgy",
+      "supervisor": "Chenna Rao Borra",
+      "supervisorSlug": "chenna-rao-borra"
+    },
+    {
+      "name": "Amir Hasan",
+      "area": "Effect of Silicin on Nickel based superalloys",
+      "supervisor": "Debalay Chakrabarti",
+      "supervisorSlug": "debalay-chakrabarti"
+    },
+    {
+      "name": "Anmol Bakshi",
+      "area": "Damage evolution during deformation in metallic alloys",
+      "supervisor": "Debalay Chakrabarti",
+      "supervisorSlug": "debalay-chakrabarti"
+    },
+    {
+      "name": "Kumar Aniket Anand",
+      "area": "Processing, microstructure, and property relationship in Vanadium microalloyed structural steels",
+      "supervisor": "Debalay Chakrabarti",
+      "supervisorSlug": "debalay-chakrabarti"
+    },
+    {
+      "name": "Pongurusenthil P",
+      "area": "Microstructure-toughness relationship in High Strength Bainitic Steel",
+      "supervisor": "Debalay Chakrabarti",
+      "supervisorSlug": "debalay-chakrabarti"
+    },
+    {
+      "name": "Poonam Gupta",
+      "area": "Materials Science",
+      "supervisor": "Gobinda Das Adhikary",
+      "supervisorSlug": "gobinda-das-adhikary"
+    },
+    {
+      "name": "Ashish Agrawal",
+      "area": "Alternative Routes of Ironmaking",
+      "supervisor": "Gour Gopal Roy",
+      "supervisorSlug": "gour-gopal-roy"
+    },
+    {
+      "name": "Christy Augustin",
+      "area": "CFD simulation of Shaft furnace for hydrogen reduction of iron ore",
+      "supervisor": "Gour Gopal Roy",
+      "supervisorSlug": "gour-gopal-roy"
+    },
+    {
+      "name": "Deepak Kumar Sahu",
+      "area": "Waste utilization of steel plant",
+      "supervisor": "Gour Gopal Roy",
+      "supervisorSlug": "gour-gopal-roy"
+    },
+    {
+      "name": "Md Mazharul Islam",
+      "area": "Inclusion evolution and control in steel",
+      "supervisor": "Gour Gopal Roy",
+      "supervisorSlug": "gour-gopal-roy"
+    },
+    {
+      "name": "Raj Kumar Yadav",
+      "area": "steelmaking",
+      "supervisor": "Gour Gopal Roy",
+      "supervisorSlug": "gour-gopal-roy"
+    },
+    {
+      "name": "Abhijit Kumar Khanra",
+      "area": "Microstructure and Properties of Steel",
+      "supervisor": "Indrani Sen",
+      "supervisorSlug": "indrani-sen"
+    },
+    {
+      "name": "Boopathy N",
+      "area": "Mechanical Properties of Metal to Rubber bonded structure",
+      "supervisor": "Indrani Sen",
+      "supervisorSlug": "indrani-sen"
+    },
+    {
+      "name": "Chandan Kumar",
+      "area": "Mechanical properties of metal matrix composites",
+      "supervisor": "Indrani Sen",
+      "supervisorSlug": "indrani-sen"
+    },
+    {
+      "name": "Palash Ghosh",
+      "area": "Mechanical Properties of Ti alloys",
+      "supervisor": "Indrani Sen",
+      "supervisorSlug": "indrani-sen"
+    },
+    {
+      "name": "Priyadarshini Nayak",
+      "area": "Microstructure property correlation of shape memory alloy",
+      "supervisor": "Indrani Sen",
+      "supervisorSlug": "indrani-sen"
+    },
+    {
+      "name": "Samarendra Roy",
+      "area": "Design and development of high temperature high strength Aluminum alloys by nanostructural engineering",
+      "supervisor": "Indrani Sen",
+      "supervisorSlug": "indrani-sen"
+    },
+    {
+      "name": "Anupam Bagdi",
+      "area": "Metastable alloys",
+      "supervisor": "Jayanta Das",
+      "supervisorSlug": "jayanta-das"
+    },
+    {
+      "name": "Deepsovan Mondal",
+      "area": "Metastable alloys for functional applications",
+      "supervisor": "Jayanta Das",
+      "supervisorSlug": "jayanta-das"
+    },
+    {
+      "name": "Surajit Sinha",
+      "area": "Metastable and nanostructured alloys",
+      "supervisor": "Jayanta Das",
+      "supervisorSlug": "jayanta-das"
+    },
+    {
+      "name": "A Ajay",
+      "area": "Surface Engineering",
+      "supervisor": "Jyotsna Dutta Majumdar",
+      "supervisorSlug": "jyotsna-dutta-majumdar"
+    },
+    {
+      "name": "Abhinay Rajput",
+      "area": "Advanced Processing of Materials",
+      "supervisor": "Jyotsna Dutta Majumdar",
+      "supervisorSlug": "jyotsna-dutta-majumdar"
+    },
+    {
+      "name": "Barsha Nag",
+      "area": "Surface Engineering",
+      "supervisor": "Jyotsna Dutta Majumdar",
+      "supervisorSlug": "jyotsna-dutta-majumdar"
+    },
+    {
+      "name": "Bidipta Dam",
+      "area": "Laser Materials Processing of Aluminium Alloys",
+      "supervisor": "Jyotsna Dutta Majumdar",
+      "supervisorSlug": "jyotsna-dutta-majumdar"
+    },
+    {
+      "name": "Bipasha Das",
+      "area": "Nanostructuring of Surface",
+      "supervisor": "Jyotsna Dutta Majumdar",
+      "supervisorSlug": "jyotsna-dutta-majumdar"
+    },
+    {
+      "name": "Kishan Kumar",
+      "area": "Additive Manufacturing of Materials",
+      "supervisor": "Jyotsna Dutta Majumdar",
+      "supervisorSlug": "jyotsna-dutta-majumdar"
+    },
+    {
+      "name": "Pratim Das",
+      "area": "Surface Engineering",
+      "supervisor": "Jyotsna Dutta Majumdar",
+      "supervisorSlug": "jyotsna-dutta-majumdar"
+    },
+    {
+      "name": "Raghu S",
+      "area": "Surface Engineering",
+      "supervisor": "Jyotsna Dutta Majumdar",
+      "supervisorSlug": "jyotsna-dutta-majumdar"
+    },
+    {
+      "name": "Ranit Karmakar",
+      "area": "Surface Engineering",
+      "supervisor": "Jyotsna Dutta Majumdar",
+      "supervisorSlug": "jyotsna-dutta-majumdar"
+    },
+    {
+      "name": "Somnath Biswas",
+      "area": "Advanced processing of Biomaterials",
+      "supervisor": "Jyotsna Dutta Majumdar",
+      "supervisorSlug": "jyotsna-dutta-majumdar"
+    },
+    {
+      "name": "Tapas Bera",
+      "area": "Surface Engineering",
+      "supervisor": "Jyotsna Dutta Majumdar",
+      "supervisorSlug": "jyotsna-dutta-majumdar"
+    },
+    {
+      "name": "Tarun Kumar Gayen",
+      "area": "Surface Engineering",
+      "supervisor": "Jyotsna Dutta Majumdar",
+      "supervisorSlug": "jyotsna-dutta-majumdar"
+    },
+    {
+      "name": "Anjali Kumari",
+      "area": "Advanced Materials",
+      "supervisor": "Karabi Das",
+      "supervisorSlug": "karabi-das"
+    },
+    {
+      "name": "Aravindram P",
+      "area": "Additive manufacturing",
+      "supervisor": "Karabi Das",
+      "supervisorSlug": "karabi-das"
+    },
+    {
+      "name": "Debasis Nayak",
+      "area": "Processing and Characterization of Advanced Materials",
+      "supervisor": "Karabi Das",
+      "supervisorSlug": "karabi-das"
+    },
+    {
+      "name": "Juan David Matallana Guerrero",
+      "area": "Surface Engineering",
+      "supervisor": "Karabi Das",
+      "supervisorSlug": "karabi-das"
+    },
+    {
+      "name": "Kona Durga Prasadu",
+      "area": "Processing and Characterization of Advanced Materials",
+      "supervisor": "Karabi Das",
+      "supervisorSlug": "karabi-das"
+    },
+    {
+      "name": "Pankaj Raju",
+      "area": "Coatings",
+      "supervisor": "Karabi Das",
+      "supervisorSlug": "karabi-das"
+    },
+    {
+      "name": "Siddha Sankalpa Sethi",
+      "area": "Synthesis and characterization of advanced materials",
+      "supervisor": "Karabi Das",
+      "supervisorSlug": "karabi-das"
+    },
+    {
+      "name": "Snehasish Adhikari",
+      "area": "Processing and Characterization of Advanced Materials",
+      "supervisor": "Karabi Das",
+      "supervisorSlug": "karabi-das"
+    },
+    {
+      "name": "Humera Parwin",
+      "area": "Advanced Material",
+      "supervisor": "Koundinya N T B N",
+      "supervisorSlug": "koundinya-n-t-b-n"
+    },
+    {
+      "name": "Ayyappan M",
+      "area": "Laser cladding of composite (metal-ceramic) materials for ballistic applications",
+      "supervisor": "Koushik Biswas",
+      "supervisorSlug": "koushik-biswas"
+    },
+    {
+      "name": "Partha Sakha Das",
+      "area": "Electrode materials for Sodium Ion Battery",
+      "supervisor": "Koushik Biswas",
+      "supervisorSlug": "koushik-biswas"
+    },
+    {
+      "name": "Priyanka Pandharinath Gangurde",
+      "area": "Advanced Manufacturing and Lithium-Ion Battery Production Engineering",
+      "supervisor": "Koushik Biswas",
+      "supervisorSlug": "koushik-biswas"
+    },
+    {
+      "name": "Shubhranshu Shekhar Panda",
+      "area": "Laser cladding materials",
+      "supervisor": "Koushik Biswas",
+      "supervisorSlug": "koushik-biswas"
+    },
+    {
+      "name": "Amir Hasan",
+      "area": "Effect of Silicin on Nickel based superalloys",
+      "supervisor": "Manas Paliwal",
+      "supervisorSlug": "manas-paliwal"
+    },
+    {
+      "name": "Dattatreya Pati",
+      "area": "Ni alloys",
+      "supervisor": "Manas Paliwal",
+      "supervisorSlug": "manas-paliwal"
+    },
+    {
+      "name": "Gaurav",
+      "area": "Refractories",
+      "supervisor": "Manas Paliwal",
+      "supervisorSlug": "manas-paliwal"
+    },
+    {
+      "name": "Moumita Kundu",
+      "area": "Waste gasification",
+      "supervisor": "Manas Paliwal",
+      "supervisorSlug": "manas-paliwal"
+    },
+    {
+      "name": "Nilamadhaba Sahu",
+      "area": "FerroAlloys",
+      "supervisor": "Manas Paliwal",
+      "supervisorSlug": "manas-paliwal"
+    },
+    {
+      "name": "Noorbasha Bhavani Sai",
+      "area": "2D materials for green energy",
+      "supervisor": "Manas Paliwal",
+      "supervisorSlug": "manas-paliwal"
+    },
+    {
+      "name": "Prakash Gupta",
+      "area": "Dephosphorisation in BOF reactor",
+      "supervisor": "Manas Paliwal",
+      "supervisorSlug": "manas-paliwal"
+    },
+    {
+      "name": "Siddharth Kiran",
+      "area": "Soft biomaterial",
+      "supervisor": "Mangal Roy",
+      "supervisorSlug": "mangal-roy"
+    },
+    {
+      "name": "Souvadra Das",
+      "area": "Embryonic ECV for regenerative medicine",
+      "supervisor": "Mangal Roy",
+      "supervisorSlug": "mangal-roy"
+    },
+    {
+      "name": "Swarnaprabha Dehury",
+      "area": "Process metallurgy",
+      "supervisor": "Manish Kumar Kar",
+      "supervisorSlug": "manish-kumar-kar"
+    },
+    {
+      "name": "Adarsha Ranjan Mishra",
+      "area": "Processing and characterization of ultra high temperature ceramic matrix composite",
+      "supervisor": "Rahul Mitra",
+      "supervisorSlug": "rahul-mitra"
+    },
+    {
+      "name": "Ghewade Hrishikesh Dinkar",
+      "area": "Structure-property relation of Molybdenum Silicide Based Intermetallic Composites",
+      "supervisor": "Rahul Mitra",
+      "supervisorSlug": "rahul-mitra"
+    },
+    {
+      "name": "Jyoti Prakash Beura",
+      "area": "Processing and characterization of Cf/SiC composites:",
+      "supervisor": "Rahul Mitra",
+      "supervisorSlug": "rahul-mitra"
+    },
+    {
+      "name": "Payel Maity",
+      "area": "Polymer metal oxide composite; preparation and characterization",
+      "supervisor": "Rahul Mitra",
+      "supervisorSlug": "rahul-mitra"
+    },
+    {
+      "name": "Pritirekha Behera",
+      "area": "Fatigue behaviour of Al alloy",
+      "supervisor": "Rahul Mitra",
+      "supervisorSlug": "rahul-mitra"
+    },
+    {
+      "name": "Raashid Firoz",
+      "area": "Mechanical behavior of high temperature alloy",
+      "supervisor": "Rahul Mitra",
+      "supervisorSlug": "rahul-mitra"
+    },
+    {
+      "name": "Ramya Krishna",
+      "area": "Ceramic Matrix Composites",
+      "supervisor": "Rahul Mitra",
+      "supervisorSlug": "rahul-mitra"
+    },
+    {
+      "name": "Sadananda Behera",
+      "area": "Structure property correlations of Ni based superalloy",
+      "supervisor": "Rahul Mitra",
+      "supervisorSlug": "rahul-mitra"
+    },
+    {
+      "name": "Sanjit Kumar",
+      "area": "Processing and characterization of ultra-high temperature ceramic matrix composites",
+      "supervisor": "Rahul Mitra",
+      "supervisorSlug": "rahul-mitra"
+    },
+    {
+      "name": "Sarthak Roy",
+      "area": "High temperature materials",
+      "supervisor": "Rahul Mitra",
+      "supervisorSlug": "rahul-mitra"
+    },
+    {
+      "name": "Soma Hansda",
+      "area": "Development of high entropy ultra-high temperature ceramic coatings",
+      "supervisor": "Rahul Mitra",
+      "supervisorSlug": "rahul-mitra"
+    },
+    {
+      "name": "Sudipta Roy",
+      "area": "Structure-Property Relations in Nanocrystalline Thin Films.",
+      "supervisor": "Rahul Mitra",
+      "supervisorSlug": "rahul-mitra"
+    },
+    {
+      "name": "Thinesh Kumar S",
+      "area": "Development of decorative coatings through advanced physical vapour deposition",
+      "supervisor": "Rahul Mitra",
+      "supervisorSlug": "rahul-mitra"
+    },
+    {
+      "name": "Virushni S N",
+      "area": "Processing and structure-property relations of ultra-high temperature ceramic composites",
+      "supervisor": "Rahul Mitra",
+      "supervisorSlug": "rahul-mitra"
+    },
+    {
+      "name": "Srijita Chakraborty",
+      "area": "Computational Materials Science",
+      "supervisor": "Sankha Mukherjee",
+      "supervisorSlug": "sankha-mukherjee"
+    },
+    {
+      "name": "Vinay Maithani",
+      "area": "Computational Materials Science",
+      "supervisor": "Sankha Mukherjee",
+      "supervisorSlug": "sankha-mukherjee"
+    },
+    {
+      "name": "Zimmi Singh",
+      "area": "Computational Materials Science",
+      "supervisor": "Sankha Mukherjee",
+      "supervisorSlug": "sankha-mukherjee"
+    },
+    {
+      "name": "Maniganti Anusha",
+      "area": "shape memory alloy",
+      "supervisor": "Shampa Aich",
+      "supervisorSlug": "shampa-aich"
+    },
+    {
+      "name": "Shrantik Kumar Dey",
+      "area": "Magnetic materials",
+      "supervisor": "Shampa Aich",
+      "supervisorSlug": "shampa-aich"
+    },
+    {
+      "name": "Sibani Mahapatra",
+      "area": "nanomaterials & nanocomposites",
+      "supervisor": "Shampa Aich",
+      "supervisorSlug": "shampa-aich"
+    },
+    {
+      "name": "Siddharth Kiran",
+      "area": "Soft biomaterial",
+      "supervisor": "Shampa Aich",
+      "supervisorSlug": "shampa-aich"
+    },
+    {
+      "name": "Aman Jyoti Shukla",
+      "area": "Processing-Microstructure-Texture-Property relationship of Mg alloys",
+      "supervisor": "Shiv Brat Singh",
+      "supervisorSlug": "shiv-brat-singh"
+    },
+    {
+      "name": "Ana Paula Domingos Cardoso",
+      "area": "Galvanizability of Medium Manganese Steel",
+      "supervisor": "Shiv Brat Singh",
+      "supervisorSlug": "shiv-brat-singh"
+    },
+    {
+      "name": "B Mohan Rao",
+      "area": "High strength bainitc steels for automotive applications",
+      "supervisor": "Shiv Brat Singh",
+      "supervisorSlug": "shiv-brat-singh"
+    },
+    {
+      "name": "Golla Veerappagari Suresh",
+      "area": "high strength steels",
+      "supervisor": "Shiv Brat Singh",
+      "supervisorSlug": "shiv-brat-singh"
+    },
+    {
+      "name": "Jyotiranjan Pany",
+      "area": "high strain rate flow behaviour of steels",
+      "supervisor": "Shiv Brat Singh",
+      "supervisorSlug": "shiv-brat-singh"
+    },
+    {
+      "name": "K Poorna Chander",
+      "area": "Grain boundary engineering and its effect on grain growth and phase transformation in steels",
+      "supervisor": "Shiv Brat Singh",
+      "supervisorSlug": "shiv-brat-singh"
+    },
+    {
+      "name": "Kamal Kumar Gupta",
+      "area": "Advanced High Strength Steel for Automotive Application",
+      "supervisor": "Shiv Brat Singh",
+      "supervisorSlug": "shiv-brat-singh"
+    },
+    {
+      "name": "Kumar Karuna Nidhi",
+      "area": "evolution of microstructure in cast irons and their charaterisation using ultrasonic testing",
+      "supervisor": "Shiv Brat Singh",
+      "supervisorSlug": "shiv-brat-singh"
+    },
+    {
+      "name": "Prahlad Halder",
+      "area": "Power Plant Materials",
+      "supervisor": "Shiv Brat Singh",
+      "supervisorSlug": "shiv-brat-singh"
+    },
+    {
+      "name": "Rajani Jaiswal",
+      "area": "Physical metallurgy of steels",
+      "supervisor": "Shiv Brat Singh",
+      "supervisorSlug": "shiv-brat-singh"
+    },
+    {
+      "name": "Sarbari Ganguly",
+      "area": "Evolution of microstructure in AHSS like dual phase and complex phase steels",
+      "supervisor": "Shiv Brat Singh",
+      "supervisorSlug": "shiv-brat-singh"
+    },
+    {
+      "name": "Sarojini Sahu",
+      "area": "Thermo-mechanical processing",
+      "supervisor": "Shiv Brat Singh",
+      "supervisorSlug": "shiv-brat-singh"
+    },
+    {
+      "name": "Sen Amitava Dhrubadas",
+      "area": "Surface engineering of tool steel",
+      "supervisor": "Shiv Brat Singh",
+      "supervisorSlug": "shiv-brat-singh"
+    },
+    {
+      "name": "Vinit Kumar Singh",
+      "area": "Physical metallurgy of steels",
+      "supervisor": "Shiv Brat Singh",
+      "supervisorSlug": "shiv-brat-singh"
+    },
+    {
+      "name": "Debasis Nayak",
+      "area": "Processing and Characterization of Advanced Materials",
+      "supervisor": "Siddhartha Das",
+      "supervisorSlug": "siddhartha-das"
+    },
+    {
+      "name": "Juan David Matallana Guerrero",
+      "area": "Surface Engineering",
+      "supervisor": "Siddhartha Das",
+      "supervisorSlug": "siddhartha-das"
+    },
+    {
+      "name": "Pankaj Kumar",
+      "area": "Surface Coatings",
+      "supervisor": "Siddhartha Das",
+      "supervisorSlug": "siddhartha-das"
+    },
+    {
+      "name": "Rohit Anand",
+      "area": "Energy Materials",
+      "supervisor": "Siddhartha Das",
+      "supervisorSlug": "siddhartha-das"
+    },
+    {
+      "name": "Snehasish Adhikari",
+      "area": "Processing and Characterization of Advanced Materials",
+      "supervisor": "Siddhartha Das",
+      "supervisorSlug": "siddhartha-das"
+    },
+    {
+      "name": "Subinoy Samanta",
+      "area": "Solid State and Materials Chemistry",
+      "supervisor": "Siddhartha Das",
+      "supervisorSlug": "siddhartha-das"
+    },
+    {
+      "name": "Chandan Kumar",
+      "area": "Mechanical properties of metal matrix composites",
+      "supervisor": "Siddhartha Roy",
+      "supervisorSlug": "siddhartha-roy"
+    },
+    {
+      "name": "Kumar Karuna Nidhi",
+      "area": "evolution of microstructure in cast irons and their charaterisation using ultrasonic testing",
+      "supervisor": "Siddhartha Roy",
+      "supervisorSlug": "siddhartha-roy"
+    },
+    {
+      "name": "Manish Kumar Nayak",
+      "area": "High speed laser cladding",
+      "supervisor": "Siddhartha Roy",
+      "supervisorSlug": "siddhartha-roy"
+    },
+    {
+      "name": "Mohammed Nazeer",
+      "area": "Processing and characterization of composite materials",
+      "supervisor": "Siddhartha Roy",
+      "supervisorSlug": "siddhartha-roy"
+    },
+    {
+      "name": "Sakshi Tiwari",
+      "area": "Laser processing of metallic materials",
+      "supervisor": "Siddhartha Roy",
+      "supervisorSlug": "siddhartha-roy"
+    },
+    {
+      "name": "Siddharth",
+      "area": "Porous ceramic and metal/ceramic composites",
+      "supervisor": "Siddhartha Roy",
+      "supervisorSlug": "siddhartha-roy"
+    },
+    {
+      "name": "Arnab Bhowmick",
+      "area": "Microstructure and texture correlation with mechanical properties of Mg alloys",
+      "supervisor": "Somjeet Biswas",
+      "supervisorSlug": "somjeet-biswas"
+    },
+    {
+      "name": "Gaurav Pandey",
+      "area": "Processing-Microstructure-Texture-Property correlation in Dual-phase steels",
+      "supervisor": "Somjeet Biswas",
+      "supervisorSlug": "somjeet-biswas"
+    },
+    {
+      "name": "Soumyadip Patra",
+      "area": "Processing-Microstructure-Texture-Property relationship of DP steels",
+      "supervisor": "Somjeet Biswas",
+      "supervisorSlug": "somjeet-biswas"
+    },
+    {
+      "name": "Sujit Kumar Nayak",
+      "area": "Processing-Microstructure-Texture-Property correlation in Ti-alloys",
+      "supervisor": "Somjeet Biswas",
+      "supervisorSlug": "somjeet-biswas"
+    },
+    {
+      "name": "Hridayam Krishna Hore",
+      "area": "Metal Additive Manufacturing",
+      "supervisor": "Sujoy Kumar Kar",
+      "supervisorSlug": "sujoy-kumar-kar"
+    },
+    {
+      "name": "Om Puri Gosain",
+      "area": "Physical and mechanical metallurgy of a Ni based superalloy",
+      "supervisor": "Sujoy Kumar Kar",
+      "supervisorSlug": "sujoy-kumar-kar"
+    },
+    {
+      "name": "Ravikant Kumar",
+      "area": "Additive Manufacturing",
+      "supervisor": "Sujoy Kumar Kar",
+      "supervisorSlug": "sujoy-kumar-kar"
+    },
+    {
+      "name": "Sampreeth S",
+      "area": "Physical Metallurgy of steel",
+      "supervisor": "Sujoy Kumar Kar",
+      "supervisorSlug": "sujoy-kumar-kar"
+    },
+    {
+      "name": "Sandipan Das",
+      "area": "Processing , Microstructure , Mechanical property in Ni based superalloy",
+      "supervisor": "Sujoy Kumar Kar",
+      "supervisorSlug": "sujoy-kumar-kar"
+    },
+    {
+      "name": "Abhisek Jena",
+      "area": "Advanced steel",
+      "supervisor": "Sumantra Mandal",
+      "supervisorSlug": "sumantra-mandal"
+    },
+    {
+      "name": "Abhishek Kumar Arya",
+      "area": "Advanced Material",
+      "supervisor": "Sumantra Mandal",
+      "supervisorSlug": "sumantra-mandal"
+    },
+    {
+      "name": "Humera Parwin",
+      "area": "Advanced Material",
+      "supervisor": "Sumantra Mandal",
+      "supervisorSlug": "sumantra-mandal"
+    },
+    {
+      "name": "K Poorna Chander",
+      "area": "Grain boundary engineering and its effect on grain growth and phase transformation in steels",
+      "supervisor": "Sumantra Mandal",
+      "supervisorSlug": "sumantra-mandal"
+    },
+    {
+      "name": "Prahlad Halder",
+      "area": "Power Plant Materials",
+      "supervisor": "Sumantra Mandal",
+      "supervisorSlug": "sumantra-mandal"
+    },
+    {
+      "name": "Sarojini Sahu",
+      "area": "Thermo-mechanical processing",
+      "supervisor": "Sumantra Mandal",
+      "supervisorSlug": "sumantra-mandal"
+    },
+    {
+      "name": "Sarthak Roy",
+      "area": "High temperature materials",
+      "supervisor": "Sumantra Mandal",
+      "supervisorSlug": "sumantra-mandal"
+    },
+    {
+      "name": "Subhrajit Patnaik",
+      "area": "Permanent Magnet",
+      "supervisor": "Sumantra Mandal",
+      "supervisorSlug": "sumantra-mandal"
+    },
+    {
+      "name": "Sudipta Roy",
+      "area": "Structure-Property Relations in Nanocrystalline Thin Films.",
+      "supervisor": "Sumantra Mandal",
+      "supervisorSlug": "sumantra-mandal"
+    },
+    {
+      "name": "Abhinay Rajput",
+      "area": "Advanced Processing of Materials",
+      "supervisor": "Tapas Kumar Bandyopadhyay",
+      "supervisorSlug": "tapas-kumar-bandyopadhyay"
+    },
+    {
+      "name": "Anindya Khamaru",
+      "area": "Biomaterials",
+      "supervisor": "Tapas Kumar Bandyopadhyay",
+      "supervisorSlug": "tapas-kumar-bandyopadhyay"
+    },
+    {
+      "name": "Bharat Behl",
+      "area": "JOING OF MATERIALS",
+      "supervisor": "Tapas Kumar Bandyopadhyay",
+      "supervisorSlug": "tapas-kumar-bandyopadhyay"
+    },
+    {
+      "name": "Navanit Kumar",
+      "area": "High Strength Steel",
+      "supervisor": "Tapas Kumar Bandyopadhyay",
+      "supervisorSlug": "tapas-kumar-bandyopadhyay"
+    },
+    {
+      "name": "Omkar Jagadish Sahu",
+      "area": "Manganese Steel",
+      "supervisor": "Tapas Kumar Bandyopadhyay",
+      "supervisorSlug": "tapas-kumar-bandyopadhyay"
+    },
+    {
+      "name": "Shikha Priyadarshini",
+      "area": "Copyright Law",
+      "supervisor": "Tapas Kumar Bandyopadhyay",
+      "supervisorSlug": "tapas-kumar-bandyopadhyay"
+    },
+    {
+      "name": "Shiuli Chakraborty",
+      "area": "Waste to wealth",
+      "supervisor": "Tapas Kumar Bandyopadhyay",
+      "supervisorSlug": "tapas-kumar-bandyopadhyay"
+    },
+    {
+      "name": "Supriya Mondal",
+      "area": "Technology Entrepreneurship and Innovation policy.",
+      "supervisor": "Tapas Kumar Bandyopadhyay",
+      "supervisorSlug": "tapas-kumar-bandyopadhyay"
+    },
+    {
+      "name": "Akankshya Rout",
+      "area": "Glassy coating / advanced materials",
+      "supervisor": "Tapas Laha",
+      "supervisorSlug": "tapas-laha"
+    },
+    {
+      "name": "Aman Jyoti Shukla",
+      "area": "Processing-Microstructure-Texture-Property relationship of Mg alloys",
+      "supervisor": "Tapas Laha",
+      "supervisorSlug": "tapas-laha"
+    },
+    {
+      "name": "Atanu Banerjee",
+      "area": "Adhesion study between steel-bead wire and rubber material in radial tires",
+      "supervisor": "Tapas Laha",
+      "supervisorSlug": "tapas-laha"
+    },
+    {
+      "name": "Ghewade Hrishikesh Dinkar",
+      "area": "Structure-property relation of Molybdenum Silicide Based Intermetallic Composites",
+      "supervisor": "Tapas Laha",
+      "supervisorSlug": "tapas-laha"
+    },
+    {
+      "name": "Manashi Sabat",
+      "area": "High temperature alloy by powder metallurgy",
+      "supervisor": "Tapas Laha",
+      "supervisorSlug": "tapas-laha"
+    },
+    {
+      "name": "Mohammed Nazeer",
+      "area": "Processing and characterization of composite materials",
+      "supervisor": "Tapas Laha",
+      "supervisorSlug": "tapas-laha"
+    },
+    {
+      "name": "Perli Monisha",
+      "area": "Nanofertilizers and environmental toxicity",
+      "supervisor": "Tapas Laha",
+      "supervisorSlug": "tapas-laha"
+    },
+    {
+      "name": "Sudhansu Maharana",
+      "area": "High temperature alloy via powder metallurgy",
+      "supervisor": "Tapas Laha",
+      "supervisorSlug": "tapas-laha"
+    },
+    {
+      "name": "Arghyarupa Mallick",
+      "area": "2D materials reinforced Sustainable composite",
+      "supervisor": "Tarun Kumar Kundu",
+      "supervisorSlug": "tarun-kumar-kundu"
+    },
+    {
+      "name": "Srichandan Rajballav",
+      "area": "Sustainable Metal Extraction",
+      "supervisor": "Tarun Kumar Kundu",
+      "supervisorSlug": "tarun-kumar-kundu"
+    }
+  ]
+}

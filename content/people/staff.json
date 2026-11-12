@@ -1,0 +1,57 @@
+{
+  "title": "Technical and Administrative Staff",
+  "people": [
+    {
+      "name": "A Sudarmani",
+      "designation": "Technical Superintendent"
+    },
+    {
+      "name": "Ashok Maikap",
+      "designation": "Technical Superintendent"
+    },
+    {
+      "name": "Abhik Kr Sarbajna",
+      "designation": "Executive"
+    },
+    {
+      "name": "Sayan Chakraborty",
+      "designation": "Jr. Technical Superintendent"
+    },
+    {
+      "name": "Arnab Saha",
+      "designation": "Jr. Technical Superintendent"
+    },
+    {
+      "name": "Subrata Ghosh",
+      "designation": "Senior Assistant"
+    },
+    {
+      "name": "Prasanta Das",
+      "designation": "Senior Laboratory Assistant"
+    },
+    {
+      "name": "Miska Shreekant",
+      "designation": "Senior Technician/Senior Laboratory Assistant"
+    },
+    {
+      "name": "Dibyendu Das",
+      "designation": "Senior Technician/Senior Laboratory Assistant"
+    },
+    {
+      "name": "Raghunath Hazra",
+      "designation": "Junior Technician/Junior Laboratory Assistant"
+    },
+    {
+      "name": "Surojit Das",
+      "designation": "Junior Technician/Junior Laboratory Assistant"
+    },
+    {
+      "name": "S Bhanumurthy",
+      "designation": "Senior Multi Tasking Staff Grade - I"
+    },
+    {
+      "name": "Srikanta Nayak",
+      "designation": "Senior Multi Tasking Staff Grade - II"
+    }
+  ]
+}

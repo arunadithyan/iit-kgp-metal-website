@@ -1,0 +1,239 @@
+{
+  "name": "Chandra Sekhar Tiwary",
+  "slug": "chandra-sekhar-tiwary",
+  "designation": "Associate Professor",
+  "isHead": false,
+  "email": "chandra.tiwary@metal.iitkgp.ac.in",
+  "phone": null,
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Advanced Materials Processing",
+    "Functional materials",
+    "High temperature materials",
+    "Energy materials",
+    "Nano Materials"
+  ],
+  "areas": [
+    "physical-mechanical",
+    "extractive-process",
+    "functional-devices",
+    "energy-sustainability"
+  ],
+  "researchStatement": [
+    "Development of Porous and Ultra-Low density materials",
+    "Exploration of two dimensional materials and composite for environment, electronics and energy application",
+    "Metal-intermetallic based high temperature in-situ composite",
+    "Structure and properties correlation of nanoparticles",
+    "Bio-inspired innovative materials and 3D Printing",
+    "Materials Science and engineering for society"
+  ],
+  "awards": [
+    "INAE Young Associate",
+    "INAE Young engineer award",
+    "Young scientsit",
+    "Excellent microscopist of the year",
+    "Young metallurgist of the year"
+  ],
+  "currentProjects": [
+    {
+      "title": "Battery verse (Platinum Jubilee Innovation Challenge Grant IoE)",
+      "role": "Principal Investigator",
+      "funder": "Sponsored Research and Industrial Consultancy (SRIC)"
+    },
+    {
+      "title": "Centre of Excellence for Advancing Homoeopathic Research in the Management of Metabolic Disorders",
+      "role": "Principal Investigator",
+      "funder": "National Institute of Homoeopathy"
+    },
+    {
+      "title": "Characterization and anti-microbial resstance of homeopathic medicine",
+      "role": "Principal Investigator",
+      "funder": "Ayush, CCRH, NEW DELHI,Ministry of Ayush, Government of India"
+    },
+    {
+      "title": "Development of Strong and multifunctional (fire Resistant/Anti-Bacterial/Hydrophobic) fabric Using Graphene (Activated Carbon from agriculturalWaste) and White-Graphene (hBN) Composite",
+      "role": "Principal Investigator",
+      "funder": "Ministry of Textile, GoI"
+    },
+    {
+      "title": "Flexoelectric Nano Generators (FENG) Using 3D Printed 2D Multi-layered Hybrid Structures",
+      "role": "Principal Investigator",
+      "funder": "ARDB, DRDO"
+    },
+    {
+      "title": "FTIR Spectroscopic Study And Raman Study In Homoeopathic Potentized Medicines and Characterization, Standardization and Analysis of the Imponderable Medicines (X-Ray, Electricity, Magnetis Polus Australis etc.)",
+      "role": "Principal Investigator",
+      "funder": "Central Council for Research in Homoeopathy (CCRH)"
+    },
+    {
+      "title": "Graphitization and Testing of Materials for Battery Application",
+      "role": "Principal Investigator",
+      "funder": "OXBOW CALCINING INTERNATIONAL LLC"
+    },
+    {
+      "title": "HYBRID BIOLOGICAL TREATMENT SYSTEM WITH WATER AND ENERGY CONSERVATION FOR THE TREATMENT OF MUNICIPAL WASTEWATER IN URBAN REGION",
+      "role": "Principal Investigator",
+      "funder": "Central Public Health and Environmental Engineering Organisation CPHEEO"
+    },
+    {
+      "title": "Transforming Agricultural Biomass into High-Value Carbon Applications (Platinum Jubilee Innovation Challenge Grant IoE)",
+      "role": "Principal Investigator",
+      "funder": "SRIC, IIT KHARAGPUR"
+    },
+    {
+      "title": "2D Photo-ferroelectric heterostructure devices for multimode neuromorphic computing",
+      "role": "Co-Principal Investigator",
+      "funder": "Asian Office of Aerospace Research and Development"
+    },
+    {
+      "title": "Developing Novel Nano-Bio Sensors for Highly Sensitive and Specific Detection of Target Analytes on a Chip",
+      "role": "Co-Principal Investigator",
+      "funder": "TATA CONSULTANCY SERVICES LIMITED"
+    },
+    {
+      "title": "From Carbon Capture to Ceramics: Circular Manufacturing of Silicon-Infiltrated Silicon Carbide Using Recycled SiC and Microalgal Carbon (Platinum Jubilee Innovation Challenge Grant IoE)",
+      "role": "Co-Principal Investigator",
+      "funder": "Sponsored Research and Industrial Consultancy (SRIC)"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "Designing Metal-based Composite Via Liquid Reinforcement for Vibration Damping Applications: Going Against Conventional Wisdom",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "3D Printing of 2D (Two Dimensional) Materials for Robust Electronics",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Synthesis of Two-dementional Materials and its Application",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Technical Assistance for Design and Demonstration of UF/RO Desalination Plant for Saline/Brackish Water Treatment for Drinking Water Supply at Sridharkati, Zone-XXIII",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "3D Printing and Directional Solidification of Aluminum-based Ternary Eutectic Alloy",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Design and Synthesis of High Entropy Atomic Layers of Two-dimensional (20) Alloys",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Surface Engineering of Textiles and Soft/Hard Substrates by Impregnation of Metallic Nano-particles Decorated Graphene - An Economical Method to Combat Covid-19 Pandemic",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "High Entropy Alloy Nanoparticles (HEA-NPs) Supported CeO2 Catalyst for Dry Reforming of CO2",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Green Conversion of Mining and Agricultural Waste into Graphene based Hydrophobic Anticorrosive and Antiwear Coating on Water Pipes",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Green Conversion of Mining and Agricultural Waste into Graphene based Hydrophobic Anticorrosive and Antiwear Coating on Water Pipes",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of graphite brush",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "3D printing of intricate fluid conduits using ceramic particles for fluid flow",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Direct Ink 3D Printing of SiC Ceramic Nanoparticles On Complex Space Components",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Direct Ink 3D Printing of SiC Ceramic Nanoparticles On Complex Space Components",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Planar 2D heterojunctions between atomically thin dissimilar materials",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Portable and automated 3D printing of metal-ceramic composites",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Improvement of the processing condition for the production of defect-free high strength Ductile iron pipe",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of sustainable carbon electrodes from biomass waste for its application in the membrane capacitive deionization (MCDI) technology for the desalination of brackish water for industrial uses",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Design Development, Fabrication, and Experimental Characterization of 3D Printed Hydrophone Array for Undenivater Acoustic Applications",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Direct ink writing 3D printing of chopped carbon fibre reinforced silicon carbide (C/SiC) composite for space components",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Direct ink writing 3D printing of chopped carbon fibre reinforced silicon carbide (C/SiC) composite for space components",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "3D printing of 2D (two dimensional) materials heterojunction for future electronics",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of 2D ferroelectronic device technologies for neuromorphic computing, optoelectronics and memory devices",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Evaluation of Different Process Parameters during Mg Production in an Industrial Scale",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Large area 2D Heterostructures based on Van Der Waals Epitaxy: Facile Growth Techniques to Multifunctional Nanoscale Devices",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Utilization of chromite over burden as an Oxygen carrier material for clean energy production using chemical looping technique",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/chandra-sekhar-tiwary.webp",
+  "researchImage": null,
+  "website": "https://cstiwary.iitkgp.ac.in/",
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-chandra.tiwary",
+  "source": "IIT Kharagpur institute faculty profile"
+}

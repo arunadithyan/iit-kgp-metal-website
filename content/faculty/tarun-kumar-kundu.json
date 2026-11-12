@@ -1,0 +1,134 @@
+{
+  "name": "Tarun Kumar Kundu",
+  "slug": "tarun-kumar-kundu",
+  "designation": "Professor",
+  "isHead": false,
+  "email": "tkkundu@metal.iitkgp.ac.in",
+  "phone": "+91-3222-283296",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Technology and Sustainable Development",
+    "Computational material science",
+    "Molecular simulation",
+    "Energy materials",
+    "Extractive metallurgy"
+  ],
+  "areas": [
+    "extractive-process",
+    "computational-ai",
+    "energy-sustainability"
+  ],
+  "researchStatement": [
+    "Computational Modeling of Energy Materials, Thermodynamic Modeling of Material Processing, Extractive Metallurgy, Mineral Processing, AI-ML in Materials Processing, Waste Utilization and Sustainability"
+  ],
+  "awards": [
+    "Vattenfalls Stipendium"
+  ],
+  "currentProjects": [
+    {
+      "title": "Archaeometallurgy and Heritage Materials Science",
+      "role": "Co-Principal Investigator",
+      "funder": "SRIC, IIT KHARAGPUR"
+    },
+    {
+      "title": "Archaeometallurgy and Heritage Materials Science for Interdisciplinary Research, Education and Dissemination at IIT Kharagpur",
+      "role": "Co-Principal Investigator",
+      "funder": "Indian Knowledge Systems Division, Ministry of Education, Govt. of India"
+    },
+    {
+      "title": "Characterization and anti-microbial resstance of homeopathic medicine",
+      "role": "Co-Principal Investigator",
+      "funder": "Ayush, CCRH, NEW DELHI,Ministry of Ayush, Government of India"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "SOLVENT EXTRACTION STUDIES FOR HIGH VALUE METALS BY IONIC LIQUIDS IN MIXER-SETTLER-UNIT: EXPERIMENTATION & MOLECULAR MODELING",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Chemical composition and Mechanical property evaluation for SVEC Construction Ltd.",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "ATOMISTIC SIMULATIONS OF GAS HYDRATES AND STABILIZER/INHIBITOR DESIGN. (SUB-PROJECT MRDM5)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Chemical analysis(% Al, %Al2O3) of dross, tailing and recovered metal",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Chemical Analysis of Steel Samples",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Chemical Analysis of TMT Steel Bar",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Chemical Analysis of Flyash",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of pilot scale palletisation technology for Indian geothitic/hematite ore with varying degree of fineness",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Chemical Analysis of Alloy & Ceramics",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "A BRIDGE PROJECT AIMED AT THE EXPANSION OF LITHIUM LON BATTERY RESEARCH",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Rotary Hearth Furnace Technology for Treating Off Grade Iron Ore Fines of Indian Origin Including Magnetite Ore (UAY_I_IITKGP_018)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Hybrid Sodium - ion Cell/Super Capacitor Packs for Light Electric Vehicles",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Lab scale synthesis of high purity Alumina from aluminum dross",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "LITHIUM ION BATTERY EQUIPMENT USAGE",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Production of rare earth permanent magnets from spent magnets and primary rare earth oxides",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Setting Up High-End Testing Facilities of Materials for Biomaterials, Aerospace and Automotive Applications (SGDRI-2015)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/tarun-kumar-kundu.webp",
+  "researchImage": null,
+  "website": null,
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-tkkundu",
+  "source": "IIT Kharagpur institute faculty profile"
+}

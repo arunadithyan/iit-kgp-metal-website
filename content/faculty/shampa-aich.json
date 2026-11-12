@@ -1,0 +1,101 @@
+{
+  "name": "Shampa Aich",
+  "slug": "shampa-aich",
+  "designation": "Professor",
+  "isHead": false,
+  "email": "saich@metal.iitkgp.ac.in",
+  "phone": "+91-3222-281750",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "NiTi-based Shape Memory Alloy Thin Film",
+    "Surface engineering and coated materials",
+    "Shape memory polymer blends",
+    "Shape memory polymer composite",
+    "Permanent magnets & Magnetic Nanofluids",
+    "Magnetic Shape memory Alloys (Heusler)",
+    "Bio-, Energy-, and 2D-materials (MXenes)"
+  ],
+  "areas": [
+    "extractive-process",
+    "ceramics-composites",
+    "functional-devices",
+    "energy-sustainability"
+  ],
+  "researchStatement": [
+    "Dr. Shampa Aich and her research group are focused in the field of metallurgical & materials science and engineering especially on (1) Smart materials (SMA/FMSMA), (2) Magnetic materials, (3) Bio-materials and (4) Surface modifications.Our contribution in those areas include, (i) Fabrication of NiTi shape memory alloy thin films by magnetron sputtering, (ii) Development of microstructure and magnetic properties of magnetic shape memory alloy ribbons in heusler family by rapid solidification (melt-spinning), (iii) Development of rare-earth-based as well as rare-earth free permanent magnets, (iv) Enhancement of thermal conductivity and other physicochemical properties of magnetic nanofluids, (v) Synthesis of wear resistant coating system of TiB (titanium monoboride) whiskers on titanium surfaces by solid state diffusion (Pack boriding), (v) Fabrication of macroporous but mechanically tough bio-scaffolds on the metal implant/stent surfaces, which can promote cell adhesion and proliferation on metallic implant and can perform controlled on-site drug release and photocatalytic sterilization. (vi) Deposition of a series of bilayers and multilayers coatings of Ti/TiB2, Ti/TiN, Cr/CrN and Ti/TiN/Cr/CrN on steel substrate by pulsed laser deposition (PLD) technique to improve the tribological properties and cutting efficiency of cutting tool, (vii) To determine the feasibility of growing inert silica shells around the metallic nanoparticles with the help of core-shell nanotechnology to render those nanoparticles stable by preventing their agglomeration and bio-degradation to improve their unique properties and potential biomedical applications.",
+    "Over the past years, our research has led to one US Patent ((U-3480), 2002) on “Integral Titanium Boride Coatings On Titanium Surfaces And Associated Methods”, one Indian Patent on \"Anti-microbial activity of NiTi surfaces\" and 55 major publications in; Journal of applied physics, IEEE transactions on magnetics, Journal of magnetism & magnetic materials, Journal of alloys & compounds, Powder technology, Journal of materials science, Materials & manufacturing processes, Materials Letters, Surface Engineering and Metallurgical Transactions A."
+  ],
+  "awards": [],
+  "currentProjects": [
+    {
+      "title": "Alloy Design and Processing Science for Additive Manufacturing of Rare Earth Permanent Magnets",
+      "role": "Principal Investigator",
+      "funder": "Ministry of Electronics and Information Technology"
+    },
+    {
+      "title": "Alloy Design and Processing Science for Additive Manufacturing of Rare Earth Permanent Magnets",
+      "role": "Principal Investigator",
+      "funder": "Ministry of Electronics and Information Technology"
+    },
+    {
+      "title": "Developing an inexpensive low-carbon micro-alloyed dual-phase steel as a unique and singular steel for the entire car body",
+      "role": "Co-Principal Investigator",
+      "funder": "Department of Science and Technology (DST)"
+    },
+    {
+      "title": "Flexoelectric Nano Generators (FENG) Using 3D Printed 2D Multi-layered Hybrid Structures",
+      "role": "Co-Principal Investigator",
+      "funder": "ARDB, DRDO"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "NANOSCALE DEVELOPMENTS IN A CO-BASED HEUSLER TYPE CONIGA FERROMAGNETIC SHAPE MEMORY ALLOY",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "T1/T1B2 B1-LAYERED AND MULTILAYERED COATING ON STEEL SUBSTATE BY PULSED LAYER DEPOSITIONS (PLD) TECHNIQUE TO IMPROVE TRIBOLOGICAL PROPERTIES (HIGH WEAR/ABRASION RESISTANCE LOW FRICTIN COEFFICIENT) AND CUTTING EFFECIANCY",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Influence of Layer Configuration, Annealing Temperature & Time on the Microstructure, Texture & Nano-Indentation Properties of NiTi Shape Memory Alloy Thin film Produced By Magnetron Sputtered Bi-Layered & Multi-Layered Ni/Ti Thin Films",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Prototype NdFeB Magnet Material for Making Accelerator Magnets",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Faculty Travel under ANRF/SERB-OVDF (Purdue) scheme",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "ANRF-Purdue University Overseas Visiting Doctoral Fellowship (OVDF) program",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "High Temperature Shape Memory Thin Film as Micro-valves in Aerospace Applications",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Characterization of triple junction distributions in nanocrystalline metals for determination of mechanical properties",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/shampa-aich.webp",
+  "researchImage": "/images/research/group-shampa-aich.webp",
+  "website": null,
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-saich",
+  "source": "IIT Kharagpur institute faculty profile"
+}

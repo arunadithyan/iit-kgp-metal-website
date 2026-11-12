@@ -1,0 +1,929 @@
+{
+ "faculty": "indrani-sen",
+ "items": [
+  {
+   "title": "Microstructural evolution and mechanical behavior of additively manufactured IN939 superalloy at room and elevated temperatures",
+   "authors": "M., Dogu M. N., Gu H., Brabazon D., Sen I.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "1050",
+   "pages": "185949",
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Impact of thermal treatments on small-scale deformation behavior of NiTi-based shape memory alloy for miniaturized applications",
+   "authors": "Nayak P., Sen I.",
+   "venue": "Journal of Materials Science",
+   "volume": "61",
+   "pages": "9314-9331",
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "High Strength Al-added medium Mn steel.",
+   "authors": "Kumar D., Yadav M. K., Sen I., Bandyopadhyay T. K.",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2026,
+   "type": "Patent",
+   "faculty": [
+    "indrani-sen",
+    "tapas-kumar-bandyopadhyay"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Correlation between intercritical annealing duration and the tensile deformation behavior of Fe-7.5 Mn-3.25 Al-1Si-0.2 C steels: Role of austenite stability, -ferrite, and texture",
+   "authors": "Kumar D., Sanyal S., Yadav M. K., Sen I., Bandyopadhyay T. K.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "178506",
+   "pages": "1-15",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen",
+    "tapas-kumar-bandyopadhyay"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Recent advances in additive manufacturing technologies for Ni-Based Inconel superalloys A comprehensive review",
+   "authors": "Shahwaz M., Nath P., Sen I.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "1010",
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Understanding the TRIP effect in hot-and cold-rolled Al-added medium-Mn steels: insights into austenite stability and martensitic transformation kinetics",
+   "authors": "Kumar D., Sanyal S., Yadav M. K., Sen I., Bandyopadhyay T. K.",
+   "venue": "Materials Today Communications",
+   "volume": "44",
+   "pages": "1-14",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen",
+    "tapas-kumar-bandyopadhyay"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Fracture, Fatigue and Failure of Materials-NPTEL-Repeat",
+   "authors": "Sen I. -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2025,
+   "type": "Educational Package",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Systematic Review of Medium Mn Steels with an Assessment of Fatigue Behavior",
+   "authors": "Kumar D., Sen I., Bandyopadhyay T. K.",
+   "venue": "Steel research international",
+   "volume": "95",
+   "pages": "2300375",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen",
+    "tapas-kumar-bandyopadhyay"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Indentation size effect in 2nd and 3rd generation advanced intermetallic TiAl alloys: theoretical and experimental estimation of dislocation density",
+   "authors": "Nath P., Bhattacharjee A., Sen I.",
+   "venue": "Journal of Materials Science",
+   "volume": "59",
+   "pages": "3066-3086",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructural effects on the ambient temperature indentation creep behavior of metastable Î² Ti-5Al-5V-5Mo-3Cr alloy",
+   "authors": "Arohi A.C., Shekhar S., Sen I.",
+   "venue": "Materials Today Communications",
+   "volume": "38",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Comparative Study on the Laser Surface Melting and Laser Surface Cladding of H13 Tool Steel",
+   "authors": "Sai R.J., Arohi A.C., Khanra A.K., Kumar R., Telasang G., Manna I., Sen I.",
+   "venue": "Journal of Materials Engineering and Performance",
+   "volume": null,
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of microstructure and temperature on the bulk and small-scale deformation behavior of 2nd and 3rd generation advanced intermetallic TiAl alloys",
+   "authors": "Nath P., Sujith Kumar S., Mathews N.G., Bhattacharjee A., Sen I.",
+   "venue": "Materials Characterization",
+   "volume": "207",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Stress-induced martensitic transformation during cold rolling of metastable Ti 5Al 5V 5Mo 3Cr alloy",
+   "authors": "Arohi A. C., Sekhar S., Sen I.",
+   "venue": "Materials Science and Engineering A",
+   "volume": "911",
+   "pages": "1-12",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Designing of novel microstructure and its impact on the improved service temperature mechanical performance of 2nd and 3rd generation advanced intermetallic TiAl alloys",
+   "authors": "Nath P., Bar H.N., Bhattacharjee A., Sen I.",
+   "venue": "Materials Science and Engineering: A",
+   "volume": "893",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Modulation of -ferrite formation and austenite stability in Al-added medium-Mn steels and its role in the structure property relationships",
+   "authors": "Kumar D., Yadav M., Kumar N., Sen I., Bandyopadhyay T. K.",
+   "venue": "Ironmaking & Steelmaking",
+   "volume": "51",
+   "pages": "658-674",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen",
+    "tapas-kumar-bandyopadhyay"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of thermomechanical processing on microstructure evolution and mechanical properties of metastable Î² Tiâ 5Alâ 5Vâ 5Moâ 3Cr alloy",
+   "authors": "Arohi A.C., Shekhar S., Sen I.",
+   "venue": "Materials Chemistry and Physics",
+   "volume": "314",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Understanding the Individual Role of Composition and Spark Plasma Sintering Temperature on the Microstructure and Hardness of Alumina Zirconia Composites",
+   "authors": "Basu S., Arohi A. C., Mahato A., Chakravarty D., Sen I., Roy S.",
+   "venue": "Metallurgical and Materials Transactions A",
+   "volume": "55",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Synergistic Effect of Ex Situ and In Situ Reinforcements on the Dry Reciprocating Wear Behavior of AA6061-B4C Composite Fabricated Using Varying K2TiF6 Flux Content",
+   "authors": "Kumar C., Sen I., Roy S.",
+   "venue": "Journal of Materials Engineering and Performance",
+   "volume": null,
+   "pages": "1-21",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen",
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "An improved thermomechanical approach for an admirable strength-ductility combination in Al-added medium-Mn steel for automotive applications",
+   "authors": "Kumar D., Yadav M. K., Sen I., Bandyopadhyay T. K.",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2024,
+   "type": "Patent",
+   "faculty": [
+    "indrani-sen",
+    "tapas-kumar-bandyopadhyay"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Systematic study of the effect of K2TiF6 flux content on the microstructure and mechanical properties of Al B4C composites",
+   "authors": "Kumar C., Sarkar S., Mukhopadhyay G., Chakraborti P.C., Sen I., Roy S.",
+   "venue": "Materials Science and Engineering A",
+   "volume": "871",
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen",
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Influence of microstructural homogenization on the localized deformation behavior of single crystal Ni-based superalloy, CMSX-4",
+   "authors": "Nath P., Scholz F., Pfetzing J., Frenzel J., Eggeler G., Roy S., Sen I.",
+   "venue": "Metallurgical and Materials Transactions A",
+   "volume": "54",
+   "pages": "4498-4514",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of process parameters on mechanical properties of additively manufactured metallic systems",
+   "authors": "Marandi L., Sen I.",
+   "venue": "Additive Manufacturing: Advanced Materials and Design Techniques",
+   "volume": null,
+   "pages": "1-19",
+   "year": 2023,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A critical review on the microstructure and mechanical properties correlation of additively manufactured nickel-based superalloys",
+   "authors": "Shahwaz M., Nath P., Sen I.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "907",
+   "pages": null,
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Processing-microstructure-property correlation in thermo-mechanically processed Ti-6Al-4V alloys: A comparative study between conventional and novel approaches",
+   "authors": "Nath P., Marandi L., Sen I.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "927",
+   "pages": "167039",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Wire testing grip to characterize tensile and fatigue properties of thin metallic wires",
+   "authors": "Sen I., Marandi L. -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2022,
+   "type": "Patent",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Fracture, Fatigue and Failure of Materials",
+   "authors": "Sen I. -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2022,
+   "type": "Educational Package",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Characterizing Stress-Strain behavior of Materials through Nanoindentation",
+   "authors": "Sen I., S S. K.",
+   "venue": "Elasticity of Materials",
+   "volume": null,
+   "pages": "1-17",
+   "year": 2022,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Mechanical characterisation of PEEK-HA composite as an orthopaedic implant",
+   "authors": "Dey S.K., S S.K., Sen I., Samanta S.",
+   "venue": "Advances in Materials and Processing Technologies",
+   "volume": null,
+   "pages": null,
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Mechanical Characterization of PEEK-HA composite as an orthopaedic implant",
+   "authors": "Dey S. K., S S. K., Sen I., Samanta S.",
+   "venue": "Advances in Materials and Processing Technologies",
+   "volume": null,
+   "pages": "1-24",
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A Comparative Study on Deformation Behaviour of Superelastic NiTi with Traditional Elastic Plastic Alloys in Sub-micron Scale",
+   "authors": "S S. K., Sen I.",
+   "venue": "Transactions of the Indian Institute of Metals",
+   "volume": "74(10)",
+   "pages": "2427-2434",
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructure, Corrosion and Mechanical Behavior of 15-5 PH Stainless Steel Processed by Direct Metal Laser Sintering",
+   "authors": "Avula I., Arohi A. C., Kumar C. S., Sen I.",
+   "venue": "Journal of Materials Engineering and Performance",
+   "volume": "30",
+   "pages": "6924-6937",
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A critical assessment of the processing parameters yielding an optimum combination of mechanical properties in cast Al-B4C composites",
+   "authors": "Maurya P., Vaishnavi L., Sen I., Roy S.",
+   "venue": "Transactions of Indian Institute of Metals",
+   "volume": "74",
+   "pages": "1279-1294",
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen",
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A review on Micro-Mechanical Testing of NiTi Based Shape Memory Alloys",
+   "authors": "S S. K., Arohi A. C., Sen I.",
+   "venue": "Journal of the Indian Institute of Science",
+   "volume": null,
+   "pages": null,
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "In-vitro mechanical behavior and high cycle fatigue characteristics of NiTi-based shape memory alloy wire",
+   "authors": "Marandi L., Sen I.",
+   "venue": "International Journal of Fatigue",
+   "volume": "148",
+   "pages": null,
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "In-vitro mechanical behaviour and high cycle fatigue characteristics of NiTi-based shape memory alloy wire",
+   "authors": "Marandi L., Sen I.",
+   "venue": "International Journal of Fatigue",
+   "volume": "148",
+   "pages": "1062261-13",
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Assessment of microstructural variation and mechanical properties of laser metal deposited 316L stainless steel",
+   "authors": "Nath P., Nanda D., Dinda G. P., Sen I.",
+   "venue": "Journal of Materials Engineering and Performance",
+   "volume": "30",
+   "pages": "6996-7006",
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Assessment of small-scale deformation characteristics and stress-strain behavior of NiTi based shape memory alloy using nanoindentation",
+   "authors": "S S. K., Kumar I. A., Marandi L., Sen I.",
+   "venue": "Acta Materialia",
+   "volume": "201",
+   "pages": "303-315",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of saline atmosphere on the mechanical properties of commercial steel wire",
+   "authors": "Marandi L., Sen I.",
+   "venue": "Metallurgical and Materials Transactions A",
+   "volume": "50A",
+   "pages": "132-141",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A comprehensive study on the fabrication and characterization of Ti 48Al 2Cr 2Nb preforms manufactured using electron beam melting",
+   "authors": "Cakmak E., Nandwana P., Shin D., Yamamoto Y., Gussev M. N., Sen I., Seren M. H., Watkins T. R., Haynes J. A.",
+   "venue": "Materialia 6 (100284)",
+   "volume": null,
+   "pages": "1-13",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructure - Property correlations for additively manufactured NiTi based shape memory alloys",
+   "authors": "S S. K., Marandi L., Balla V. K., Bysakh S., Piorunek D., Eggeler G., Das M., Sen I.",
+   "venue": "Materialia 8 (100456)",
+   "volume": null,
+   "pages": "1-17",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Indentation response and structure-property correlations in a bimodal Ti-6Al-4V alloy",
+   "authors": "Sen I., Roy S., Wagner M. F.",
+   "venue": "Advanced Engineering Materials",
+   "volume": "1700298",
+   "pages": "1-12",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Mechanical behavior of steel wire in corrosive atmosphere and fatigue studies",
+   "authors": "Lakhindra Marandi and Indrani Sen Proceedings of 7th International Conference on Creep, Fatigue and Creep-Fatigue interaction -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2016,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A study on machinability of B-modified Ti-6Al-4V alloys by EDM",
+   "authors": "Indrani Sen, G. Karthikeyan, J.",
+   "venue": "Ramkumar and R. Balasubramaniam Materials and Manufacturing Processes",
+   "volume": "27",
+   "pages": null,
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructure and mechanical behavior of a mini-thixoformed tool steel",
+   "authors": "Indrani Sen, Hana Jirková, Bohuslav Ma ek, Marcus Böhme and Martin F.-X.",
+   "venue": "Wagner Metallurgical and Materials Transactions A",
+   "volume": "43",
+   "pages": null,
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Mini-thixoforming of a steel produced by powder metallurgy",
+   "authors": "Hana Jirková, David Aisman, Indrani Sen, Martin F.-X. Wagner, Maria Behulova, Martin Kusy and Bohuslav Ma ek Solid State Phenomena 192",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Influence of minor additions of B on tensile and fatigue properties of wrought Ti-6Al-4V alloys",
+   "authors": "Gaurav Singh, Indrani Sen, K.",
+   "venue": "Gopinath and U. Ramamurty Materials Science and Engineering A",
+   "volume": "540",
+   "pages": null,
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructures and mechanical properties of annealed SUS 304H austenitic stainless steel with copper",
+   "authors": "Indrani Sen, K. E. Amankwah, N. Santosh Kumar, E. Fleury, K. Oh-ishi, K. Hono, U.",
+   "venue": "Ramamurty Materials Science and Engineering A",
+   "volume": "528",
+   "pages": null,
+   "year": 2011,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of strain rate and temperature on deformation behavior of bulk metallic glass composites",
+   "authors": "11. P.S. Singh, R.L. Narayan, Indrani Sen, D.C.",
+   "venue": "Hofmann and U. Ramamurty Materials Science and Engineering A",
+   "volume": "534",
+   "pages": null,
+   "year": 2011,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "High temperature (1023 K to 1273 K [750 °C to 1000 °C]) plastic deformation behaviour of B-modified Ti-6Al-4V alloys",
+   "authors": "Indrani Sen and U.",
+   "venue": "Ramamurty Metallurgical and Materials Transactions A",
+   "volume": "41",
+   "pages": null,
+   "year": 2010,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "High temperature deformation processing maps for boron modified Ti-6Al-4V alloys",
+   "authors": "Indrani Sen, R.S.",
+   "venue": "Kottada and U. Ramamurty Materials Science and Engineering A",
+   "volume": "527",
+   "pages": null,
+   "year": 2010,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "R.L. Narayan, K. Boopathy, Indrani Sen, D.C. Hofmann and U. Ramamurty",
+   "authors": "On the hardness and elastic modulus of BMG matrix composites Scripta Materialia 63 -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2010,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Mechanical properties of B modified Ti-6Al-4V alloys",
+   "authors": "Indrani Sen Journal of Physics: conference series 240 -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2010,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of copper addition on the fracture and fatigue crack growth behaviour of solution heat-treated SUS 304H austenitic steel",
+   "authors": "K.K. Alaneme, S.M. Hong, Indrani Sen, E. Fleury, and U.",
+   "venue": "Ramamurty Materials Science and Engineering A",
+   "volume": "527",
+   "pages": null,
+   "year": 2010,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Elastic Modulus of Ti-6Al-4V-xB alloys with B up to 0.55 wt.%",
+   "authors": "Indrani Sen and U.",
+   "venue": "Ramamurty Scripta Materialia",
+   "volume": "62",
+   "pages": null,
+   "year": 2010,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Fatigue in Ti-6Al-4V-B alloys",
+   "authors": "Indrani Sen, K. Gopinath, R.",
+   "venue": "Datta and U. Ramamurty Acta Materialia",
+   "volume": "58",
+   "pages": null,
+   "year": 2010,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Micromechanisms of damage in a hypereutectic Ti-6Al-4V-B alloy",
+   "authors": "Indrani Sen, L. Maheswari, S. Tamirisakandala, D.B.",
+   "venue": "Miracle and U. Ramamurty Materials Science and Engineering A",
+   "volume": "518",
+   "pages": null,
+   "year": 2009,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of microstructure on the mechanical behavior of B modified Ti-6Al-4V alloys",
+   "authors": "Indrani Sen and U. Ramamurty Supplemental Proceedings: Volume 1: Fabrication, Materials, Processing and Properties, TMS -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2009,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructural effects on the mechanical behavior of B-modified Ti-6Al-4V alloys",
+   "authors": "Indrani Sen, S. Tamirisakandala, D.B.",
+   "venue": "Miracle and U. Ramamurty Acta Materialia",
+   "volume": "55",
+   "pages": null,
+   "year": 2007,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Mechanical behavior of B modified Ti-6Al-4V alloys",
+   "authors": "Indrani Sen and U.",
+   "venue": "Ramamurty Proceedings of the 11th World Conference on Titanium",
+   "volume": null,
+   "pages": null,
+   "year": 2007,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructure and optical properties of mesoporous Al2O3 composites with dispersed gold metal Nanoparticles",
+   "authors": "Indrani Sen, S.",
+   "venue": "Ram and S.B. Yadav Proceedings of International Symposium on Advanced Materials And Processing",
+   "volume": null,
+   "pages": null,
+   "year": 2004,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Functional Properties Correlation for NiTi based Pseudoelastic Shape Memory Alloy",
+   "authors": "Arohi A. C., Nayak P., Punyamanthula K. K., Surla R., Tarafder S., Frenzel J., Sen I.",
+   "venue": "Journal of Materials Science - (Accepted/In-Press)",
+   "volume": null,
+   "pages": null,
+   "year": null,
+   "type": "Journal",
+   "faculty": [
+    "indrani-sen"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

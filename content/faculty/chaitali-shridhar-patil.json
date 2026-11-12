@@ -1,0 +1,33 @@
+{
+  "name": "Chaitali Shridhar Patil",
+  "slug": "chaitali-shridhar-patil",
+  "designation": "Assistant Professor Grade-I",
+  "isHead": false,
+  "email": "cspatil@metal.iitkgp.ac.in",
+  "phone": null,
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Computational material science"
+  ],
+  "areas": [
+    "computational-ai"
+  ],
+  "researchStatement": [
+    "We would like to create a leading team in materials informatics focusing on mesoscale modeling and machine learning applications for both sustainable material development and critical engineering materials for manufacturing and energy sectors.  The group will contribute to the fundamental and data-driven analysis of structural materials and their applications for existing and future problems with an efficient and solution-driven mindset.",
+    "Current Research interests:",
+    "Crystal Plasticity: Crystal Plasticity is a computational analysis to understand microstructure-sensitive statistical understanding of deformation behaviour of structural materials.",
+    "Machine learning applications for materials engineering: Adopt and implement deep learning techniques for sustainable material development, manufacturing, mesoscale texture evolution, and deformation behaviours of materials.",
+    "Sustainable recycling and recovery:  Implementing a combined experimental and computational approach can provide a physics-based alloy and process optimization route for sustainable secondary alloy development."
+  ],
+  "awards": [],
+  "currentProjects": [],
+  "completedProjects": [],
+  "photo": "/images/faculty/chaitali-shridhar-patil.webp",
+  "researchImage": null,
+  "website": null,
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-cspatil",
+  "source": "IIT Kharagpur institute faculty profile"
+}

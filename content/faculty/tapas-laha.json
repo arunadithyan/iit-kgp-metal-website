@@ -1,0 +1,129 @@
+{
+  "name": "Tapas Laha",
+  "slug": "tapas-laha",
+  "designation": "Professor",
+  "isHead": false,
+  "email": "laha@metal.iitkgp.ac.in",
+  "phone": "+91-3222-283242",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Surface engineering and coated materials",
+    "Bulk metallic glasses",
+    "Bulk nanocomposites and nanocomposite thin films",
+    "Metastable & nano-structured material",
+    "Functional materials"
+  ],
+  "areas": [
+    "physical-mechanical",
+    "extractive-process",
+    "ceramics-composites",
+    "functional-devices"
+  ],
+  "researchStatement": [
+    "Research Areas:",
+    "- Bulk nanostructured metallic composites - Processing & Characterization",
+    "- Bulk Metallic glass nanocomposites – Understanding the effect of multi-phase microstructure",
+    "- Surface Engineering & Coating – Synthesis and Interfacial Phenomena",
+    "- Metallic glass coatings – Development and Characterization",
+    "- Functionally graded composite materials (FGCMs)",
+    "- Material Synthesis by Mechanical alloying, Spark Plasma Sintering and Thermal spraying"
+  ],
+  "awards": [],
+  "currentProjects": [
+    {
+      "title": "Development of Ni based high entropy superalloys (HESAs) with superior high temperature strength",
+      "role": "Principal Investigator",
+      "funder": "Aeronautics R and D Board"
+    },
+    {
+      "title": "Material Consolidation by SPS",
+      "role": "Principal Investigator",
+      "funder": "Various Institutes / Organisations"
+    },
+    {
+      "title": "Material Synthesis in SPS Lab",
+      "role": "Principal Investigator",
+      "funder": "Various Government and Non-Government Organisations"
+    },
+    {
+      "title": "Materials Characterization via XRD",
+      "role": "Principal Investigator",
+      "funder": "Various Organisations/Users"
+    },
+    {
+      "title": "Digital Board with Integrated Audiovisual and Internet Connectivity",
+      "role": "Co-Principal Investigator",
+      "funder": "Ms. Sumeeta K. Ghosh"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "IMPROVEMENT OF ADHESION BETWEEN BEAD WIRE AND RUBBER MATERIAL INSIDE RADIAL TIRES",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of corrosion and wear resistant metallic glass coatings on steel substrates",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Synthesis of aluminium alloy based nanocomposite with multi-walled carbon nanotube reinforcement via spark plasma sintering",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Synthesis of multiwalled carbon nanotube reinforced Al alloy based bulk nanocomposites via spark plasma sintering",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Synthesis of AL-based bulk metallic glass composite with improved ductility via mechanical alloying and spark plasma sintering",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Understanding the effect of crystalline reinforcement in A1-based bulk metallic glass nanocomposites towards improving ductility and fracture toughness (SGIRG)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Understanding the Effect of Alloying Elements & Processing Parameters on the Corrosion Mechanism in Fe Based Metallic Glass Coating Deposited via Thermal Spraying",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Understanding the Effect of Alloying Elements and Processing Parameters on the Corrosion Mechanism in Fe based Metallic Glass Coatings Deposited via Thermal Spraying",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Corrosion and Wear Resistant Fe based Metallic Glass Protective Coating via Thermal Spraying",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Optimization of Corrosion and Wear Properties In Plasma Sprayed Fe Based Metallic Glass Protective Coating",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of ZrB2/B4C Functionally Graded Materials for High-temperature Aerospace Application",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Setting Up High-End Testing Facilities of Materials for Biomaterials, Aerospace and Automotive Applications (SGDRI-2015)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/tapas-laha.webp",
+  "researchImage": "/images/research/group-tapas-laha.webp",
+  "website": "https://sites.google.com/view/lampiitkgp",
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-laha",
+  "source": "IIT Kharagpur institute faculty profile"
+}

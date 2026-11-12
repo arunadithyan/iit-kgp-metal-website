@@ -1,0 +1,154 @@
+{
+  "name": "Karabi Das",
+  "slug": "karabi-das",
+  "designation": "Professor",
+  "isHead": false,
+  "email": "karabi@metal.iitkgp.ac.in",
+  "phone": "+91-3222-283254",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Advanced Materials Processing",
+    "Biomaterials",
+    "Surface Engineering",
+    "Bulk nanocomposites and nanocomposite thin films",
+    "Functionally Graded Materials",
+    "Wear Resistant Steels"
+  ],
+  "areas": [
+    "physical-mechanical",
+    "extractive-process",
+    "ceramics-composites",
+    "functional-devices"
+  ],
+  "researchStatement": [
+    "We have developed nano structured coatings ( Ni-CeO2/ZrO2, Ni-Co-SiC, Cu-SiC, Sn-CeO2, etc.) by pulse electrodeposition route.  We have also developed Cu based functionally gradient nano composite material by pulse electrodeposition for electrical contact application. These developed materials have been characterized for their microstructure and different properties such as, hardness, wear, corrosion, electrical resistivity, etc.",
+    "We have also produced Al2O3 reinforced aluminium alloy (Al-Zn, Al-Zn-Cu, Al-Mn, Al-Zn-Mn, and Al-Cu-Mn) matrix composites by three different routes, i.e., reactive sintering, reactive milling followed by thermal treatment, and combined mechanical and thermal treatment and evaluated microstructure, wear and corrosion property. Low expansion Cu and Al based composites have been also produced using negative filler expansion material Y2W3O12 by high energy ball milling followed by sintering. Beside microstructure, wear and corrosion property, thermal properties (thermal expansion coefficient and thermal conductivity) are also evaluated for such low expansion composites.",
+    "Composite materials with steel matrix and ceramic particle reinforcements provide a scope of producing relatively inexpensive wear resistant materials.  We have synthesized TiC reinforced iron-based composites from a waste product of aluminium extraction plant through an energy-efficient, economical and simple process.  The composite has shown excellent wear resistance property.  Beside Fe-TiC, we have also developed wear resistant Fe-ZrC composite by aluminothermic reduction of zircon sand and blue dust in the presence of carbon.",
+    "We have also synthesized TiC and (Ti,W)C reinforced austenitic manganese steel matrix (Fe-12Mn, Fe-17Mn and Fe-17Mn-3Al) composites by conventional melting and casting route which have shown excellent wear resistance property.",
+    "Although steel matrix composites show excellent wear resistance property, they do not possess good toughness resulting in restricted applications. Improvement in properties of austenitic manganese steel has been achieved by thermo mechanical processing. Currently, effort is being made to design and develop steels with good wear resistance and mechanical properties for wider applications."
+  ],
+  "awards": [
+    "5. Merit scholarship (1979/81)",
+    "4. Indranil Award (1985)",
+    "3. Indranil award (2002)",
+    "2. MRSI Medal (2009)",
+    "1. TMS Technology Award, USA"
+  ],
+  "currentProjects": [
+    {
+      "title": "Failure Analysis of Polymerisation Reactor Installed at Acrylic Fibre Manufacturing Plant",
+      "role": "Principal Investigator",
+      "funder": "VARDHMAN ACRYLICS LIMITED"
+    },
+    {
+      "title": "Thermal and light scattering analysis of materials",
+      "role": "Principal Investigator",
+      "funder": "Various Institutes/Organisations"
+    },
+    {
+      "title": "Characterization of materials",
+      "role": "Co-Principal Investigator",
+      "funder": "Various Government and Non-Government Organisations"
+    },
+    {
+      "title": "Study on the effect of heat-treatment on microstructures and properties of SUP9 and SUP11A steels",
+      "role": "Co-Principal Investigator",
+      "funder": "Soni Auto & Allied Industries Ltd."
+    },
+    {
+      "title": "Synthesis and characterization of molybdenum disilicide heating element",
+      "role": "Co-Principal Investigator",
+      "funder": "Naskar and Company"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "SYNTHESIS OF IN-SITU TIC REINFORCED FERROUS BASED COMPOSITES FROM AN INDUSTRIAL WASTE BY THERMIT REDUCTION ROUTE",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "SYNTHESIS AND CHARACTERIZATION OF IN-SITU CARBIDE REINFORCED AUSTENITIC MANGENESE STEEL MATRIX COMPOSITES",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Facile, Green and Commercially Scalable, Non-Cyanide Bath Based Electrodeposition Route for Nanostructured Coloured Gold Coating with Advanced Mechanical and Scratch Resistance Properties (UAY_II_IITKGP_002)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Life assessment of spinning rings",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Cheap and High Energy Density Alkali Metal - Ion Rechargeable Batteries for Renewable Energy Storage (Proposal ID : IITKGP_001)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "DEVELOPMENT OF HIGH ENERGY DENSITY LITHIUM ION BATTERY TECHNOLOGY",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Nickel containing steel from chromite over burden",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "DEVELOPMENT OF ZINC-ALUMINIUM BASED BEARING ALLOYS FOR DEFENCE APPLICATIONS",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "FIST Program - 2012 [129]",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "MECHANOSYNTHESIS AND MECHANICAL THERMAL SYNTHESIS OF IN SITU ALUMINIUM BASED NANOCOMPOSITES AND THEIR CHARACTERIZATION",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "New Generation Multi-functional Green Nanocomposite Coatings for the Control of Biodeterioration of Cultural Heritage",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "New Generation Multifunctional Green Nanocomposite Coatings for the Control of Biodeterioration of Cultural Heritage",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Setting Up High-End Testing Facilities of Materials for Biomaterials, Aerospace and Automotive Applications (SGDRI-2015)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "SYNTHESIS AND PROPERTIES OF ELECTRODEPOSITED NICKEL/CERIA NANO COMPOSITES",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Synthesis and properties of electrodeposited Nickel/Ceria Nanocomposites",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "SYNTHESIS AND PROPERTIES OF ELECTRODEPOSITED NICKEL/ZIRCONIA NANOCOMPOSITES",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/karabi-das.webp",
+  "researchImage": null,
+  "website": null,
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-karabi",
+  "source": "IIT Kharagpur institute faculty profile"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Manish Kumar Kar",
+  "slug": "manish-kumar-kar",
+  "designation": "Assistant Professor Grade-II",
+  "isHead": false,
+  "email": "manish1993@metal.iitkgp.ac.in",
+  "phone": null,
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Hydrogen technology",
+    "Metal recycling",
+    "Waste Management",
+    "Sustainable Metallurgy",
+    "Extractive metallurgy"
+  ],
+  "areas": [
+    "extractive-process",
+    "energy-sustainability"
+  ],
+  "researchStatement": [
+    "My research focuses on developing sustainable and efficient processes for recovering valuable metals from low grade ores, metallurgical wastes, and end-of-life products. I investigate the use of renewable reductants as environmentally friendly alternatives to coke, reducing carbon emissions in metallurgical operations. My work also emphasizes metal recycling and resource recovery to support a circular economy and sustainable resource utilization. Additionally, I research the production of metallurgical-grade silicon from silica resources and its purification to solar-grade silicon for photovoltaic applications. My goal is to develop innovative, energy-efficient, and environmentally responsible technologies for sustainable metal extraction and advanced materials production."
+  ],
+  "awards": [],
+  "currentProjects": [
+    {
+      "title": "Sustainable Recovery of Metals and Production of High-Purity Silicon from Spent Photovoltaic Solar Panels",
+      "role": "Principal Investigator",
+      "funder": "SRIC, IIT KHARAGPUR"
+    }
+  ],
+  "completedProjects": [],
+  "photo": null,
+  "researchImage": null,
+  "website": null,
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-manish1993",
+  "source": "IIT Kharagpur institute faculty profile"
+}

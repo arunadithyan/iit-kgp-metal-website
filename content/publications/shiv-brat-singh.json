@@ -1,0 +1,1821 @@
+{
+ "faculty": "shiv-brat-singh",
+ "items": [
+  {
+   "title": "Critical assessment: Processing, microstructure and mechanical properties of Al-containing ferrite-based low-density steels",
+   "authors": "Singh V. K., Rana R., Kundu A., Singh S. B.",
+   "venue": "Materials Science and Technology",
+   "volume": null,
+   "pages": "1-27",
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of quench- and age-induced grain boundary -phase precipitates on hydrogen environmentally induced cracking (H-EIC) behaviour of AA7085 alloy in humid air",
+   "authors": "Srivastava J., Curd M.E., Yao Y., Holroyd N.J.H., Shanthraj P., Singh S.B., Mandal S., Prangnell P.B., Burnett T.L.",
+   "venue": "Journal of Materials Science",
+   "volume": "61",
+   "pages": "5412-5433",
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh",
+    "sumantra-mandal"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Influence of aging on microstructure evolution and mechanical properties of ultra-low carbon Fe-Cr-Ni-Ti-Mo PH martensitic stainless steel: Insights into austenite stability and Ni3Ti precipitation",
+   "authors": "Poojaria G., Sa S., B H. K., Tharianc T., Makinenib S. K., Singh S. B., Kar S. K.",
+   "venue": "Materials Science & Engineering A",
+   "volume": "952",
+   "pages": null,
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh",
+    "sujoy-kumar-kar"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Kinetics of grain growth: the effect of grain boundary engineering in high-Mn austenitic steel",
+   "authors": "Kokkula P.C., Ranjan R., Mandal S., Singh S.B.",
+   "venue": "Scripta Materialia",
+   "volume": "277",
+   "pages": null,
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh",
+    "sumantra-mandal"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "High strength hot rolled steel having excellent hydrogen embrittlement resistance and method of manufacturing thereof",
+   "authors": "Samanta S., Singh S. B., Dutta M.",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2025,
+   "type": "Patent",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A cold-rolled bainitic steel with strength and high elongation",
+   "authors": "Yadav S., Singh S. B., Chowdhury R., Das S.",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2025,
+   "type": "Patent",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A HOT-ROLLED CONTINUOUSLY COOLED BAINITIC STEEL COMPOSITION AND ITS METHOD OF PREPARATION",
+   "authors": "Yadav S., Singh S. B., Haldar A., Das S.",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2025,
+   "type": "Patent",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The evolution of microstructure during quenching and partitioning (Q&P): A comprehensive analysis of the competing reactions",
+   "authors": "Kumar S., Singh S.B.",
+   "venue": "Materials Characterization",
+   "volume": "228",
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Influence of Partially Recrystallized Grain Structures on Hydrogen Environmentally Induced Cracking (H-EIC) Behavior of AA7085 Alloy in Humid Air",
+   "authors": "Srivastava J., Card M. E., Euesden R., Yao Y., Garner A., Singh S. B., Mandal S., Burnett T. L., Prangnell P. B.",
+   "venue": "Corrosion Science",
+   "volume": "256",
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh",
+    "sumantra-mandal"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Grain Boundary Development in Post-hot-deformed Austenitic Stainless Steel",
+   "authors": "Rout M., Singh S.B., Pal S.K.",
+   "venue": "Journal of Materials Engineering and Performance",
+   "volume": "34",
+   "pages": "824-836",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Insights into the sliding wear behaviour under dry and 3.5 wt% NaCl solution of Fe-Cr-Ni-Mo-Ti PH martensitic stainless steel",
+   "authors": "Poojari G., S S., Tharian T., Singh S.B., Kar S.K.",
+   "venue": "Wear",
+   "volume": "33",
+   "pages": "102040",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh",
+    "sujoy-kumar-kar"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructure evolution and mechanical behavior of as-cast chromium-containing ductile iron",
+   "authors": "Nidhi K.K., Roy S., Singh S.B.",
+   "venue": "Materials Science and Technology (United Kingdom)",
+   "volume": null,
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh",
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of Austenitization and Cooling Rate on Pearlite Morphology and Kinetics of Near Eutectoid Steel: A Combined Experimental Simulation Approach",
+   "authors": "Tripathy I., Mallik M., Singh S.B.",
+   "venue": "Journal of Phase Equilibria and Diffusion",
+   "volume": "46",
+   "pages": "396-413",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of Austenization Treatment on Transformed Pearlite Microstructure of Cold Drawn near Eutectoid Steel",
+   "authors": "Tripathy I., Singh S. B. Metallography, Microstructure and Analysis",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Kinetics of pearlite transformation: The effect of grain boundary engineering",
+   "authors": "Kokkula P.C., Samanta S., Mandal S., Singh S.B.",
+   "venue": "Acta Materialia",
+   "volume": "284",
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh",
+    "sumantra-mandal"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Design and development of cold rolled carbide free bainitic steel through microstructural engineering",
+   "authors": "Yadav S., Haldar A., Singh S.B., Das S.",
+   "venue": "Materials Science and Technology (United Kingdom)",
+   "volume": null,
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A method for fabricating low Manganese steel",
+   "authors": "Dhanya J., Kumar S., Ghosh D., Singh S. B., Mukherjee S., Mandal S.",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2024,
+   "type": "Patent",
+   "faculty": [
+    "shiv-brat-singh",
+    "sumantra-mandal"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Ultra-High Strength and Wear Resistant Carbide-free Bainitic Rail Steel and Method of Manufacturing the Same",
+   "authors": "Hasan S. M., Singh S. B.",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2024,
+   "type": "Patent",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Low carbon microalloyed non-heat treated steel forgings and method of preparation thereof",
+   "authors": "Kumar S., Singh S. B.",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2024,
+   "type": "Patent",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of Cold Drawing Deformation on Themicrostructure and Evolution of Texture of Near Eutectoid Pearlitic Steel",
+   "authors": "Tripathy I., Singh S.B.",
+   "venue": "Metal Science and Heat Treatment",
+   "volume": "66",
+   "pages": "201-209",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of Mn and Ti Addition on Strength and Strain Hardening Behavior of Pearlite",
+   "authors": "Tripathy I., Singh S. B.",
+   "venue": "PHYSICS OF METALS AND METALLOGRAPHY",
+   "volume": "125",
+   "pages": "170-177",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "High-Temperature Phase Transformation and Corrosion Behavior of Zn-Ni Coated Press Hardenable Steels",
+   "authors": "Mondal R., Sarkar K., Halder A.K., Chakraborty A., Mondal A., Singh S.B.",
+   "venue": "Journal of Materials Engineering and Performance",
+   "volume": "33",
+   "pages": "8138-8155",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Strain Rate Dependent Tensile and Fracture Properties of Low Carbon Ferritic Low-Density Steels",
+   "authors": "Singh V. K., Rana R., Singh S. B., Kundu A.",
+   "venue": "Metallurgical and Materials Transactions A",
+   "volume": "55A",
+   "pages": "2990-3010",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of prior cold rolling and aging temperature on PH martensitic stainless steel: Evolution of microstructure, micro-texture and austenite stability",
+   "authors": "Poojari G., Kumar H., Sampreeth S., Tharian T., Makineni S.K., Singh S.B., Kar S.K.",
+   "venue": "Materialia",
+   "volume": "33",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh",
+    "sujoy-kumar-kar"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Hydrogen trapped by the precipitates of microalloying elements (Nb, Ti, and V) in low C ferritic steels: A quantitative analysis",
+   "authors": "Samanta S., Kumar S., Aswal V.K., Kumar K. C H., Dutta M., Singh S.B.",
+   "venue": "International Journal of Hydrogen Energy",
+   "volume": "50",
+   "pages": "372-387",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Assessment of Hydrogen Trapped by Microalloyed Precipitates in Steel Using Electrochemical Permeation Tests",
+   "authors": "Samanta S., Mondal K., Dutta M., Singh S.B.",
+   "venue": "Journal of Materials Engineering and Performance",
+   "volume": null,
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructure evolution and mechanical properties of Fe-Cr-Ni-Ti-Mo PH martensitic stainless steel: Influence of aging temperature and time",
+   "authors": "Poojari G., Tharian T., Singh S. B., Kar S. K.",
+   "venue": "INDO-AUSTRIAN symposium on Materials Engineering (IASME-2024)",
+   "volume": null,
+   "pages": null,
+   "year": 2024,
+   "type": "Conferences",
+   "faculty": [
+    "shiv-brat-singh",
+    "sujoy-kumar-kar"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Atomic-scale investigation of H-trapping by fine NbC precipitates in a low C ferritic steel",
+   "authors": "Samanta S., Gangavarapu S., Jayabalan B., Makineni S. K., Dutta M., Singh S. B.",
+   "venue": "Scripta Materialia",
+   "volume": "234",
+   "pages": "115537-115542",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Yield point phenomenon in low-alloyed TRIP-aided steel role of retained austenite",
+   "authors": "Ranjan R., Beladi H., Hodgson P. D., Singh S. B.",
+   "venue": "Material Science and Technology",
+   "volume": "39",
+   "pages": "85-93",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effects of Temperatures of Rolling and Annealing on Microstructures and Tensile Properties of Low Carbon Ferritic Low Density Steels",
+   "authors": "Singh V. K., Rana R., Singh S. B., Kundu A.",
+   "venue": "ISIJ International",
+   "volume": "63",
+   "pages": "930-940",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Post-hot-deformation microstructure development in austenite stainless steel",
+   "authors": "Pal S. K., Singh S. B., Rout M.",
+   "venue": "Materials Chemistry and Physics",
+   "volume": "295",
+   "pages": "127064-127073",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Grain boundary development in post-hot-deformation austenitic stainless steel",
+   "authors": "Rout M., Singh S. B., Pal S. K.",
+   "venue": "Journal of Materials Engineering and Performance",
+   "volume": null,
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Diffusion-controlled growth mechanism of phases and the microstructural evolution in the Ni-Zn system",
+   "authors": "Bansal U., Thakur A. K., Baheti V. A., Singh S. B., Mandal A., Halder A. K., Chakraborty A., Chattopadhyay K., Paul A.",
+   "venue": "Materials Characterization",
+   "volume": "202",
+   "pages": "112982-112988",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Quantification of retained austenite in low carbon steels",
+   "authors": "Kumar S., Singh S. B.",
+   "venue": "Metallurgical and Materials Transactions",
+   "volume": "54A",
+   "pages": "4283-4294",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Quenching and Partitioning (Q&P) steel: Alloy design, phase transformation and evolution of microstructure",
+   "authors": "Kumar S., Singh S. B.",
+   "venue": "Metallurgical and Materials Transactions A",
+   "volume": "54A",
+   "pages": "3134-3156",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of Austenitization Treatment on Texture Inheritance Characteristics of Near Eutectoid Pearlitic Steel ,",
+   "authors": "Tripathy I., Singh S. B.",
+   "venue": "Transactions of Indian Institute of Metals",
+   "volume": "76",
+   "pages": "2815-2825",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructure-property relationship in the quenching and partitioning (Q&P) steel",
+   "authors": "Kumar S., Singh S.B.",
+   "venue": "Materials Characterization",
+   "volume": "196",
+   "pages": "112561-112577",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Influence of aging temperature and time on the formation of reverted austenite and precipitation of Ni3Ti during aging of indigenously developed PH martensitic stainless steel",
+   "authors": "Poojari G., Tharian T., Singh S. B., Kar S. K.",
+   "venue": "EUROMAT",
+   "volume": "2023",
+   "pages": null,
+   "year": 2023,
+   "type": "Conferences",
+   "faculty": [
+    "shiv-brat-singh",
+    "sujoy-kumar-kar"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Correction: Quenching and Partitioning (Q&P) Steel: Alloy Design, Phase Transformation and Evolution of Microstructure (Metallurgical and Materials Transactions A, (2023), 54, 8, (3134-3156), 10.1007/s11661-023-07085-x)",
+   "authors": "Kumar S., Singh S.B.",
+   "venue": "Metallurgical and Materials Transactions A: Physical Metallurgy and Materials Science",
+   "volume": "54",
+   "pages": "3681",
+   "year": 2023,
+   "type": "Others",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Isothermal austenite to ferrite transformation: analysis of dilatation data",
+   "authors": "Ranjan R., Singh S.B.",
+   "venue": "Philosophical Magazine",
+   "volume": "102",
+   "pages": "1042-1054",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of Welding Speed on Fatigue Property of Laser Welded Dual-Phase Steel",
+   "authors": "Mitra S., Arora K.S., Bhattacharya B., Singh S.B.",
+   "venue": "Transactions of the Indian Institute of Metals",
+   "volume": "75",
+   "pages": "525-534",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "An alternative quenching and partitioning (Q&P) process via spheroidization",
+   "authors": "Kumar S., Samanta S., Singh S.B.",
+   "venue": "Materials Characterization",
+   "volume": "191",
+   "pages": "112049-112064",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Electroless Amorphous NiP Coatings Over API X70 Steel: Resistance to Wear and Hydrogen Embrittlement",
+   "authors": "Samanta S., Vishwanath K., Mondal K., Dutta M., Singh S.B.",
+   "venue": "Metals and Materials International",
+   "volume": "28",
+   "pages": "397-411",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Investigation of the Selective Oxidation Process for High Strength Steels",
+   "authors": "Sadhu S., Chakraborty A., Singh S.B., Halder A.K.",
+   "venue": "Lecture Notes in Mechanical Engineering",
+   "volume": null,
+   "pages": "77-90",
+   "year": 2022,
+   "type": "Conferences",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Investigation on the formation of reverted austenite and precipitation of Ni3Ti during ageing of MDN 465 PH martensitic stainless steel",
+   "authors": "Poojari G., Tharian T. K., Singh S. B., Kar S. K.",
+   "venue": "IIM ATM",
+   "volume": "2022",
+   "pages": null,
+   "year": 2022,
+   "type": "Conferences",
+   "faculty": [
+    "shiv-brat-singh",
+    "sujoy-kumar-kar"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructure and Texture Study of High Temperature Upset Forged 304LN Stainless Steel",
+   "authors": "Rout M., Singh S.B., Ranjan R., Pal S.K.",
+   "venue": "Lecture Notes in Mechanical Engineering",
+   "volume": null,
+   "pages": "113-122",
+   "year": 2022,
+   "type": "Conferences",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Electroless NiP coatings over API X70 steel: Effect of composition on the H-permeation and corrosion resistance",
+   "authors": "Samanta S., Mondal K., Dutta M., Singh S.B.",
+   "venue": "Surface and Coatings Technology",
+   "volume": "409",
+   "pages": null,
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Texture development in 304LN austenitic stainless steel during post-hot-axisymmetric compression",
+   "authors": "Rout M., Singh S.B., Pal S.K. Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture 235 1131-1143",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The Mechanical Properties of Low Alloy TRIP-Aided Steel: The Role of Retained Austenite",
+   "authors": "Ranjan R., Beladi H., Hodgson P.D., Singh S.B.",
+   "venue": "Metallurgical and Materials Transactions A: Physical Metallurgy and Materials Science",
+   "volume": "52",
+   "pages": "4649-4663",
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Isothermal bainite transformation in low-alloy steels: Mechanism of transformation",
+   "authors": "Ranjan R., Singh S.B.",
+   "venue": "Acta Materialia",
+   "volume": "202",
+   "pages": "302-316",
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Evolution of microstructure during the \"quenching and partitioning (Q&P)\" treatment",
+   "authors": "Kumar S., Singh S.B.",
+   "venue": "Materialia",
+   "volume": "18",
+   "pages": null,
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Tribological behaviour of the hardfacing alloys utilised to fabricate the wear parts of an excavator bucket",
+   "authors": "Das B., Sawrav K., Singh S.B., Bandyopadhyay P.P.",
+   "venue": "Transactions of the Institute of Metal Finishing",
+   "volume": "99",
+   "pages": "153-161",
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microalloyed Steel",
+   "authors": "Das S., Karmakar A., Singh S. B.",
+   "venue": "High performance ferrous alloys",
+   "volume": null,
+   "pages": "83-112",
+   "year": 2021,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructure property correlation in wear resistant steel",
+   "authors": "Singh S. B.",
+   "venue": "Wear Resistant Steels for L&E Segments: Current and Future Aspects",
+   "volume": null,
+   "pages": null,
+   "year": 2021,
+   "type": "Workshop",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A development of Ni-based amorphous coating on API X70 grade steel for the prevention of atmospheric corrosion and hydrogen embrittlement",
+   "authors": "Samanta S., Singh C., Manna M., Vishwanath K. T., Banerjee A., Bhagat A. N., Dutta M., Mondal K., Singh S. B.",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2020,
+   "type": "Patent",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Ni-based amorphous coating on API X70 grade steel for the prevention of atmospheric corrosion and hydrogen embrittlement: the effect of coating composition (hyper-eutectic)",
+   "authors": "Samanta S., Singh C., Dutta M., Vishwanath K., Mondal K., Singh S. B.",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2020,
+   "type": "Patent",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Ni-based amorphous coating on API X70 grade steel for the prevention of atmospheric corrosion and hydrogen embrittlement: the effect of coating composition (hypo-eutectic)",
+   "authors": "Samanta S., Singh C., Dutta M., Vishwanath K., Mondal K., Singh S. B.",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2020,
+   "type": "Patent",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Development of amorphous Ni-P coating over API X70 steel for hydrogen barrier application",
+   "authors": "Samanta S., Singh C., Banerjee A., Mondal K., Dutta M., Singh S.B.",
+   "venue": "Surface and Coatings Technology",
+   "volume": "403",
+   "pages": null,
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Enhancement of joint strength in friction stir lap welding between AA6061 and AISI 304 by adding diffusive coating agents",
+   "authors": "Mypati O., Sadhu A., Sahu S., Mishra D., Pal S.K., Singh S.B., Srirangam P. Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture 234 204-217",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "An alternative and comprehensive approach to estimate trapped hydrogen in steels using electrochemical permeation tests",
+   "authors": "Samanta S., Kumari P., Mondal K., Dutta M., Singh S.B.",
+   "venue": "International Journal of Hydrogen Energy",
+   "volume": "45",
+   "pages": "26666-26687",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of welding speed on texture in laser welded dual phase steel",
+   "authors": "Mitra S., Arora K. S., Bhattacharya ., Singh S. B.",
+   "venue": "Metallurgical and Materials Transactions A",
+   "volume": "51A",
+   "pages": "2915-2926",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of Welding Speed on the Prediction Accuracy of Residual Stress in Laser Welded 1.2 mm Thick Dual Phase Steel",
+   "authors": "Mitra S., Arora K. S., Bhattacharya B., Singh S. B.",
+   "venue": "Lasers in Manufacturing and Materials Processing",
+   "volume": "7",
+   "pages": "74-87",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Low Transverse Ductility in a New High-Strength Corrosion-Resistant Steel: Microstructure andÂ Texture",
+   "authors": "Poojari G., Kar S.K., Singh S.B., Kadavil T.T., Anoop C.R.",
+   "venue": "Transactions of the Indian Institute of Metals",
+   "volume": "72",
+   "pages": "1453-1457",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh",
+    "sujoy-kumar-kar"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Formation of austenite in steels during heating: analysis of dilatation data",
+   "authors": "Ranjan R., Singh S. B.",
+   "venue": "MATERIALS SCIENCE AND TECHNOLOGY",
+   "volume": "35",
+   "pages": "782-790",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Enhancement of joint strength in friction stir welding AA6061 to AISI 304 by adding diffusive coating agents",
+   "authors": "Mypati O., Sadhu A., Sahu S., Mishra D., Pal S. K., Singh S. B., Srirangam P. The Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture 234 204-217",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructure and texture evolution in austenitic stainless steel during low strain rate deformation at elevated temperature",
+   "authors": "Rout M. P., Singh S. B., Pal S. K.",
+   "venue": "International Journal of Material Forming",
+   "volume": "13",
+   "pages": "605-621",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Phase transformations in high strength steels",
+   "authors": "Ranjan R., Singh S. B.",
+   "venue": "International Conference on Tailoring grain orientation: processing and applications",
+   "volume": null,
+   "pages": null,
+   "year": 2019,
+   "type": "Conferences",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Modification of low modulus titanium alloys by addition of interstitial solute for biomedical load bearing applications",
+   "authors": "Majumdar P., Singh S.B., Dhara S., Chakraborty M.",
+   "venue": "MS and T 2019 - Materials Science and Technology",
+   "volume": "2019",
+   "pages": "283-290",
+   "year": 2019,
+   "type": "Conferences",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Reference Module in Materials Science & Materials Engineering",
+   "authors": "Biswas S., Samanta S., Singh A. K., Singh S. B.",
+   "venue": "An Overview on the Texture Evolution of Cold Rolled IF Steels and Zn Coating During Galvanizing and Galvannealing",
+   "volume": null,
+   "pages": null,
+   "year": 2019,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "shiv-brat-singh",
+    "somjeet-biswas"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Deformation Behavior and Evolution of Microstructure and Texture During Hot Compression of AISI 304LN Stainless Steel",
+   "authors": "Rout M., Biswas S., Ranjan R., Pal S. K., Singh S. B.",
+   "venue": "Metallurgical and Materials Transactions A",
+   "volume": "49",
+   "pages": "864-880",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh",
+    "somjeet-biswas"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Investigation on effect of pin shapes on temperature, material flow and forces during friction stir welding: A simulation study",
+   "authors": "Jain R., Pal S. K., Singh S. B. Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture 1-14",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "EBSD study of microstructure evolution during axisymmetric hot compression of 304LN stainless steel",
+   "authors": "Rout M., Ranjan R., Pal S. K., Singh S. B.",
+   "venue": "Materials Science & Engineering A",
+   "volume": "711",
+   "pages": "378-388",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Novel Bilayer Zn-Ni/Ni-Co-SiC Nanocomposite Coating with Exceptional Corrosion and Wear Properties by Pulse Electrodeposition",
+   "authors": "Das S., Banthia S., Patra A., Sengupta S., Singh S. B.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "738",
+   "pages": "394-404",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Bainite transformation during continuous cooling: analysis of dilatation data",
+   "authors": "Ranjan R., Singh S. B.",
+   "venue": "Metallurgical and Materials Transaction A",
+   "volume": "49A",
+   "pages": "88-93",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Martensite transformation during continuous cooling: analysis of dilatation data",
+   "authors": "Ranjan R., Singh S. B.",
+   "venue": "Metallurgical and Materials Transaction A",
+   "volume": "49A",
+   "pages": "4474-4483",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Evolution of Microstructure in some Advanced High Strength Steels",
+   "authors": "Singh S. B.",
+   "venue": "NATIONAL CONFERENCE ON SCIENCE AND TECHNOLOGY OF SPECIAL STEELS & NANOMATERIALS",
+   "volume": null,
+   "pages": null,
+   "year": 2018,
+   "type": "Conferences",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Friction stir welding for joining of dissimilar materials",
+   "authors": "Sahu S., Mypati O., Nayak S. S., Sarkar P., Pal S. K., Singh S. B. 7th International and 28th All India Manufacturing Technology, Design and Research Conference",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2018,
+   "type": "Conferences",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Characterization of post-hot-deformation annealing twins developed in 304LN austenitic stainless steel",
+   "authors": "Rout M., Singh S. B., Pal S. K.",
+   "venue": "7th Asia Steel International Conference",
+   "volume": null,
+   "pages": "112",
+   "year": 2018,
+   "type": "Conferences",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Thermo-mechanical simulation of friction stir welding process using Lagrangian method",
+   "authors": "Jain R., Pal S. K., Singh S. B.",
+   "venue": "Simulations for design and manufacturing",
+   "volume": null,
+   "pages": "103-146",
+   "year": 2018,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructural development of prior nickel coated hot dipped galvanised coatings",
+   "authors": "Chakraborty A., Govardhana P., Mondal, A., Laha T., Dutta M., Singh S. B.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "699",
+   "pages": "648-656",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh",
+    "tapas-laha"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Analysis of the kinetics of bainite formation below the MS temperature",
+   "authors": "Samanta S., Biswas P., Singh S. B. Scripta Materialia, 136 132-135",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Finite element analysis of cross rolling on AISI 304 stainless steel: prediction of stress and strain fields",
+   "authors": "Rout M., Pal S. K., Singh S. B.",
+   "venue": "Journal of the Institution of Engineers (India): Series C",
+   "volume": "98",
+   "pages": "27-35",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Finite element simulation of temperature and strain distribution during friction stir welding of AA2024 aluminum alloy",
+   "authors": "Jain R., Pal S. K., Singh S. B.",
+   "venue": "Journal of the Institution of Engineers (India): Series C",
+   "volume": "98",
+   "pages": null,
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Investigation of Austenitization in Low Carbon Microalloyed Steel During Continuous Heating",
+   "authors": "Gunabalapandian K., Samanta S., Ranjan R., Singh S. B.",
+   "venue": "METALLURGICAL AND MATERIALS TRANSACTIONS A",
+   "volume": "48",
+   "pages": "2099-2104",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Nucleation and growth behaviour of iron-zinc intermetallic phases in prior-copper coated galvanized steels",
+   "authors": "Mondal A., Chakraborty A., Bysakh S., Dutta M., Singh S. B.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "699",
+   "pages": "947-958",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Evolution of Microstructure in some High Strength Steels",
+   "authors": "Singh S. B.",
+   "venue": "National Conference on Physical Simulation of Thermal-Mechanical Processing of Materials (NC-PSTMPM)",
+   "volume": null,
+   "pages": null,
+   "year": 2017,
+   "type": "Conferences",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Finite element modeling of hot rolling: Steady- and unsteady-state analyses",
+   "authors": "Rout M., Pal S. K., Singh S. B.",
+   "venue": "Computational Methods and Production Engineering",
+   "volume": null,
+   "pages": "83-124",
+   "year": 2017,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Numerical modeling methodologies for friction stir welding process",
+   "authors": "Jain R., Pal S. K., Singh S. B.",
+   "venue": "Computational Methods and Production Engineering",
+   "volume": null,
+   "pages": "125-168",
+   "year": 2017,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Automotive Steels Design, Metallurgy, Processing and Applications",
+   "authors": "Rana R., Singh S. B. Automotive Steels Design, Metallurgy, Processing and Applications 1-469",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2017,
+   "type": "Edited Volume",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Finite Element Simulation of a Cross Rolling Process",
+   "authors": "Rout M., Pal S. K., Singh S. B.",
+   "venue": "Journal of Manufacturing Processes",
+   "volume": "24",
+   "pages": "283-292",
+   "year": 2016,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Formation of bainite below the MS temperature: Kinetics and crystallography",
+   "authors": "Samanta S., Biswas P., Giri S., Singh S. B., Kundu S.",
+   "venue": "Acta Materialia",
+   "volume": "105",
+   "pages": "390-403",
+   "year": 2016,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Suppression of selective surface oxidation in DP steels by effective shielding of copper - Kinetic simulation and experimental validation",
+   "authors": "Chakraborty A., Mondal A., Dutta M., Singh S. B.",
+   "venue": "Surface and Coating Technology",
+   "volume": "306",
+   "pages": "473-479",
+   "year": 2016,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructural investigation of galvanized coatings with prior flashcoating of copper on DP steels",
+   "authors": "Chakraborty A., Mondal A., Bysakh S., Dutta M., Singh S. B.",
+   "venue": "Surface & Coatings Technology",
+   "volume": "285",
+   "pages": "220-226",
+   "year": 2016,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A study on the variation of forces and temperature in a friction stir welding process: a finite element approach",
+   "authors": "Jain R., Pal S. K., Singh S. B.",
+   "venue": "Journal of Manufacturing Processes",
+   "volume": "23",
+   "pages": "278-286",
+   "year": 2016,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Stress-Assisted Bainite Transformation and Bainitic Steels",
+   "authors": "Kashyap I., Ranjan R., Singh S. B.",
+   "venue": "IRON AND STEEL REVIEW",
+   "volume": "59",
+   "pages": "55-58",
+   "year": 2015,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Thermo-mechanical processing of TRIP aided steels",
+   "authors": "Ranjan R., Beladi H., Singh S. B., Hodgson P.",
+   "venue": "Metallurgical and Materials Transactions A",
+   "volume": "46A",
+   "pages": "3232-3247",
+   "year": 2015,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Influence of boron addition to Ti 13Zr 13Nb alloy on MG63 osteoblast cell viability and protein adsorption",
+   "authors": "Majumdar P., Singh S. B., Dhara S., Chakraborty M.",
+   "venue": "Materials Science and Engineering C",
+   "volume": "46",
+   "pages": "62-68",
+   "year": 2015,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Bake hardening behavior: Low and ultra low carbon steels",
+   "authors": "Das S., Singh S. B., Mohanty O. N. Encyclopedia of Iron, Steel, and Their Alloys 306-319",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2015,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Ultra Fast Cooling and Its Effect on the Mechanical Properties of Steel",
+   "authors": "Mohapatra S. S., Ravikumar S. V., Ranjan R., Pal S. K., Singh S. B., Chakraborty S.",
+   "venue": "Journal of Heat Transfer",
+   "volume": "136",
+   "pages": "0321011-0321019",
+   "year": 2014,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "SERS activeAgencapsulatedFe@SiO2 nanorodsinelectromagnetic waveabsorptionandcrystalvioletdetection",
+   "authors": "Senapati S., Srivastava S. K., Singh S. B., Kulkarni A. R.",
+   "venue": "EnvironmentalResearch",
+   "volume": "135",
+   "pages": "95-104",
+   "year": 2014,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Dilatometric and microstructural response of variant selection during a9 transformation",
+   "authors": "Mangal A., Biswas P., Lenka S., Singh V., Singh S. B., Kundu S.",
+   "venue": "Materials Science and Technology",
+   "volume": "30",
+   "pages": "1116-1124",
+   "year": 2014,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A phenomenological model for bake hardening in minimal carbon steels",
+   "authors": "Das S., Mohanty O. N., Singh S. B.",
+   "venue": "Philosophical Magazine",
+   "volume": "94",
+   "pages": "2046-2061",
+   "year": 2014,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Hot shortness behavior of a copper-alloyed high strength interstitial free steel",
+   "authors": "Rana R., Bleck W., Singh S. B., Mohanty O. N.",
+   "venue": "Materials Science & Engineering A",
+   "volume": "588A",
+   "pages": "288-298",
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Structure-Property Correlation in TRIP Aided Steels",
+   "authors": "Singh S. B., Bhattacharyya T., Ranjan R., Bhattacharyya S., Bhattacharjee D.",
+   "venue": "International Journal of Metallurgical Engineering",
+   "volume": "2",
+   "pages": "161-178",
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "An assessment on coatability of transformation induced plasticity (TRIP)-aided steel",
+   "authors": "Bhattacharyya T., Singh S. B., Bhattacharyya S., Ray R. K., Bleck W., Bhattacharjee D.",
+   "venue": "Surface & Coatings Technology",
+   "volume": "235",
+   "pages": "226-234",
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of Pre-Treatment on Copper Precipitation Characteristics in a Copper-Alloyed Interstitial Free Steel Studied by Thermoelectric Power Measurement",
+   "authors": "Rana R., Massardier V., Singh S. B., Mohanty O. N.",
+   "venue": "METALLURGICAL AND MATERIALS TRANSACTIONS A",
+   "volume": "44A",
+   "pages": "186-200",
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of recalescence on microstructure and phase transformation in high carbon steel",
+   "authors": "Lenka S., Kundu S., Singh S. B., Chandra S.",
+   "venue": "Materials Science and Technology",
+   "volume": "29",
+   "pages": "715-725",
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Fatigue crack growth behaviour of ferrite bainite dual phase steels",
+   "authors": "Kumar A., Singh S. B., Ray K. K.",
+   "venue": "Materials Science and Technology",
+   "volume": "29",
+   "pages": "1507-1512",
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Microstructural prediction through artificial neural network (ANN) for development of transformation induced plasticity (TRIP) aided steel",
+   "authors": "Bhattacharyya T., Singh S. B., Sikdar S., Bhattacharyya S., Bleck W., Bhattacharjee D.",
+   "venue": "Materials Science & Engineering A",
+   "volume": "565A",
+   "pages": "148-157",
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "The dilatometric and microstructural response of variant selection during a¢ transformation",
+   "authors": "Mangal A., Biswas P., Singh S. B., Kundu S.",
+   "venue": "Adventires in Physical Metallurgy of Steels",
+   "volume": null,
+   "pages": null,
+   "year": 2013,
+   "type": "Conferences",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Evolution of microstructure in hot rolled TRIP-aided steels",
+   "authors": "Singh S. B.",
+   "venue": "THERMEC",
+   "volume": null,
+   "pages": null,
+   "year": 2013,
+   "type": "Conferences",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Magnetic Ni/Ag Core-Shell Nanostructure from Prickly Ni Nanowire Precursor and Its Catalytic and Antibacterial Activity",
+   "authors": "Senapati S., Srivastava S. K., Singh S. B., Mishra H. N.",
+   "venue": "Journal of Materials Chemistry",
+   "volume": "22",
+   "pages": "6899-6906",
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Synthesis, Characterization and Photocatalytic Activity of Magnetically Separable Hexagonal Ni/ZnO Nanostructure",
+   "authors": "Senapati S., Srivastava S. K., Singh S. B.",
+   "venue": "Nanoscale",
+   "volume": "4",
+   "pages": "6604-6612",
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Optimization of Stability of Retained Austenite in TRIP-Aided Steel Using Data-Driven Models and Multi-Objective Genetic Algorithms",
+   "authors": "Ghosh A., Singh S. B., Chakraborti N.",
+   "venue": "Materials Performance and Characterization",
+   "volume": "1",
+   "pages": "1-11",
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Synthesis, Magnetic Properties and Catalytic Activity of Hierarchical Cobalt Microflowers",
+   "authors": "Senapati S., Srivastava S. K., Singh S. B.",
+   "venue": "Journal of Nanoscience and Nanotechnology",
+   "volume": "12",
+   "pages": "1-11",
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Influence of in situ TiB Reinforcements and Role of Heat Treatment on Mechanical Properties and Biocompatibility of beta Ti-alloy",
+   "authors": "Majumdar P., Singh S. B., Dhara S., Chakraborty M.",
+   "venue": "Journal of the Mechanical Behavior of Biomedical Materials",
+   "volume": "10",
+   "pages": "1-12",
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of bainitic transformation on bake hardening in TRIP assisted steel",
+   "authors": "Das S., Timokhina I., Singh S. B., Pereloma E., Mohanty O. N.",
+   "venue": "Materials Science and Engineering A",
+   "volume": "534A",
+   "pages": "485-494",
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Mechanisms of Bainite Transformation in Steels",
+   "authors": "Singh S. B.",
+   "venue": "Phase Transformations in Steels",
+   "volume": null,
+   "pages": "385-416",
+   "year": 2012,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Air cooled carbide free bainitic steel",
+   "authors": "Rao B. M., Singh S.",
+   "venue": "B. - (Accepted/In-Press)",
+   "volume": null,
+   "pages": null,
+   "year": null,
+   "type": "Patent",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Carbide-free bainitic steel produced by cold-rolling process",
+   "authors": "Yadav S., Haldar A., Singh S. B., Das S.",
+   "venue": "Materials Science and Technology - (Accepted/In-Press)",
+   "volume": null,
+   "pages": null,
+   "year": null,
+   "type": "Journal",
+   "faculty": [
+    "shiv-brat-singh"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

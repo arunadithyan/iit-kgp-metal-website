@@ -1,0 +1,124 @@
+{
+  "name": "Siddhartha Roy",
+  "slug": "siddhartha-roy",
+  "designation": "Associate Professor",
+  "isHead": false,
+  "email": "siddhartha@metal.iitkgp.ac.in",
+  "phone": null,
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Mechanics of Composites",
+    "Mechanical metallurgy",
+    "Powder metallurgy",
+    "Advanced Materials Processing"
+  ],
+  "areas": [
+    "physical-mechanical",
+    "extractive-process",
+    "ceramics-composites"
+  ],
+  "researchStatement": [
+    "The main research interestes of our group are developing porous and hybrid materials using powder metallurgy and casting routes and analyze their microstructure - properties correlations. At present our main focus areas are as follows:",
+    "- Processing of porous ceramic materials with tailorable pore morphologies and pore volume fractions using different powder metallurgical routes",
+    "- Processing of metal/ceramic composite materials having interpenetrating structure and with a wide range of phase architectures to develop custom made composite materials consisting of different metallic alloy and ceramic combinations",
+    "- Non-destructive analysis of the structure and properties of the developed porous and composite materials, which include micro computer tomography to perform three dimensional bulk structural analysis, ultrasonic phase spectroscopy to determine the complete stiffness tensor of complex non-isotropic materials etc.",
+    "- Mechanical and thermal property analysis of hybrid materials at room and elevated temperatures to develop microstructure - property correlations",
+    "- Stress analysis in composite materials using energy dispersive synchrotron radiation to study the processing induced residual stresses as well as the mechanism and extent of load transfer from one phase to another"
+  ],
+  "awards": [
+    "DFG Young investigator grant",
+    "DAAD-Masters Scholarship"
+  ],
+  "currentProjects": [
+    {
+      "title": "Developing a novel rare-earth modified AlSi10Mg alloy via laser additive manufacturing for high-temperature automobile and aerospace applications",
+      "role": "Principal Investigator",
+      "funder": "Various internal users of the Institute"
+    },
+    {
+      "title": "Development of a novel technique for fabricating W/dissimilar metal graded composites using interlayers by laser direct energy deposition",
+      "role": "Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "Development of a novel technique for fabricating W/dissimilar metal graded composites using interlayers by laser direct energy deposition",
+      "role": "Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "Development of highly conducting Al-based composite material using suitable manufacturing process",
+      "role": "Principal Investigator",
+      "funder": "Eaton India Innovation Center LLP"
+    },
+    {
+      "title": "External use of combined stir casting/squeeze casting/centrifugal casting furnace",
+      "role": "Principal Investigator",
+      "funder": "Various Institutes/Organisations"
+    },
+    {
+      "title": "Identification of an alternate drum material for conductor cables",
+      "role": "Principal Investigator",
+      "funder": "LUMINO INDUSTRIES LIMITED"
+    },
+    {
+      "title": "Novel crack-free wear and oxidation-resistant Co-basis TribaloyTM T800 alloy development by laser material deposition",
+      "role": "Principal Investigator",
+      "funder": "Science and Engineering Research Board (SERB)"
+    },
+    {
+      "title": "Novel crack-free wear and oxidation-resistant Co-basis TribaloyTM T800 alloy development by laser material deposition",
+      "role": "Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "Development of Ni based high entropy superalloys (HESAs) with superior high temperature strength",
+      "role": "Co-Principal Investigator",
+      "funder": "Aeronautics R and D Board"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "Development of Hybrid Interpenetrating Metal/Ceramic Composites and Study of their Mechanical and Thermal Expansion Characteristics",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Multi Scale Modeling and Prediction of Microstructure for Processing of Aluminium - Lithium Alloy for Structural Application",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Ultrasound Phase Spectroscopy based Study of Deformation and Damage Mechanism in Porous Copper under Monotonic and Fatigue Loading Conditions",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of ZrB2/B4C Functionally Graded Materials for High-temperature Aerospace Application",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Novel functionally graded alumina-zirconia composites with optimum aging behavior and mechanical properties for biomedical implant applications",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of an Al-Si cast alloy",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Novel functionally graded alumina-zirconia composites with optimum aging behavior and mechanical properties for biomedical implant applications",
+      "role": "Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/siddhartha-roy.webp",
+  "researchImage": null,
+  "website": "https://www.researchgate.net/profile/Siddhartha-Roy-4",
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-siddhartha",
+  "source": "IIT Kharagpur institute faculty profile"
+}

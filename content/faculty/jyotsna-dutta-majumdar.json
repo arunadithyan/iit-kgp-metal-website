@@ -1,0 +1,317 @@
+{
+  "name": "Jyotsna Dutta Majumdar",
+  "slug": "jyotsna-dutta-majumdar",
+  "designation": "Professor",
+  "isHead": false,
+  "email": "jyotsna@metal.iitkgp.ac.in",
+  "phone": "+91-3222-283288",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Energy materials",
+    "Advanced Materials Processing",
+    "Surface engineering and coated materials",
+    "Biomaterials",
+    "Corrosion & environmental degradation"
+  ],
+  "areas": [
+    "extractive-process",
+    "ceramics-composites",
+    "energy-sustainability"
+  ],
+  "researchStatement": [
+    "Dr. Jyotsna Dutta Majumdar’s research is centered on advancing surface engineering and laser-assisted materials processing to develop high-performance materials capable of operating in extreme environments. Her work integrates fundamental materials science with applied engineering to address critical challenges in wear, corrosion, high-temperature degradation, and biocompatibility .",
+    "A key focus of her research is the development of laser-based surface modification techniques , including laser surface alloying, cladding, texturing, and shock peening. These approaches enable precise control over microstructure and composition, leading to significant improvements in hardness, residual stress distribution, and tribo-corrosion resistance. Her contributions to functionally graded materials and coatings , particularly thermal barrier coatings and compositionally graded systems, have demonstrated enhanced thermal stability and reduced interfacial stresses, which are critical for aerospace and energy applications.",
+    "Another major thrust of her research is the design of advanced coatings and composites for demanding sectors such as defence, marine, nuclear, and biomedical applications. Her work on titanium alloys and bioactive coatings has contributed to improving biocompatibility, wear resistance, and corrosion performance of implants. Additionally, her studies on electron beam and hybrid processing techniques have enabled the development of defect-free microstructures with superior mechanical and electrochemical properties.",
+    "Her research also emphasizes process–structure–property correlations , supported by experimental investigations and modelling, to optimize processing parameters for tailored material performance. She has successfully led multiple sponsored projects involving national agencies such as DST, SERB, DRDO, and DAE, focusing on graded materials, thermal barrier coatings, and advanced manufacturing technologies .",
+    "Looking forward, her research aims to integrate AI/ML-driven optimization, additive manufacturing, and high-entropy material systems to develop next-generation multifunctional surfaces. The overarching goal is to create sustainable, high-performance materials solutions for emerging applications in energy, aerospace, defence, and healthcare"
+  ],
+  "awards": [
+    "Fellow",
+    "POWER Fellow",
+    "VASVIK Industrial Research Award",
+    "Fellow, International Association of Advanced Materials",
+    "Friedrich Wilhelm Bessel Award, AvH, 2015"
+  ],
+  "currentProjects": [
+    {
+      "title": "Structural characterization by Field Emission gun Scanning Electron Microscopy",
+      "role": "Principal Investigator",
+      "funder": "Department of Metallurgical and Materials Engineering"
+    },
+    {
+      "title": "Structural Characterization by Field Emission gun Scanning Electron Microscopy (for internal users)",
+      "role": "Principal Investigator",
+      "funder": "Department of Metallurgical and Materials Engineering"
+    },
+    {
+      "title": "Surface Engineering and its Property Evaluation",
+      "role": "Principal Investigator",
+      "funder": "Department of Metallurgical and Materials Engineering,BIRLA INSTITUTE OF TECHNOLOGY"
+    },
+    {
+      "title": "Surface Engineering and its Property Evaluation (for internal users)",
+      "role": "Principal Investigator",
+      "funder": "Department of Metallurgical and Materials Engineering"
+    },
+    {
+      "title": "Analysis of Defects in TMT Bars",
+      "role": "Co-Principal Investigator",
+      "funder": "Orissa Alloy Steel Pvt. Limited"
+    },
+    {
+      "title": "Developing a novel rare-earth modified AlSi10Mg alloy via laser additive manufacturing for high-temperature automobile and aerospace applications",
+      "role": "Co-Principal Investigator",
+      "funder": "Various internal users of the Institute"
+    },
+    {
+      "title": "Novel crack-free wear and oxidation-resistant Co-basis TribaloyTM T800 alloy development by laser material deposition",
+      "role": "Co-Principal Investigator",
+      "funder": "Science and Engineering Research Board (SERB)"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "FAILURE ANALYSIS OF SUKER ROD, SEATING RING AND DIFFUSER SUPPORT USED IN PETROCHEMICAL INDUSTRY",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "THEORETICAL PREDICTION AND EXPERIMENTAL MEASUREMENT OF RESIDUAL STRESS DEVELOPED IN LASER SURFACE ENGINEERING",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "SURFACE ENGINEERING OF BALL BEARING STEEL BY PLASMA ION IMPLANTATION",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "LASER ASSISTED MANUFACTURING OF COMPOSITIONALLY GRADED COATING AND DRILLING OF METALS AND ALLOYS",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "LASER ASSISTED FABRICATION OF FUNCTIONALLY GRADED COMPONENT FOR HIP JOINT AND FEMORAL REPLACEMENT",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "DEVELOPMENT AND CHARACTERIZATION OF COPPER BASED BRAZING ALLOY BY RAPID SOLIDIFICATION AND MECHANICAL ALLOYING",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "DEVELOPMENT OF MULTIFUNCTIONAL SURFACE ON TI AND ITS ALLOYS FOR TAILORING WEAR RESISTANCE AND COMPATIBILITY",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "EURO-INDO FORUM FOR NANOMATERIAL RESEARCH COORDINATION & COOPERATION FOR RESEARCHERS IN SUSTAINABLE ENERGY TECHNOLOGY",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "DEVELOPMENT OF COMPOSITIONALLY GRADED COATING ON MARINE PROPELLER FOR IMPROVING CAVITATION CORROSION RESISTANCE",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "DEVELOPMENT OF COMPOSITIONALLY AND MICRO STRUCTURALLY GRADED THERMAL BARRIER COATING BY PLASMA SPRAYING",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Corrosion resisting test of Reinforcement of Existing Major Bridge on Kanchnalla and River Bhargavi",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of functionally graded metallic components by laser materials processing for Bio-implant Application",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Microstructural characterization and its optimization for improved weld strength, fatigue behaviour and corrosion resistance of electron beam welded materials for atomic energy sectors",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Microstructural evolution at the interface of bond coat and steel substrate during galvanization",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of compositionally modulated thermal barrier coating by hybrid technology",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Aluminium cenosphare synatic foam through spray forming technique for Aerospace Applications",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of porous bio-active Titanium based composite for Bio-implant application",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Life Cycle Cost, Mechanical and Corrosion Properties Behavior of Coated (Both ERW and Seamless) Mild Steel and AISI 304 Stainless Steel (Seamless and ERW) for Air Break Pipes in Railways",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Synthesis and Characterization of Carbonated Hydroxyapatite by using Eggshell as a Calcium Source to Apply in Bone and Teeth Replacement, Biomaterials to Biomedical Materials",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Establishment of Ultra-Short Pulsed Laser Processing Regime for Surface Treatment of Titanium based Implant for the Tailored Mechano-Chemical Property in Simulated Environment",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Thermo-Chemical Treatment on Porous Titanium and its Tribo-Corrosion Property Evaluation for Orthopedic Application",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Functionally Graded Smart Thermal Barrier Coating by Combined Plasma based Hybrid Processing and Laser based 3-D Printing on HS188 Superalloy (IMPRINT-2/SERB PART)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Novel Multioxide In-situ Thermal Barrier Coating for High Temperature Oxidation Resistance using Thermal Spray and Self-propagating High-temperature Synthesis (SHS)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Functionally Graded Smart Thermal Barrier Coating by Combined Plasma based Hybrid Processing and Laser based 3-D Printing on HS188 Superalloy (IMPRINT-2/INDUSTRY PART)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Microstructurally, compositionally and Functionally Graded Components by Laser Assisted Materials Processing [LAMP]",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Microstructurally, compositionally and Functionally Graded Components by Laser Assisted Materials Processing [LAMP]",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Characterization of Plasma Sprayed AI2O3 and Y2O3 on Anodized Aluminium under the Influence of Hybrid Plasma Spray Deposition with Laser Glazing",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of a Graded Composite Surface on Beta Titanium Alloy (Til3Nb13Zr) for Improved Tribo-corrosion Property by Hybrid Laser Composite Surfacing and Laser Surface Texturing",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Nano-structured CoNiCrAly Bond Coat by HVOF Spraying for Thermal Barrier Coating Application",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Nano-structured CoNiCrAly Bond Coat by HVOF Spraying for Thermal Barrier Coating Application",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "An experimental investigation over anti- bacterial activity of hybridized Graphene and its derivatives",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "An experimental investigation over anti- bacterial activity of hybridized Graphene and its derivatives",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Experimental validation and tailorment of alumina coatings under the influence of hybrid plasma spraying and laser surface treatments.",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Corrosion Resistance Properties of Zinc Aluminium Coated Steel Wires (NIZNALTM) vis-a-vis Zinc Coated Steel Wires",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Studies of Aluminium Composite Materials Used in IOCL Fuel Station",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Designing, Development and Performance Evaluation of Bioactive Porous Titanium Developed by Laser Additive Manufacturing and Reactive Surfacing for Implant Application",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "1st International Conference on Frontiers in Surface Engineering and Additive Manufacturing (FSEAM 2026)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Studies on Aluminum composite materials (ACM) used in IOCL fuel stations",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Studies on Wear and Corrosion Mechanisms of Mg-based Compositionally Complex Alloys (CCAs) and its Tailoring through Laser Surface Engineering",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "DEVELOPMENT OF NANOCRYSTALLINE COATING BY COMBINED PLASMA ASSISTED IMPLANTATION AND DEPOSITION",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "GRAIN BOUNDARY SEGREGATION, PRECIPITATES MORPHOLOGY AND SURFACE MODIFICATION IN CASE OF COMPLETE AND INCOMPLETE GRAIN BOUNDARY WETTING BY A SECOND SOLID PHASE IN STEELS",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "HIGH SPEED LASER SYNTHESIS OF AMORPHOUS SURFACE STRUCTURE",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Indigenous Development of Online Process Monitoring of Laser Surface Hardening, Cladding and Additive Manufacturing and Studies on Dynamic Mechanical Behavior of Manufactured Parts (Project No.: 6917)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Laser-Assisted Additive Manufacturing of Steel (LAMS)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "STRESS CORROSION CRACKING OF MONEL 400 AND HASTELLOY C IN FLUORIDE ENVIRONMENT",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Study on Weldability of Maraging Steel by Conventional and High Energy Density Welding",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Testing on EBW machine at STC, IIT Kharagpur",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/jyotsna-dutta-majumdar.webp",
+  "researchImage": null,
+  "website": "https://www.jduttamajumdar.in",
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-jyotsna",
+  "source": "IIT Kharagpur institute faculty profile"
+}

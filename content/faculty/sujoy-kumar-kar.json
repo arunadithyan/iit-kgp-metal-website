@@ -1,0 +1,147 @@
+{
+  "name": "Sujoy Kumar Kar",
+  "slug": "sujoy-kumar-kar",
+  "designation": "Professor",
+  "isHead": false,
+  "email": "sujoy.kar@metal.iitkgp.ac.in",
+  "phone": "+91-3222-283258",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Ti alloys, Ni based superalloys, Steels",
+    "Processing-Structure-Texture-Property",
+    "Neural network & Thermo-kinetic modeling",
+    "TiAl based high temperature materials",
+    "Additive and Laser based Manufacturing",
+    "Additive Manufacturing"
+  ],
+  "areas": [
+    "physical-mechanical",
+    "extractive-process",
+    "computational-ai"
+  ],
+  "researchStatement": [
+    "Overall research theme: Processing-Structure-Texture-Property correlations in structural materials for aerospace, space and energy applications.",
+    "Present focus: Additive manufacturing",
+    "Materials Systems: Ti alloys, TiAl based alloys, Ni based superalloys, Cr-Mo steels, ODS steels, High temperature alloys (Nb-Si based, Mo-W-Si-C based, Mo-Ti-Zr-Hf-C based alloys)",
+    "Materials Modeling: Neural network modeling, CALPHAD modeling, Constitutive modeling."
+  ],
+  "awards": [
+    "Indranil Award for Metallurgy",
+    "Bengal Ingot Silver Medal",
+    "Ava Sanyal Memorial Award",
+    "J C Ghosh Memorial Prize Award",
+    "Institute Silver Medal"
+  ],
+  "currentProjects": [
+    {
+      "title": "Development of high strength Ã?Â?Ã?Â?Ã?Â² Titanium alloys using DEDbased additive manufacturing, aiming at aerospace, automobile, and biomedical applications",
+      "role": "Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "Development of high strength Ã?Â² Titanium alloys using DED-based additive manufacturing, aiming at aerospace, automobile, and biomedical applications",
+      "role": "Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "Evaluation of Mechanical Properties such as Tensile, Creep, LCF, KIC values of an Important Cast Ni Based Superalloy (BZL-12Y)",
+      "role": "Principal Investigator",
+      "funder": "Aeronautics R and D Board"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "Artificial Neural Network Modeling of Materials",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "STUDY OF CORRELATION BETWEEN PROCESSING-MICROSTRUCTURE-MICROTEXTURE & PROPERTY IN A BETA TITANIUM ALLOY TI-5553",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Study of coorelation between processing, microstructure, microtexture and property in a high strength deep hardenable Beta Titanium Alloy, Ti-5AL-5Mo-5v-3Cr-0.6Fe (Ti-5553) for aircraft-structural applications.",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Experimental evaluation of froming limit diagram and forming behavior of differently heat treated Inconel-718 material",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Indigenous Development of Ultra High Strength Steel with Stainless Property for Space Application ( Project No.: 6456)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Multi-stage Deep Drawing Set-up and Estimation of Formability of Cu-(0.5-0.8%) Cr-0.05% Ti-0.05%Zr Alloy Sheets for Space Applications",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Multi-stage Deep Drawing Set-up and Estimation of Formability of Cu-(0.5-0.8%) Cr-0.05% Ti-0.05%Zr Alloy Sheets for Space Applications",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Role of Boron on Coarsening Kinetics of M23C6 Precipitates in P91 Steel",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Technology for Forming Tailor Welded Blanks of C103 Sheets",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of High Performance Materials for Various Defence Related Applications",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Exploring Solutions for Various Technological Challenges in Metal Additive Manufacturing Technology and Sharing the Relevant Know-how with Indian Heavy Engineering Industries",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "FIST Program - 2012 [129]",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Impacting Research Innovation and Technology (IMPRINT) Round-I Operational Project for IMPRINT I Cell at IIT Kharagpur",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "IMPRINT Cell at Indian Institute of Technology Kharagpur",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Selection of Raw Materials for Additive Manufacturing Applications in Relation to the Design Requirements; and Life Cycle Analysis of Additive Manufacturing Process for Different Materials",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Setting Up High-End Testing Facilities of Materials for Biomaterials, Aerospace and Automotive Applications (SGDRI-2015)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Ultrasound Phase Spectroscopy based Study of Deformation and Damage Mechanism in Porous Copper under Monotonic and Fatigue Loading Conditions",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/sujoy-kumar-kar.webp",
+  "researchImage": "/images/research/group-sujoy-kumar-kar.webp",
+  "website": null,
+  "googleScholar": "https://scholar.google.com/citations?hl=en&user=Y3smu2MAAAAJ&view_op=list_works&sortby=pubdate",
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-sujoy.kar",
+  "source": "IIT Kharagpur institute faculty profile"
+}

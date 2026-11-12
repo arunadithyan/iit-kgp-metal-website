@@ -1,0 +1,171 @@
+{
+  "name": "Siddhartha Das",
+  "slug": "siddhartha-das",
+  "designation": "Professor",
+  "isHead": false,
+  "email": "sdas@metal.iitkgp.ac.in",
+  "phone": "+91-3222-283256",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Surface engineering and coated materials",
+    "Failure Analysis",
+    "Energy materials",
+    "Characterization of Materials",
+    "Nano Materials"
+  ],
+  "areas": [
+    "physical-mechanical",
+    "extractive-process",
+    "functional-devices",
+    "energy-sustainability"
+  ],
+  "researchStatement": [
+    "Electrodeposited Coating:",
+    "Development of corrosion resistant functionally gradient Alloys (Ni-Zn):",
+    "This coating on steel consists of an alloy of Zn and Ni. Zn is anodic to Iron, whereas Ni is cathodic. Hence, a Zn-Ni undercoat followed by Ni coating provide a combination of cathodic and anodic coating",
+    "Development of corrosion resistant composite coatings (Ni-ZrO2, Cu-SiC, Ni-CeO2, Ni-Co-SiC) with high wear resistance:",
+    "This composite assembly is designed to perform both as corrosion resistant as well as wear resistant coating. Ni and Cu provide cathodic protection to steel and hard particles like SiC, CeO2, and ZrO2 when dispersed within the matrix provide excellent wear resistance. Pulse electrodeposition technique is employed to synthesis this composite coating.",
+    "Lead-free Solder:",
+    "Development of Creep resistant Sn-Cu-Y2O3 composite solder :",
+    "This Sn-Cu eutectic composition is an environment friendly alternative to the conventional toxic Sn-Pb based solders. The distribution of hard Yttria particles within the matrix enhances the creep property.",
+    "Development of Creep resistant Sn-Ag-CeO2 composite solder:",
+    "Copper is replaced by silver for better conductivity",
+    "Electrodes for Li-ion battery:",
+    "Development of Sn-alloy based porous multiphase electrodes for Li-ion battery:",
+    "Sn-alloys form intermetallics with lithium having capacities at least thrice than that of the commercial graphite electrodes. However, they suffer from high volumetric strain. In order to minimize the strain a porous multiphase tin alloy is electrodeposited on copper foil. This porous framework minimizes the strain by providing space for the lithiated product to expand. The conventional copper foil is replaced with a foamy current collector. The foamy structure was fabricated by electrodeposition by exploiting hydrogen evolution as dynamic template. The foamy collector buffers the volumetric strain generated at the interface of the collector and the electrode (Sn-alloy). Thus, it prevents the detachment of the electrode."
+  ],
+  "awards": [
+    "IIM Distinguished Educator Awa",
+    "Indranil, 1983",
+    "Vidya Bharati, 1983",
+    "MRSI Medal, 2006",
+    "TMS Technology Award USA,2015"
+  ],
+  "currentProjects": [
+    {
+      "title": "Characterization of materials",
+      "role": "Principal Investigator",
+      "funder": "Various Government and Non-Government Organisations"
+    },
+    {
+      "title": "Study on the effect of heat-treatment on microstructures and properties of SUP9 and SUP11A steels",
+      "role": "Principal Investigator",
+      "funder": "Soni Auto & Allied Industries Ltd."
+    },
+    {
+      "title": "Synthesis and characterization of molybdenum disilicide heating element",
+      "role": "Principal Investigator",
+      "funder": "Naskar and Company"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "DEVELOPMENT OF ZINC-ALUMINIUM BASED BEARING ALLOYS FOR DEFENCE APPLICATIONS",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "DEVELOPMENT OF HIGH ENERGY DENSITY LITHIUM ION BATTERY TECHNOLOGY",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "SYNTHESIS AND PROPERTIES OF ELECTRODEPOSITED NICKEL/ZIRCONIA NANOCOMPOSITES",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "SYNTHESIS AND PROPERTIES OF ELECTRODEPOSITED NICKEL/CERIA NANO COMPOSITES",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "MECHANOSYNTHESIS AND MECHANICAL THERMAL SYNTHESIS OF IN SITU ALUMINIUM BASED NANOCOMPOSITES AND THEIR CHARACTERIZATION",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Synthesis and properties of electrodeposited Nickel/Ceria Nanocomposites",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Chemical composition analysis of supplied steel sample",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Structural characterization of materials lab",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Characterization of Materials",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Nickel containing steel from chromite over burden",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "FIST Program - 2012 [129]",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "New Generation Multifunctional Green Nanocomposite Coatings for the Control of Biodeterioration of Cultural Heritage",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "New Generation Multi-functional Green Nanocomposite Coatings for the Control of Biodeterioration of Cultural Heritage",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Cheap and High Energy Density Alkali Metal - Ion Rechargeable Batteries for Renewable Energy Storage (Proposal ID : IITKGP_001)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Developing Swarm Robotic System and Hybrid Construction Method to Facilitate Concrete 3D Printing for Building Construction",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Facile, Green and Commercially Scalable, Non-Cyanide Bath Based Electrodeposition Route for Nanostructured Coloured Gold Coating with Advanced Mechanical and Scratch Resistance Properties (UAY_II_IITKGP_002)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "DEVELOPMENT OF PLASMA SPRAYED HYDROXYAPATITE COATED METALLIC IMPLANTS FOR ORTHOPEDIC APPLICATION",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "FABRICATION OF NANOSTRUCTURED SURFACES BY SOFT LITHOGRAPHIC ANDNON LITHOGRAPHIC TECHNIQUES",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Real time virtual lab",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "SYNTHESIS OF IN-SITU TIC REINFORCED FERROUS BASED COMPOSITES FROM AN INDUSTRIAL WASTE BY THERMIT REDUCTION ROUTE",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/siddhartha-das.webp",
+  "researchImage": null,
+  "website": null,
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-sdas",
+  "source": "IIT Kharagpur institute faculty profile"
+}

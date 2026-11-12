@@ -1,0 +1,202 @@
+{
+  "name": "Manas Paliwal",
+  "slug": "manas-paliwal",
+  "designation": "Associate Professor",
+  "isHead": false,
+  "email": null,
+  "phone": null,
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "High temperature materials",
+    "Computational chemistry",
+    "Process Simulation, Optimization & Control",
+    "Hydrogen technology"
+  ],
+  "areas": [
+    "physical-mechanical",
+    "extractive-process",
+    "computational-ai",
+    "energy-sustainability"
+  ],
+  "researchStatement": [
+    "In our group we work on various technolgies to convery waste to value, including utilization of mining, industrial and agricultural waste to produce value added products ( including H2 gas). The processes are optimized using a combination of thermodynaic calculations and experimental validation. We also use CALPHAD approach to design new alloys for energy applications such as MCM and thermoelectric. We apply thermodynamic calculations for process optimimization of various steel making unit processes. More details on the various projects can be found in the Projects section of the website."
+  ],
+  "awards": [],
+  "currentProjects": [
+    {
+      "title": "A laboratory/pilot scale set up to optimize the process parameters for producing DRI with varying H2 and CO ratio along with 3D Multiphysics modelling of DRI shaft reactor",
+      "role": "Principal Investigator",
+      "funder": "Ministry of Steel,Steel Authority of India Ltd."
+    },
+    {
+      "title": "CFD modeling of plasma gasification",
+      "role": "Principal Investigator",
+      "funder": "CIST TECHNOLOGY SOLUTIONS PRIVATE LIMITED"
+    },
+    {
+      "title": "Competency development for thermodynamic modeling",
+      "role": "Principal Investigator",
+      "funder": "Saint-Gobain India Private Limited, Research and Development"
+    },
+    {
+      "title": "Development of red mud based fluxes for Dephosphorization of HM in BOF process",
+      "role": "Principal Investigator",
+      "funder": "TATA STEEL LIMITED"
+    },
+    {
+      "title": "Improving the performance of SAF-1 and 2 (60MVA) at JSL Jajpur facility",
+      "role": "Principal Investigator",
+      "funder": "JINDAL STAINLESS LIMITED"
+    },
+    {
+      "title": "Improving the technical insights into refractory and mould flux trouble shooting",
+      "role": "Principal Investigator",
+      "funder": "CALDERYS INDIA REFRACTORIES LIMITED"
+    },
+    {
+      "title": "Sustainable Lithium Extraction and purification of Li bearing Mica by carbonate calcination and selective electro dialysis",
+      "role": "Principal Investigator",
+      "funder": "Ministry of Mines"
+    },
+    {
+      "title": "Understanding Indian High-Ash coal Characteristics for gasification technology development",
+      "role": "Principal Investigator",
+      "funder": "Dastur Energy Private Limited"
+    },
+    {
+      "title": "Utilization of CO2 as Bottom Stirring gas in BOF Steel making: A step towards reduction in CO2 emissions across the steel value chain",
+      "role": "Principal Investigator",
+      "funder": "Steel Research and Technology Mission of India SRTMI"
+    },
+    {
+      "title": "A fresh perspective on the evolution of atom clusters and microalloy precipitates in steels and their effects on properties",
+      "role": "Co-Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "A fresh perspective on the evolution of atom clusters and microalloy precipitates in steels and their effects on properties",
+      "role": "Co-Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "A study on the evolution and effect of atom clusters and alloy carbide precipitates in nano-bainitic steel",
+      "role": "Co-Principal Investigator",
+      "funder": "Department of Atomic Energy (DAE)"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "Evaluation of Different Process Parameters during Mg Production in an Industrial Scale",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Thermodynamic and Kinetic Calculations applied to the Study of Electrochemical Energy Conversion Devices and Emerging Coating Technologies",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Kinetic Model to Predict the Change in Mould Flux Composition during Continuous Casting of Medium Alloy Steels",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Utilization of chromite over burden as an Oxygen carrier material for clean energy production using chemical looping technique",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Developing Laves Phase Dissolution Maps and Homogenization Treatment for Ni 718 Alloy depending on Si Content",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Mapping of Slag Path in Blast Furnace and Feasibility of Selective Melting of Low-grade Ore",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of a Validated Process Model for Ladle Furnace including a Kinetic Model to Predict the Inclusion Size, Count and Distribution",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Ironmaking Course",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of graphite brush",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Thermodynamic and kinetic calculations applied to the study of electrochemical energy conversion devices and emerging coating technologies",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Substitution of Limestone with Gypsum in Mitsubishi C-Furnace.",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Improvement of the processing condition for the production of defect-free high strength Ductile iron pipe",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Developing new Dephosphorization fluxes for hot metal pre-treatment stage and designing new mould fluxes for casting of high Ti containing steels using waste residues from Aluminum Industry",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Developing new Dephosphorization fluxes for hot metal pretreatment stage and designing new mould fluxes for casting of high Ti containing steels using waste residues from Aluminum Industry",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "understanding of thermodynamic calculations in refractories and steel flux",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Substitution of Limestone with Gypsum in Mitsubishi C-Furnace.",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Application of thermodynamic calculations to glass making",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Utilization of data analytics to optimize the Zn coating thickness in hot dip Zn galvanizing",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Thermodynamic and kinetic calculations applied to new coating technologies",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Smelting of low grade Ni-pig iron",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Portable and automated 3D printing of metal-ceramic composites",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": null,
+  "researchImage": null,
+  "website": "https://manaspaliwal.com",
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-ekNDWEQ1VUVmUG4wOHFiWmlEU2lxdz09",
+  "source": "IIT Kharagpur institute faculty profile"
+}

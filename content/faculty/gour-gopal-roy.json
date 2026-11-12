@@ -1,0 +1,205 @@
+{
+  "name": "Gour Gopal Roy",
+  "slug": "gour-gopal-roy",
+  "designation": "Professor",
+  "isHead": false,
+  "email": "ggroy@metal.iitkgp.ac.in",
+  "phone": "+91-3222-283276",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Electron beam welding",
+    "Extractive metallurgy",
+    "NMI control in steel",
+    "Sponge iron technology by RHF",
+    "Computational Fluid Dynamics"
+  ],
+  "areas": [
+    "physical-mechanical",
+    "extractive-process",
+    "computational-ai"
+  ],
+  "researchStatement": [
+    "Research on iron & Steel Processing: Alternative routes of iron making using RHF: One of the major research interests of the author is towards selecting operating parameters based on rigorous experiments in laboratory scale RHF and process models and subsequently scale it up to pilot scale. Presently he is engaged in producing iron nugget from EAFD-coal/biochar composite pellets, solid state production of low carbon ferro-manganese in RHF.  The author has erected a pilot scale RHF at ASP, Durgapur in collaboration with ASP, minmet consultsnts by utilizing MHRD-MoS-ASP sponsored UAY project (worth 741 lakhs).  Production of 80% metallized sponge iron has been demonstrated.",
+    "Another prime area of research of the author is on reduction and control of NMI in steel.  Based on mathematical model and plant scale experiments, his research group has identified the optimum operating parameters of the calcium wire injection in steel for maximum recovery and efficacy.  His research group also identified the forging schedule for defect free forging in presence of modified inclusion.  One of the major project in this direction was  a satellite project of IIT Kgp-HEC-DHI as a part of CoE on advanced manufacturing at IIT Kharagpur.  The author  also collaborated with Vizag steel, and WMG, UK towards inclusion control in steel.",
+    "The author is also involved seriously in Welding Research.  The author has been instrumental as one of the PIs in developing an indigenous Electron Beam Welding (EBW) setup at IIT Kharagpur in collaboration with BARC & BRNS. They have demonstrated successful dissimilar welding of difficult to join materials using electron beam welding.  The author has worked intensely with the research group at Pennsylvania State University, to develop an indigenous CFD code for fusion welding for steels.  The author is also working with WMG, UK towards understanding evolution of welding defects during EBW."
+  ],
+  "awards": [
+    "Special mention-Sail Gold Medal",
+    "Fellowship to the Indian National Academy of Engineers (FNAE)",
+    "Eminent Engineer",
+    "SAIL GOLD MEDAL-2005",
+    "METALLURGIST OF THE YEAR, 2015"
+  ],
+  "currentProjects": [
+    {
+      "title": "Charge for XRD and FESEM at DHI CoE AMT",
+      "role": "Principal Investigator",
+      "funder": "Various Government and Non-Government Organisations"
+    },
+    {
+      "title": "Converting Electric Arc Furnace Dust (EAFD) to value added iron nugget with minimum possible carbon and energy input",
+      "role": "Principal Investigator",
+      "funder": "Science and Engineering Research Board (SERB)"
+    },
+    {
+      "title": "Converting Electric Arc Furnace Dust (EAFD) to value added iron nugget with minimum possible carbon and energy input",
+      "role": "Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "Designing a synthetic slag for inclusion control of LCAK structural steel (DHI part)",
+      "role": "Principal Investigator",
+      "funder": "Ministry of Heavy Industries and Public Enterprises, GoI,TATA STEEL LIMITED"
+    },
+    {
+      "title": "Designing a synthetic slag for inclusion control of LCAK structural steel (Industry part)",
+      "role": "Principal Investigator",
+      "funder": "Ministry of Heavy Industries and Public Enterprises, GoI,TATA STEEL LIMITED"
+    },
+    {
+      "title": "Production of low carbon ferro-manganese by solid state reduction",
+      "role": "Principal Investigator",
+      "funder": "TECHNOLOGY INNOVATION IN EXPLORATION AND MINING FOUNDATION (TEXMiN)"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "MATHEMATICAL MODELING OF SOLIDIFICATION BEHAVIOUR OF WELD POOL AND OCIDATION CHARACTERISTICS OF THE ZONES OF WELDMENT DURING LASER WELDING OF PLAIN CARBON STEEL",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of a model for nitrogen enrichment of liquid steel at Essar Steel",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "ESTABLISHMENT OF AN ADVANCED RESEARCH FACILITY FOR EB WELDING AND PROCESS DEVELOPMENT RELATED TO PROGRAMS OF INTEREST TO DAE",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Optimization of design operating parameters like wire speed, bath super heat, steel grades on calcium recovery and its efficacy for inclusion modification",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Fundamental studies on the reduction kinetics, heat and mass transfer during reduction of iron ore coal composite pellets in rotary hearth furnace",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of steady state model for melter-gasifier of the COREX process",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "FUNDAMENTAL STUDIES ON STRUCTURE AND PROPERTIES OF NANOCOMPOSITE RUBBERS FOR TIRE APPLICATIONS",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Testing on EBW machine at STC, IIT Kharagpur",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Outstation SEM Analysis",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Thermocouple temperature measurement and thermal modelling of electron beam welding of materials of DAE interest",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Laser-Assisted Additive Manufacturing of Steel (LAMS)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Rotary Hearth Furnace Technology for Treating Off Grade Iron Ore Fines of Indian Origin Including Magnetite Ore (UAY_I_IITKGP_018)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Ironmaking Course",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Non Metallic Inclusions (NMI) and its Control, New Steel Products through Energy Efficient EAF at HEC",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Exploring the potential of rare earth elements (REE) as inclusion modifier towards the production of inclusion-critical special-grade low carbon micro-alloyed steel",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Characterization of Dross Briquettes to Control the Emissions",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Deformation behaviour of electron beam welded dissimilar material titanium sheet metals",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Microstructurally, compositionally and Functionally Graded Components by Laser Assisted Materials Processing [LAMP]",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Microstructurally, compositionally and Functionally Graded Components by Laser Assisted Materials Processing [LAMP]",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of pilot scale palletisation technology for Indian geothitic/hematite ore with varying degree of fineness",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Exploring Solutions for Various Technological Challenges in Metal Additive Manufacturing Technology and Sharing the Relevant Know-how with Indian Heavy Engineering Industries",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "FEASIBILITY STUDY FOR EXTRACTION OF VANADIUM AND TITANIUM FROM TITANO-MAGNETITE ORE DEPOSIT OF MAHARASTRA ? PART I : PRE FEASIBILITY STUDY FOR VANADIUM",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Lab Scale Process Development for Removal of Iron from Boxite Ore",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Production of rare earth permanent magnets from spent magnets and primary rare earth oxides",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Selection of Raw Materials for Additive Manufacturing Applications in Relation to the Design Requirements; and Life Cycle Analysis of Additive Manufacturing Process for Different Materials",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Study on Plant Parameter Optimisation for Adoption of Energy Efficient Technologies for Vijayanagar Steel Plant of JSW Steel Ltd.",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/gour-gopal-roy.webp",
+  "researchImage": "/images/research/group-gour-gopal-roy.webp",
+  "website": null,
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-ggroy",
+  "source": "IIT Kharagpur institute faculty profile"
+}

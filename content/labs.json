@@ -1,0 +1,82 @@
+{
+  "note": "Laboratories as listed on the IIT Kharagpur department page. CRF: Central Research Facility. SNST: School of Nano Science and Technology.",
+  "groups": [
+    {
+      "group": "Electron microscopy",
+      "items": [
+        "SEM Lab",
+        "SEM Lab, CRF",
+        "SEM-EBSD, CRF",
+        "SEM-FIB, CRF",
+        "FESEM Lab, CRF",
+        "TEM Lab & TEM Sample Preparation Lab",
+        "TEM Lab & TEM Sample Preparation Lab, CRF",
+        "HRTEM Lab",
+        "HRTEM Lab, CRF"
+      ]
+    },
+    {
+      "group": "Diffraction & spectroscopy",
+      "items": [
+        "X-Ray Diffraction Lab",
+        "X-Ray Diffraction Lab, CRF",
+        "X-Ray Lab",
+        "HRXRD Lab, CRF",
+        "Optical Emission Spectroscopy Lab, CRF"
+      ]
+    },
+    {
+      "group": "Optical & surface characterisation",
+      "items": [
+        "Optical Microscopy Lab",
+        "Optical Microscopy Lab, CRF",
+        "Metallography Lab",
+        "Optical Profilometer, CRF"
+      ]
+    },
+    {
+      "group": "Mechanical testing",
+      "items": [
+        "Mechanical Testing Lab",
+        "Mechanical Characterization Lab",
+        "Mechanical Characterization Lab, CRF",
+        "Instron Lab",
+        "Instron Lab, CRF",
+        "Creep Testing Laboratory",
+        "Nanoindentation & Nanotribology Lab, CRF"
+      ]
+    },
+    {
+      "group": "Thermal analysis",
+      "items": [
+        "DTA Lab",
+        "Thermal Analysis Lab, CRF"
+      ]
+    },
+    {
+      "group": "Processing & synthesis",
+      "items": [
+        "Melting & Casting Lab",
+        "Heat Treatment Lab",
+        "Powder Metallurgy Lab",
+        "Spark Plasma Sintering Lab, SNST",
+        "TMP Lab",
+        "Arun Sarin Lab (Thin Film Research)",
+        "Machine Shop"
+      ]
+    },
+    {
+      "group": "Corrosion & degradation",
+      "items": [
+        "Corrosion Lab",
+        "Corrosion and High Temperature Oxidation"
+      ]
+    },
+    {
+      "group": "Computing",
+      "items": [
+        "Computer Lab"
+      ]
+    }
+  ]
+}

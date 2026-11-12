@@ -1,0 +1,1080 @@
+{
+ "faculty": "siddhartha-roy",
+ "items": [
+  {
+   "title": "Laves Phase Modulation in TribaloyTM T800 via Stainless Steel Addition to Improve Toughness and High-Temperature Oxidation Resistance",
+   "authors": "Nandi S.K., Matthews A., Withers P.J., Stermsek J., Fuchs C., Manna I., Roy S.",
+   "venue": "Metallurgical and Materials Transactions A: Physical Metallurgy and Materials Science",
+   "volume": null,
+   "pages": null,
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of Y2O3 and Graphite on the Microstructure, Mechanical Properties, and Wear Resistance of Al2O3 B4C Composites",
+   "authors": "Nazeer M., Bapanapalle C.O., Pillari L.K., Mandal N., Bichler L., Laha T., Roy S.",
+   "venue": "Journal of the American Ceramic Society",
+   "volume": "109",
+   "pages": null,
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "tapas-laha"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Influence of mischmetal content on the microstructure and mechanical properties of stir-squeeze cast Al-RE alloys, Journal of Rare Earths",
+   "authors": "Kumar C., Bada G. K., Giri A., Sen M., Mandal S., Borra C. R., Roy S.",
+   "venue": "Journal of Rare Earths",
+   "volume": null,
+   "pages": null,
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "sumantra-mandal"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Influence of pore shape and orientation on elastic and thermal anisotropy in porous Si3N4 SiC composites",
+   "authors": "Siddharth, Ray S., Tiwari S., Roy S.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "1061",
+   "pages": null,
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Structure, mechanical properties, and wear behavior of functionally graded hybrid AA6061-B4C-CNT composites using combined stir casting and centrifugal casting",
+   "authors": "Sarkar S., Dey U., Chouhan K., Kumar C.S., Roy S.",
+   "venue": "Journal of Manufacturing Processes",
+   "volume": "161",
+   "pages": "1-13",
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Tailoring the thermal and electrical conductivity of powder metallurgy porous copper for thermal management through pore structure modification",
+   "authors": "Ray S., Pillari L.K., Bichler L., Kar S.K., Roy S.",
+   "venue": "International Journal of Heat and Mass Transfer",
+   "volume": "258",
+   "pages": null,
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "sujoy-kumar-kar"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Wear and Impact Deformation Behavior of a Centrifugally Cast Multi-reinforced Functionally Graded AA6061 Composite",
+   "authors": "Kumar C., Chen D., Kashyap B.P., Sen I., Roy S.",
+   "venue": "Metals and Materials International",
+   "volume": null,
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Influence of B4C content and particle size on the mechanical properties of Al2O3-B4C composites",
+   "authors": "Nazeer M., Naik A. K., Prasad D. K., Pillari L. K., Bichler L., Laha T., Roy S.",
+   "venue": "International Journal of Applied Ceramic Technology",
+   "volume": null,
+   "pages": "15067",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "tapas-laha"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Properties and advanced applications of porous ceramic composites",
+   "authors": "Roy S.",
+   "venue": "Open Ceramics",
+   "volume": "21",
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Thermal properties of porous ceramics",
+   "authors": "Roy S.",
+   "venue": "Open Ceramics",
+   "volume": "24",
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of dispersion technique and applied load on the dry sliding wear behavior of combined stir-squeeze-cast AA6061 0.5 wt % CNT composite against a steel counter body at both room temperature and elevated temperature",
+   "authors": "Sarkar S., Dam B., Dey U., Mandal N., Kumar C.S., Manna I., Roy S.",
+   "venue": "Wear 562-563",
+   "volume": null,
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of Porosity and Pore Morphology on the Elastic Properties and Compressive Deformation Behavior of Porous Copper Fabricated via Space Holder Route",
+   "authors": "Ray S., Kar S. K., Roy S.",
+   "venue": "Advanced Engineering Materials",
+   "volume": "27",
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "sujoy-kumar-kar"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of SiC particle size and content on the mechanical and tribological properties of porous Si3N4-SiC composites fabricated following a facile low-temperature processing route",
+   "authors": "Siddharth, Tiwari S., Biswas P., Mandal N., Roy S.",
+   "venue": "Ceramics International",
+   "volume": null,
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A comparative study of structural, mechanical, and thermal shock properties in ZrB2-B4C-SiC-LaB6 functionally graded and non-graded composites",
+   "authors": "Naik A.K., Kallien G., Schell G., Patel M., Laha T., Roy S.",
+   "venue": "Journal of Alloys and Compounds",
+   "volume": "1036",
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "tapas-laha"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Non-destructive Ultrasound Phase Spectroscopy for the Analysis of Elastic Properties of Complex Hybrid Materials",
+   "authors": "Ray S., Kar S. K., Wanner A., Roy S.",
+   "venue": "Transactions of the Indian Institute of Metals",
+   "volume": "78",
+   "pages": "85",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "sujoy-kumar-kar"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Processing Techniques and Applications of Advanced Bulk Functionally Graded Materials (FGMs)",
+   "authors": "Naik A. K., Laha T., Roy S. Advanced Smart and Multifunctional Materials Volume 2: Advanced Processing, Polymers, Ceramics, and Related Functional Materials 43-76",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2025,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "siddhartha-roy",
+    "tapas-laha"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Advanced Applications and Processing Techniques for Porous Ceramics",
+   "authors": ". S., Roy S. Advanced Smart and Multifunctional Materials Volume 2: Advanced Processing, Polymers, Ceramics, and Related Functional Materials 1-41",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2025,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Functionally graded Tribaloy T800 and austenitic stainless steel by laser additive manufacturing",
+   "authors": "Nandi S.K., Matthews A., Withers P.J., Stermsek J., Fuchs C., Roy S., Manna I.",
+   "venue": "Materials Today Communications",
+   "volume": "39",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Mechanical properties of Al Si alloy/Si3N4 interpenetrating phase composite based on a preform fabricated at 1200 °C",
+   "authors": "Kota N., Roy S.",
+   "venue": "Composites Communications",
+   "volume": "49",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Mechanical properties of porous Si3N4â SiC composites fabricated at 1200 Â°C",
+   "authors": "Siddharth, Roy S.",
+   "venue": "Ceramics International",
+   "volume": "50",
+   "pages": "13621-13633",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A comparative assessment of thermal conductivity of functionally graded and equivalent non-graded ZrB2 B4C SiC LaB6 ultra-high-temperature ceramic composites",
+   "authors": "Naik A.K., Pillari L.K., Lessoway K., Bichler L., Laha T., Roy S.",
+   "venue": "Open Ceramics",
+   "volume": "19",
+   "pages": null,
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "tapas-laha"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of graded microstructure on the modulus, hardness, and strength of hot-pressed ZrB2-B4C FGM",
+   "authors": "Naik A.K., Pillari L.K., Patel M., Bichler L., Laha T., Roy S.",
+   "venue": "Journal of Materials Science",
+   "volume": "59",
+   "pages": "8682-8705",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "tapas-laha"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "An ultrasonic study of the effect of uniaxial green compaction pressure on the elastic anisotropy of porous copper fabricated using the pore-former route",
+   "authors": "Ray S., Kar S. K., Roy S.",
+   "venue": "Materials Chemistry and Physics",
+   "volume": "316",
+   "pages": "129094",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "sujoy-kumar-kar"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Recent developments in processing techniques and morphologies of bulk macroporous ceramics for multifunctional applications",
+   "authors": "Roy S.",
+   "venue": "Materials Today Communications",
+   "volume": "38",
+   "pages": "107752",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of laser process parameters on the dilution, microstructure, and wear behaviour of Tribaloy T800 cladding on AISI 316 stainless steel",
+   "authors": "Nandi S.K., Ajithkannan R., Withers P.J., Matthews A., Roy S., Manna I.",
+   "venue": "Journal of Materials Science",
+   "volume": "59",
+   "pages": "9042-9058",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Study of the influence of ZrB2 content and thermal shock on the elastic modulus of spark plasma sintered ZrB2-B4C composites using a non-destructive ultrasonic technique",
+   "authors": "Naik A.K., Maharana S., Bichler L., Laha T., Roy S.",
+   "venue": "Journal of the European Ceramic Society",
+   "volume": "44",
+   "pages": "679-692",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "tapas-laha"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Study of the elastic properties and compressive behaviour of porous copper fabricated using powder metallurgy route and having different porosities and pore morphologies",
+   "authors": "Ray S., Kar S. K., Roy S.",
+   "venue": "IIM-ATM 2024 & NMA",
+   "volume": null,
+   "pages": null,
+   "year": 2024,
+   "type": "Conferences",
+   "faculty": [
+    "siddhartha-roy",
+    "sujoy-kumar-kar"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Development and Characterization of Lightweight ZrB2â B4C Functionally Graded Composites",
+   "authors": "Naik A.K., Prasad D.K.V.D., Laha T., Roy S. Minerals, Metals and Materials Series 522-529",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2024,
+   "type": "Conferences",
+   "faculty": [
+    "siddhartha-roy",
+    "tapas-laha"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Elastic properties of porous silicon nitride fabricated via a low-temperature processing route",
+   "authors": "Kota N., Jana P., Roy S.",
+   "venue": "Ceramics International",
+   "volume": "49",
+   "pages": "7066-7079",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Establishment of a facile technique to fabricate bulk AA6061/CNT composite with improved mechanical properties using combined stir-casting and squeeze-casting",
+   "authors": "Sarkar S., Ray S., Dey U., Kumar C., Chakraborti P. C., Mukhopadhyay G., Kumar C. S., Roy S.",
+   "venue": "Materials Today Communications",
+   "volume": "37",
+   "pages": "107471",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Unveiling the corrosion perspective of Al-Si alloy/SiC foam interpenetrating phase composite",
+   "authors": "Bhuyan P., Kota N., Bairagi D., Sahasrabudhe S., Roy S., Mandal S.",
+   "venue": "Materials Today Communications",
+   "volume": "35",
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "sumantra-mandal"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of H3PO4 content and processing temperature on the structure and mechanical properties of porous Si3N4",
+   "authors": "Kota N., Roy S.",
+   "venue": "Ceramics International",
+   "volume": null,
+   "pages": "37174-37186",
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of SiC particle size on the strength and stiffness of porous Si3N4 SiC composites fabricated via a low-temperature sintering process",
+   "authors": "Siddharth, Jana P., Dietrich S., Roy S.",
+   "venue": "Materials Science and Engineering A",
+   "volume": "864",
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of substrate surface roughness on the microstructure and properties of laser surface cladding of Tribaloy T-400 on mild steel",
+   "authors": "Nayak M.K., Roy S., Manna I.",
+   "venue": "Surface and Coatings Technology",
+   "volume": "455",
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Influence of monomodal K2CO3 and bimodal K2CO3 + NaCl as space holders on microstructure and mechanical properties of porous copper",
+   "authors": "Ray S., Jana P., Kar S.K., Roy S.",
+   "venue": "Materials Science and Engineering A",
+   "volume": "862",
+   "pages": null,
+   "year": 2023,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "sujoy-kumar-kar"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Comparative study of the elastic and compressive properties of monomodal and bimodal porous copper fabricated via powder metallurgy technique",
+   "authors": "Ray S., Kar S. K., Roy S.",
+   "venue": "FEMS EUROMAT",
+   "volume": "2023",
+   "pages": null,
+   "year": 2023,
+   "type": "Conferences",
+   "faculty": [
+    "siddhartha-roy",
+    "sujoy-kumar-kar"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Fundamenatls of Composites and Cellular Materials",
+   "authors": "Laha T., Roy S. -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2023,
+   "type": "Educational Package",
+   "faculty": [
+    "siddhartha-roy",
+    "tapas-laha"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Ultrasonic study of the elastic properties of functionally graded and equivalent monolithic composites",
+   "authors": "Nazeer M., Jana P., Oza M.J., Schell K.G., Bucharsky E.C., Laha T., Roy S.",
+   "venue": "Materials Letters",
+   "volume": "323",
+   "pages": null,
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "tapas-laha"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Study of the elastic properties and thermal shock behavior of Al-SiC-graphite hybrid composites fabricated by spark plasma sintering",
+   "authors": "Jana P., Oza M. J., Schell K. G., Bucharsky E. C., Laha T., Roy S.",
+   "venue": "Ceramics International",
+   "volume": "48",
+   "pages": "5386-5396",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "tapas-laha"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Study of the elastic properties of porous copper fabricated via the lost carbonate sintering process",
+   "authors": "Jana P., Ray S., Goldar D., Kota N., Kar S. K., Roy S.",
+   "venue": "Materials Science and Engineering A",
+   "volume": "836",
+   "pages": "1-14",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "sujoy-kumar-kar"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Review on development of functionally graded composite materials",
+   "authors": "Sai C. M., Ajit N. K., Navya K., Laha T., Roy S.",
+   "venue": "International Materials Reviews",
+   "volume": null,
+   "pages": null,
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "tapas-laha"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Review on development of metal/ceramic interpenetrating phase composites and critical analysis of their properties",
+   "authors": "Kota N., Charan M. S., Laha T., Roy S.",
+   "venue": "Ceramics International",
+   "volume": "48",
+   "pages": "1451-1483",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "tapas-laha"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Review on study of internal load transfer in metal matrix composites using diffraction techniques",
+   "authors": "Maurya P., Kota N., Gibmeier J., Wanner A., Roy S.",
+   "venue": "Materials Science and Engineering A",
+   "volume": null,
+   "pages": "142973",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Development of functionally graded ZrB2 B4C composites for lightweight ultrahigh-temperature aerospace applications",
+   "authors": "Naik A.K., Nazeer M., Prasad D.K.V.D., Laha T., Roy S.",
+   "venue": "Ceramics International",
+   "volume": "48",
+   "pages": "33332-33339",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "tapas-laha"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Developing a hybrid Al-SiC-graphite functionally graded composite material for optimum composition and mechanical properties",
+   "authors": "Oza M. J., Schell K. G., Bucharsky E. C., Laha T., Roy S.",
+   "venue": "Materials Science and Engineering A",
+   "volume": "805",
+   "pages": "140625",
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy",
+    "tapas-laha"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Processing and characterization of Al-Si alloy/SiC foam interpenetrating phase composite",
+   "authors": "Kota N., Jana P., Sahasrabudhe S., Roy S.",
+   "venue": "Materials Today: Proceedings",
+   "volume": "44",
+   "pages": "2930-2933",
+   "year": 2021,
+   "type": "Conferences",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Anisotropic thermal expansion behavior of an interpenetrating metal/ ceramic composite",
+   "authors": "Roy S., Nagel A., Weidenmann K. A.",
+   "venue": "Thermochimica Acta",
+   "volume": "684",
+   "pages": "178488",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Internal load transfer in an interpenetrating metal/ceramic composite material studied using energy dispersive synchrotron X-ray diffraction",
+   "authors": "Roy S., Gibmeier J., Schell K. G., Bucharsky E. C., Weidenmann K. A., Wanner A., Hoffmann M. J.",
+   "venue": "Materials Science and Engineering A A753",
+   "volume": null,
+   "pages": "247-252",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of ceramic preform freeze-casting temperature and melt infiltration technique on the mechanical properties of a lamellar metal/ceramic composite",
+   "authors": "Roy S., Frohnheiser J., Wanner A.",
+   "venue": "Journal of Composite Materials",
+   "volume": "54",
+   "pages": "2001-2011",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Processing and characterization of elastic and thermal expansion behaviour of interpenetrating Al12Si/alumina composites",
+   "authors": "Roy S., Schell K. G., Bucharsky E. C., Weidenmann K. A., Wanner A., Hoffmann M. J.",
+   "venue": "Materials Science and Engineering A",
+   "volume": "743",
+   "pages": "339-348",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Damage evolution in freeze cast metal/ceramic composites exhibiting lamellar microstructures",
+   "authors": "Simpson C., Withers P. J., Lowe T., Roy S., Wanner A.",
+   "venue": "Frattura ed Integritá Strutturale",
+   "volume": "33",
+   "pages": "134-142",
+   "year": 2015,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Load partitioning study in a 3D interpenetrating AlSi12/Al2O3 metal/ceramic composite",
+   "authors": "Roy S., Gibmeier J., Kostov V., Weidenmann K. A., Nagel A., Wanner A.",
+   "venue": "Materials Science Forum",
+   "volume": "772",
+   "pages": "103-107",
+   "year": 2014,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of phase architecture on mechanical properties of interpenetrating metal/ceramic composites",
+   "authors": "Roy S., Gibmeier J., Weidenmann K. A., Wanner A. Materials Challenges and Testing for Manufacturing, Mobility, Biomedical Applications and Climate 77-86",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2014,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Numerical study of internal load transfer in metal/ceramic composites based on freeze-cast ceramic preforms and experimental validation",
+   "authors": "Sinchuk Y., Roy S., Gibmeier J., Piat R., Wanner A.",
+   "venue": "Materials Science and Engineering A A585",
+   "volume": null,
+   "pages": "10-16",
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of phase architeture on thermal expansion behavior of interpenetrating metal/ceramic composites",
+   "authors": "Roy S., Albrecht P., Przybilla L., Weidenmann K. A., Heilmaier M., Wanner A.",
+   "venue": "Ceramic Transactions",
+   "volume": "240",
+   "pages": "33-43",
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Characterisation of elastic properties in porous silicon carbide performs fabricated using polymer waxes as pore formers",
+   "authors": "Roy S., Schell K. G., Bucharsky E. C., Weidenmann K. A., Wanner A., Hoffmann M. J.",
+   "venue": "Journal of the American Ceramic Society",
+   "volume": "96",
+   "pages": "2269-2275",
+   "year": 2013,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Processing and elastic property characterisation of porous SiC preform for interpenetrating metal/ceramic composites",
+   "authors": "Roy S., Schell K. G., Bucharsky C., Hettich P., Dietrich S., Weidenmann K. A., Wanner A.",
+   "venue": "Journal of The American Ceramic Society",
+   "volume": "95",
+   "pages": "3078-3083",
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Internal load transfer and damage evolution in a 3D interpenetrating metal/ceramic composite",
+   "authors": "Roy S., Gibmeier J., Kostov V., Weidenmann K. A., Nagel A., Wanner A.",
+   "venue": "Materials Science and Engineering A A551",
+   "volume": null,
+   "pages": "272-279",
+   "year": 2012,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Mechanical properties of innovative metal/ceramic composites based on freeze-cast ceramic preforms",
+   "authors": "Roy S., Gibmeier J., Weidenmann K. A., Wanner A.",
+   "venue": "Materials Challenges and Testing for Supply of Energy and Resources",
+   "volume": null,
+   "pages": "213-220",
+   "year": 2012,
+   "type": "Book Chapter/Section",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Analysis of the elastic properties of an interpenetrating AlSi12-Al2O3 composite using ultrasound phase spectroscopy",
+   "authors": "Roy S., Stoll O., Weidenmann K. A., Nagel A., Wanner A.",
+   "venue": "Composites Science and Technology",
+   "volume": "71",
+   "pages": "962-968",
+   "year": 2011,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Complete determination of elastic moduli of interpenetrating metal/ceramic composites using ultrasonic techniques and micromechanical modelling",
+   "authors": "Roy S., Gebert J. M., Stasiuk G., Piat R., Weidenmann K. A., Wanner A.",
+   "venue": "Materials Science and Engineering A A528",
+   "volume": null,
+   "pages": "8226-8235",
+   "year": 2011,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Internal load transfer in a metal matrix composite with a three dimensional interpenetrating structure",
+   "authors": "Roy S., Gibmeier J., Kostov V., Weidenmann K. A., Nagel A., Wanner A.",
+   "venue": "Acta Materialia",
+   "volume": "59",
+   "pages": "1424-1435",
+   "year": 2011,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Mechanical properties of cellular solids produced from hollow stainless steel spheres",
+   "authors": "Roy S., Wanner A., Beck T., Studnitzky T., Stephani G.",
+   "venue": "Journal of Materials Science",
+   "volume": "46",
+   "pages": "5519-5526",
+   "year": 2011,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Damage evolution and domain-level anisotropy in metal/ceramic composites exhibiting lamellar microstructures",
+   "authors": "Roy S., Butz B., Wanner A.",
+   "venue": "Acta Materialia",
+   "volume": "58",
+   "pages": "2300-2312",
+   "year": 2010,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Material parameter identification of interpenetrating metal/ceramic composites",
+   "authors": "Piat R., Roy S., Wanner A.",
+   "venue": "Key Engineering Materials 417-418",
+   "volume": null,
+   "pages": "53-56",
+   "year": 2010,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Residual stresses in novel metal/ceramic composites exhibiting a lamellar microstructure",
+   "authors": "Roy S., Gibmeier J., Wanner A.",
+   "venue": "Powder Diffraction Suppl. 24 (S1)",
+   "volume": null,
+   "pages": "59-64",
+   "year": 2009,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "In-situ study of internal load transfer in a novel metal/ceramic composite exhibiting lamellar microstructure using energy dispersive synchrotron X-ray diffraction",
+   "authors": "Roy S., Gibmeier J., Wanner A.",
+   "venue": "Advanced Engineering Materials",
+   "volume": "11",
+   "pages": "471-477",
+   "year": 2009,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Elastic constants of metal/ceramic composites with lamellar microstructures: finite element modelling and ultrasonic experiments",
+   "authors": "Ziegler T., Neubrand A., Roy S., Wanner A., Piat R.",
+   "venue": "Composites Science and Technology",
+   "volume": "69",
+   "pages": "620-626",
+   "year": 2009,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Metal/ceramic composites from freeze-cast preforms: domain structure and mechanical properties",
+   "authors": "Roy S. -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2009,
+   "type": "Monograph",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Metal/ceramic composites from freeze-cast ceramic preforms: domain structure and elastic properties",
+   "authors": "Roy S., Wanner A.",
+   "venue": "Composites Science and Technology",
+   "volume": "68",
+   "pages": "1136-1143",
+   "year": 2008,
+   "type": "Journal",
+   "faculty": [
+    "siddhartha-roy"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

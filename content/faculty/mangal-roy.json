@@ -1,0 +1,109 @@
+{
+  "name": "Mangal Roy",
+  "slug": "mangal-roy",
+  "designation": "Professor",
+  "isHead": false,
+  "email": "mroy@metal.iitkgp.ac.in",
+  "phone": "+91-3222-283298",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Bone Regeneration & Bone Tissue Engineering",
+    "Powder metallurgy",
+    "Advanced Materials Processing",
+    "Biomaterials",
+    "Glass and glass-ceramics"
+  ],
+  "areas": [
+    "extractive-process",
+    "ceramics-composites"
+  ],
+  "researchStatement": [],
+  "awards": [],
+  "currentProjects": [
+    {
+      "title": "Development of Cobalt Free Hard Metal for Articulating Surfaces in Total Joint Arthroplasty",
+      "role": "Principal Investigator",
+      "funder": "Department of Biotechnology"
+    },
+    {
+      "title": "Development Of Self-Lubricating Wear Resistant MAX/MXene Reinforced Zirconia Toughened Alumina Ceramics For Sustainable Eco Friendly Machining",
+      "role": "Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "Development Of Self-Lubricating Wear Resistant MAX/MXene Reinforced Zirconia Toughened Alumina Ceramics For Sustainable Eco Friendly Machining",
+      "role": "Principal Investigator",
+      "funder": "Science and Engineering Research Board (SERB)"
+    },
+    {
+      "title": "Functionally Graded Multilayered Nuclear Radiation Shielding (Platinum Jubilee Innovation Challenge Grant IoE)",
+      "role": "Principal Investigator",
+      "funder": "Sponsored Research and Industrial Consultancy (SRIC)"
+    },
+    {
+      "title": "Powder Metallurgy Equipment Service",
+      "role": "Principal Investigator",
+      "funder": "Various Government and Non-Government Organisations"
+    },
+    {
+      "title": "Scanning Electron Microscopy Laboratory usage",
+      "role": "Principal Investigator",
+      "funder": "Various internal users of the Institute"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "Magnesium as degradable biomaterial: processing and bio - degradation mechanism evaluation",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Magnesium Bioceramic for osteoporotic Bone Tissue Engineering",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development and Commercialization of Degradable Metallic Internal Fracture Fixation Devices",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of CNT-reinforced Alumina Composite for Wear Resistant Applications",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Polypyrrole Coated Mg Alloys for Degradable Fracture Fixation Devices",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Novel functionally graded alumina-zirconia composites with optimum aging behavior and mechanical properties for biomedical implant applications",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Novel functionally graded alumina-zirconia composites with optimum aging behavior and mechanical properties for biomedical implant applications",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Setting Up High-End Testing Facilities of Materials for Biomaterials, Aerospace and Automotive Applications (SGDRI-2015)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Technology Development and Demonstration for Stanag Level 3/4 Rated Composite Integral Armour for Infantry Fighting Vehicles (IFVs)",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/mangal-roy.webp",
+  "researchImage": "/images/research/group-mangal-roy.webp",
+  "website": null,
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-mroy",
+  "source": "IIT Kharagpur institute faculty profile"
+}

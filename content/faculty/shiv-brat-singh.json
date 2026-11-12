@@ -1,0 +1,295 @@
+{
+  "name": "Shiv Brat Singh",
+  "slug": "shiv-brat-singh",
+  "designation": "Professor",
+  "isHead": true,
+  "email": "sbs22@metal.iitkgp.ac.in",
+  "phone": "+91-3222-283290",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Physical metallurgy of steel"
+  ],
+  "areas": [
+    "physical-mechanical"
+  ],
+  "researchStatement": [
+    "Area of work:Physical Metallurgy of steels, Phase Transformations, Thermomechnical simulation",
+    "My research activities focus on understanding the phase transformation behaviour in steels.    This knowledge is then used to design and develop new steels or to optimise the process to obtain the desired microstructure and properties. Specific reserach areas include: Mechanism of baintie transformation in steels, TRIP aided steel, Bake hardening, High strength bainitic and multi-phase steels"
+  ],
+  "awards": [
+    "DAAD, 2007",
+    "Young Metallurgist, 2003"
+  ],
+  "currentProjects": [
+    {
+      "title": "A laboratory/pilot scale set up to optimize the process parameters for producing DRI with varying H2 and CO ratio along with 3D Multiphysics modelling of DRI shaft reactor",
+      "role": "Principal Investigator",
+      "funder": "Ministry of Steel,Steel Authority of India Ltd."
+    },
+    {
+      "title": "A multi scale approach to SFE-engineered high-Mn lightweight steels for sustainable mobility",
+      "role": "Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "A study on the evolution and effect of atom clusters and alloy carbide precipitates in nano-bainitic steel",
+      "role": "Principal Investigator",
+      "funder": "Department of Atomic Energy (DAE)"
+    },
+    {
+      "title": "Development of Boron, High Carbon and Electrode Quality Grades of Steel and Improvement in Quality of Forging Grades of Steel and Spring Steel",
+      "role": "Principal Investigator",
+      "funder": "RASHTRIYA ISPAT NIGAM LIMITED"
+    },
+    {
+      "title": "Digital Board with Integrated Audiovisual and Internet Connectivity",
+      "role": "Principal Investigator",
+      "funder": "Ms. Sumeeta K. Ghosh"
+    },
+    {
+      "title": "Testing of metallic materials",
+      "role": "Principal Investigator",
+      "funder": "Various Government and Non-Government Organisations"
+    },
+    {
+      "title": "A fresh perspective on the evolution of atom clusters and microalloy precipitates in steels and their effects on properties",
+      "role": "Co-Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "A fresh perspective on the evolution of atom clusters and microalloy precipitates in steels and their effects on properties",
+      "role": "Co-Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "Identification of an alternate drum material for conductor cables",
+      "role": "Co-Principal Investigator",
+      "funder": "LUMINO INDUSTRIES LIMITED"
+    },
+    {
+      "title": "Understanding Indian High-Ash coal Characteristics for gasification technology development",
+      "role": "Co-Principal Investigator",
+      "funder": "Dastur Energy Private Limited"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "HIGH STRENGTH FORMABLE STEELS FOR AUTOMOBILE APPLICATIONS.",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "DEVELOPMENT AND CHARACTERIZATION OF BIOCOMPATIBLE LOW MODULUS TITANIUM ALLOYS FOR TOTAL JOINT REPLACEMENT.",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "DEVELOPMENT OF FERRITE BAINITE DUAL PHASE (DP) STEELS FOR AUTOMOBILE APPLICATIONS",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "ULTRA FINE GRAINED LOW CARBON STEEL USING ACCUMULATIVE ROLL BONDING (ARP) AN EXPLORATORY STUDY",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "DEVELOPMENT OF NEW METALLIC COATING FOR LOW CARBON STEELS: PHASE 2 (SCL)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "FORMABILITY AND COATING BEHAVIOR OF TRIP AIDED STEELS",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "HEAT TREATMENT OF STEEL SAMPLES IN SALT BATH FURNACE",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "HIGH STRENGTH TRIP AIDED STEEL FOR AUTOMOBILIES",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Mechanical and Chemical Testing of TMT bars",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "STRUCTURE PROPERTY CORRELATION IN NEAR EUTECTOID STEELS",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "STEEL TECHNOLOGY CENTER - BRIDGE PROJECT",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Heat Treatment of Industrial Knives",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of micro-alloyed low carbon steels for hot forged automotive components",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of high strength Ferrite - Bainite Steels",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of duplex stainless steel",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of High Strength Multiphase Steel",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Thermo-mechanically Processed High Strength Baintic Steel Rails for Indian Railways - TBR Bridge Project",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Quenching & Deformation dilatometry of Steels",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Thermomechanically processed high strength bainitic steel rails for Indian Railways",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Interdiffusion Studies in the Ni/Zn System",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of Boron and Co2 Grades of Steel",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Microstructure Property Correlation in Hot and Cold Rolled High Strength Steels",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Indigenous Development of Ultra High Strength Steel with Stainless Property for Space Application ( Project No.: 6456)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Hot and Cold rolling of Experimental Steels",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Hydrogen Embrittlement in High Strength Steels for Energy Industries: Assessment and Prevention",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Hydrogen Embrittlement in High Strength Steels for Energy Industries: Assessment and Prevention",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Technical clarification on alloy steels",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Ironmaking Course",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Microalloyed Bainitic Steels with High Strength, Toughness and Fatigue Resistance for Auto Components",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Design of Thermal - Cycle for Continuous Annealing Line to Develop AHHS like Cold Rolled Dual Phase and Complex Phase Steels",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Utilization of ship-Recycled Steel for Structural Applications",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "CHARPY IMPACT TESTING OF TMT REBAR FROM TATA STEEL",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Developing new Dephosphorization fluxes for hot metal pre-treatment stage and designing new mould fluxes for casting of high Ti containing steels using waste residues from Aluminum Industry",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Developing new Dephosphorization fluxes for hot metal pretreatment stage and designing new mould fluxes for casting of high Ti containing steels using waste residues from Aluminum Industry",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "DEVELOPMENT OF ADVANCED HIGH STRENGTH AUTOMOTIVE STEEL THROUGH Q & P TREATMENT",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Failure analysis of stage 2 compressor blade of gas turbine unit 1 of NTPC Dadri Gas power station",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "FIST Program - 2012 [129]",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Friction Stir Welding of Aluminium and Steel Sheet Metals for Automobile Components",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Grain Boundary and Magnetic Domain Interaction in Oriented Bulk Magnetostrictive Fe-Ga Alloy",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Multi-Sensor Integrated Robotic System for Hazardous Jobs in Manufacturing Industry",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Remnant Life Assessment of Creep - Resistant Steels Using Accelerated Creep Test",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Role of Special Boundaries on Hydrogen Permeation in Medium Mn Steel",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/shiv-brat-singh.webp",
+  "researchImage": null,
+  "website": null,
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-sbs22",
+  "source": "IIT Kharagpur institute faculty profile"
+}

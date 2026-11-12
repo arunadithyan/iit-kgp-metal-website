@@ -1,0 +1,29 @@
+{
+  "slug": "functional-devices",
+  "order": 5,
+  "title": "Functional Materials & Devices",
+  "short": "Materials chosen for what they do: sense, switch, store, actuate and convert.",
+  "overview": [
+    "Functional materials are valued for electrical, magnetic, optical or chemical behaviour rather than load-bearing strength. Research in this area includes dielectric, ferroelectric and piezoelectric materials, permanent magnets and magnetic shape memory alloys, multiferroics and spintronics, and two-dimensional materials.",
+    "Thin films are a recurring platform: grown by sputtering and other deposition methods, then examined by high-resolution electron microscopy and diffraction to link growth conditions to device-relevant properties."
+  ],
+  "themes": [
+    "Electronic materials",
+    "Magnetic materials",
+    "Smart materials",
+    "Functional thin films",
+    "Sensors and advanced devices",
+    "Nanomaterials"
+  ],
+  "image": "/images/research/area-functional-devices.webp",
+  "imageCredit": "shampa-aich",
+  "imageAlt": "High-resolution TEM images of thin-film nanostructure with selected-area diffraction insets, 5 nm scale bars",
+  "labs": [
+    "Arun Sarin Lab (Thin Film Research)",
+    "HRTEM Lab",
+    "HRXRD Lab",
+    "FESEM Lab",
+    "SEM-FIB",
+    "Optical Profilometer"
+  ]
+}

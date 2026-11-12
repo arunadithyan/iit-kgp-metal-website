@@ -1,0 +1,122 @@
+{
+  "intro": "The Department offers undergraduate, postgraduate and doctoral programmes. Programme names, codes and core subjects below are taken from the IIT Kharagpur ERP curriculum pages.",
+  "programmes": [
+    {
+      "slug": "btech",
+      "level": "Undergraduate",
+      "name": "B.Tech in Metallurgical and Materials Engineering",
+      "code": "MT",
+      "duration": "4 years",
+      "summary": "The four-year B.Tech programme builds from mathematics, physics, chemistry and engineering fundamentals into materials thermodynamics and kinetics, engineering materials and scientific computing for materials science.",
+      "curriculumKey": "btech"
+    },
+    {
+      "slug": "double-major",
+      "level": "Undergraduate",
+      "name": "Double Major options",
+      "code": "DM_MT · DM_MT1 · DM_MT2",
+      "duration": "Alongside the B.Tech",
+      "summary": "Double Major in Process Metallurgy (DM_MT), Double Major in Advanced Materials (DM_MT1) and Double Major in Materials Engineering (DM_MT2).",
+      "curriculumKey": null
+    },
+    {
+      "slug": "dual-specialisations",
+      "level": "Undergraduate",
+      "name": "Combined programmes",
+      "code": "MTJ · MTK",
+      "duration": "See ERP curriculum",
+      "summary": "Metallurgical and Materials Engineering / Financial Engineering (MTJ) and Metallurgical and Materials Engineering / Engineering Entrepreneurship (MTK).",
+      "curriculumKey": null
+    },
+    {
+      "slug": "mtech-mme",
+      "level": "Postgraduate",
+      "name": "M.Tech in Metallurgical and Materials Engineering",
+      "code": "MT1",
+      "duration": "2 years",
+      "summary": "Core subjects include thermodynamics of engineering materials, metallurgical kinetics, principles and techniques of materials characterisation, and programming and numerical methods in materials engineering.",
+      "curriculumKey": "mtech-mme"
+    },
+    {
+      "slug": "mtech-steel",
+      "level": "Postgraduate",
+      "name": "M.Tech in Steel Technology",
+      "code": "MT2",
+      "duration": "2 years",
+      "summary": "A postgraduate specialisation in steel technology. The full subject list is published on the IIT Kharagpur ERP curriculum page.",
+      "curriculumKey": null
+    },
+    {
+      "slug": "phd",
+      "level": "Doctoral",
+      "name": "Ph.D. programme",
+      "code": "—",
+      "duration": "Research programme",
+      "summary": "Doctoral research under the supervision of department faculty across all six research areas. IIT Kharagpur runs a rolling Ph.D. admission process.",
+      "curriculumKey": null
+    }
+  ],
+  "admissions": [
+    {
+      "title": "Undergraduate admission",
+      "text": "Admission to the B.Tech programme is through JEE (Advanced) and joint seat allocation, as for all IIT undergraduate programmes.",
+      "url": "https://www.iitkgp.ac.in/navpage/admissions"
+    },
+    {
+      "title": "Postgraduate admission",
+      "text": "M.Tech admission details, eligibility and schedules are published by IIT Kharagpur each year.",
+      "url": "https://www.iitkgp.ac.in/navpage/admissions"
+    },
+    {
+      "title": "Ph.D. admission",
+      "text": "IIT Kharagpur accepts Ph.D. applications through its rolling admission process.",
+      "url": "https://www.iitkgp.ac.in/rolling-phd-admission"
+    }
+  ],
+  "scholarships": [
+    {
+      "title": "Prime Minister's Research Fellowship (PMRF)",
+      "url": "https://www.pmrf.in/"
+    },
+    {
+      "title": "Vidya Lakshmi education loan portal",
+      "url": "https://www.vidyalakshmi.co.in/Students/"
+    },
+    {
+      "title": "IIT Kharagpur student information and scholarships",
+      "url": "https://www.iitkgp.ac.in/navpage/student"
+    }
+  ],
+  "regulations": [
+    {
+      "title": "Undergraduate curricula",
+      "url": "https://www.iitkgp.ac.in/curricula-ug"
+    },
+    {
+      "title": "Postgraduate curricula",
+      "url": "https://www.iitkgp.ac.in/curricula-pg"
+    },
+    {
+      "title": "Academic calendar",
+      "url": "https://www.iitkgp.ac.in/academic-calendar-ug"
+    }
+  ],
+  "resources": [
+    {
+      "title": "ERP portal",
+      "url": "https://erp.iitkgp.ac.in"
+    },
+    {
+      "title": "Central Library",
+      "url": "https://www.iitkgp.ac.in/academics-library"
+    },
+    {
+      "title": "Career Development Centre",
+      "url": "https://cdc.iitkgp.ac.in/"
+    },
+    {
+      "title": "Anti-ragging measures",
+      "url": "https://www.iitkgp.ac.in/anti-ragging-measures"
+    }
+  ]
+}

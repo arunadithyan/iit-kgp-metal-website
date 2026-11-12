@@ -1,0 +1,459 @@
+{
+ "btech": {
+  "course": "Metallurgical and Materials Engineering (B.Tech, 4 years)",
+  "semesters": [
+   {
+    "semester": 1,
+    "subjects": [
+     {
+      "type": "Depth CORE C",
+      "code": "GE10001",
+      "name": "Gender Sensitization",
+      "ltp": "0-0-0",
+      "credits": 0.0
+     },
+     {
+      "type": "Depth CORE CI",
+      "code": "LS10001",
+      "name": "Life Skill",
+      "ltp": "0-0-0",
+      "credits": 1.0
+     },
+     {
+      "type": "Depth CORE I",
+      "code": "MA11003",
+      "name": "Advanced Calculus",
+      "ltp": "3-1-0",
+      "credits": 4.0
+     },
+     {
+      "type": "Depth CORE II",
+      "code": "EC21201",
+      "name": "Basic Electronics",
+      "ltp": "3-1-0",
+      "credits": 4.0
+     },
+     {
+      "type": "Depth CORE III",
+      "code": "EC29201",
+      "name": "Basic Electronics Laboratory",
+      "ltp": "0-0-3",
+      "credits": 2.0
+     },
+     {
+      "type": "Depth CORE IV",
+      "code": "ME11003",
+      "name": "Basic Engineering Mechanics",
+      "ltp": "3-1-0",
+      "credits": 4.0
+     },
+     {
+      "type": "Depth CORE V",
+      "code": "CY11003",
+      "name": "Chemistry",
+      "ltp": "3-1-0",
+      "credits": 4.0
+     },
+     {
+      "type": "Depth CORE VI",
+      "code": "CY19003",
+      "name": "Chemistry Laboratory",
+      "ltp": "0-0-3",
+      "credits": 2.0
+     },
+     {
+      "type": "Depth CORE VII",
+      "code": "CE13003",
+      "name": "Engineering Drawing And Computer Graphics",
+      "ltp": "1-0-3",
+      "credits": 3.0
+     },
+     {
+      "type": "Depth CORE VIII",
+      "code": "EA10007",
+      "name": "Extra Academic Activity-I",
+      "ltp": "0-0-3",
+      "credits": 1.0
+     }
+    ]
+   },
+   {
+    "semester": 2,
+    "subjects": [
+     {
+      "type": "Depth CORE IX",
+      "code": "MA11004",
+      "name": "Linear Algebra, Numerical And Complex Analysis",
+      "ltp": "3-1-0",
+      "credits": 4.0
+     },
+     {
+      "type": "Depth CORE X",
+      "code": "CS10003",
+      "name": "Programming And Data Structures",
+      "ltp": "3-0-0",
+      "credits": 3.0
+     },
+     {
+      "type": "Depth CORE XI",
+      "code": "CS19003",
+      "name": "Programming And Data Structures Laboratory",
+      "ltp": "0-0-3",
+      "credits": 2.0
+     },
+     {
+      "type": "Depth CORE XII",
+      "code": "EE11003",
+      "name": "Electrical Technology",
+      "ltp": "3-1-0",
+      "credits": 4.0
+     },
+     {
+      "type": "Depth CORE XIII",
+      "code": "EN19003",
+      "name": "Engineering Laboratory",
+      "ltp": "0-0-3",
+      "credits": 2.0
+     },
+     {
+      "type": "Depth CORE XIV",
+      "code": "PH11003",
+      "name": "Physics Of Waves",
+      "ltp": "3-1-0",
+      "credits": 4.0
+     },
+     {
+      "type": "Depth CORE XV",
+      "code": "PH19003",
+      "name": "Physics Laboratory",
+      "ltp": "0-0-3",
+      "credits": 2.0
+     },
+     {
+      "type": "Depth CORE XVI",
+      "code": "EA10008",
+      "name": "Extra Academic Activity-Ii",
+      "ltp": "0-0-3",
+      "credits": 1.0
+     }
+    ]
+   },
+   {
+    "semester": 3,
+    "subjects": [
+     {
+      "type": "Depth CORE XIX",
+      "code": "MA20205",
+      "name": "Probability And Statistics",
+      "ltp": "3-0-0",
+      "credits": 3.0
+     },
+     {
+      "type": "Depth CORE XVII",
+      "code": "MT21107",
+      "name": "Introduction To Engineering Materials",
+      "ltp": "3-1-0",
+      "credits": 4.0
+     },
+     {
+      "type": "Depth CORE XVIII",
+      "code": "MT21105",
+      "name": "Metallurgical Thermodynamics And Kinetics",
+      "ltp": "3-1-0",
+      "credits": 4.0
+     },
+     {
+      "type": "Depth CORE XX",
+      "code": "MT29007",
+      "name": "Introduction To Engineering Materials Lab.",
+      "ltp": "0-0-3",
+      "credits": 2.0
+     },
+     {
+      "type": "Depth CORE XXI",
+      "code": "MT29005",
+      "name": "Metallurgical Thermodynamics And Kinetics Lab.",
+      "ltp": "0-0-3",
+      "credits": 2.0
+     },
+     {
+      "type": "Depth CORE XXII",
+      "code": "MT20201",
+      "name": "Introductory Scientific Computing For Materials Science",
+      "ltp": "3-0-0",
+      "credits": 3.0
+     },
+     {
+      "type": "Depth CORE XXIII",
+      "code": "MT29205",
+      "name": "Introductory Scientific Computing For Materials Science Laboratory",
+      "ltp": "0-0-3",
+      "credits": 2.0
+     },
+     {
+      "type": "Depth CORE XXIV",
+      "code": "EA10009",
+      "name": "Extra Academic Activity-Iii",
+      "ltp": "0-0-3",
+      "credits": 1.0
+     }
+    ]
+   },
+   {
+    "semester": 4,
+    "subjects": [
+     {
+      "type": "Depth CORE XXIX",
+      "code": "MA30210",
+      "name": "Integral Transforms And Applications",
+      "ltp": "3-0-0",
+      "credits": 3.0
+     },
+     {
+      "type": "Depth CORE XXV",
+      "code": "MT20006",
+      "name": "Materials Processing",
+      "ltp": "3-0-0",
+      "credits": 3.0
+     },
+     {
+      "type": "Depth CORE XXVI",
+      "code": "MT21008",
+      "name": "Deformation Behaviour Of Materials",
+      "ltp": "3-1-0",
+      "credits": 4.0
+     },
+     {
+      "type": "Depth CORE XXVII",
+      "code": "MT29006",
+      "name": "Materials Processing Lab.",
+      "ltp": "0-0-3",
+      "credits": 2.0
+     },
+     {
+      "type": "Depth CORE XXVIII",
+      "code": "MT20208",
+      "name": "Transport Phenomena In Metallurgical Processes",
+      "ltp": "3-0-0",
+      "credits": 3.0
+     },
+     {
+      "type": "Depth CORE XXX",
+      "code": "MT20206",
+      "name": "Machine Learning Methods For Materials Engineering",
+      "ltp": "3-0-0",
+      "credits": 3.0
+     },
+     {
+      "type": "Depth CORE XXXI",
+      "code": "MT29206",
+      "name": "Machine Learning Applications In Materials Engineering Laboratory",
+      "ltp": "0-0-3",
+      "credits": 2.0
+     },
+     {
+      "type": "Depth CORE XXXII",
+      "code": "EA10010",
+      "name": "Extra Academic Activity-Iv",
+      "ltp": "0-0-3",
+      "credits": 1.0
+     }
+    ]
+   },
+   {
+    "semester": 5,
+    "subjects": [
+     {
+      "type": "Depth CORE XXXIII",
+      "code": "MT30201",
+      "name": "Mechanical Testing And Working Of Materials",
+      "ltp": "3-0-0",
+      "credits": 3.0
+     },
+     {
+      "type": "Depth CORE XXXIV",
+      "code": "MT30205",
+      "name": "Extractive Metallurgy",
+      "ltp": "3-0-0",
+      "credits": 3.0
+     },
+     {
+      "type": "Depth CORE XXXV",
+      "code": "MT31017",
+      "name": "Phase Transformation And Heat Treatment Of Materials",
+      "ltp": "3-1-0",
+      "credits": 4.0
+     },
+     {
+      "type": "Depth CORE XXXVI",
+      "code": "MT39005",
+      "name": "Heat Treatment Of Materials Lab.",
+      "ltp": "0-0-3",
+      "credits": 2.0
+     },
+     {
+      "type": "Depth CORE XXXVII",
+      "code": "MT39009",
+      "name": "Mechanical Testing And Working Lab.",
+      "ltp": "0-0-3",
+      "credits": 2.0
+     },
+     {
+      "type": "Depth CORE XXXVIII",
+      "code": "MT41013",
+      "name": "Corrosion And Environmental Degradation Of Materials",
+      "ltp": "3-0-0",
+      "credits": 3.0
+     }
+    ]
+   },
+   {
+    "semester": 6,
+    "subjects": [
+     {
+      "type": "Depth CORE XL",
+      "code": "MT31202",
+      "name": "X-Ray Diffraction And Microscopy",
+      "ltp": "3-1-0",
+      "credits": 4.0
+     },
+     {
+      "type": "Depth CORE XLI",
+      "code": "MT32008",
+      "name": "Iron Making And Steelmaking",
+      "ltp": "3-1-0",
+      "credits": 4.0
+     },
+     {
+      "type": "Depth CORE XLII",
+      "code": "MT39202",
+      "name": "Xrd And Microscopy Lab",
+      "ltp": "0-0-3",
+      "credits": 2.0
+     },
+     {
+      "type": "Depth CORE XLIII",
+      "code": "MT30204",
+      "name": "Advanced Materials",
+      "ltp": "3-0-0",
+      "credits": 3.0
+     },
+     {
+      "type": "Depth CORE XXXIX",
+      "code": "MT30202",
+      "name": "Physics Of Materials",
+      "ltp": "3-0-0",
+      "credits": 3.0
+     }
+    ]
+   },
+   {
+    "semester": 7,
+    "subjects": [
+     {
+      "type": "Depth CORE XLIV",
+      "code": "MT48201",
+      "name": "Summer Internship",
+      "ltp": "0-0-0",
+      "credits": 2.0
+     }
+    ]
+   }
+  ]
+ },
+ "mtech-mme": {
+  "course": "Metallurgical and Materials Engineering (M.Tech)",
+  "semesters": [
+   {
+    "semester": 1,
+    "subjects": [
+     {
+      "type": "Depth CORE C",
+      "code": "GE10001",
+      "name": "Gender Sensitization",
+      "ltp": "0-0-0",
+      "credits": 0.0
+     },
+     {
+      "type": "Depth CORE I",
+      "code": "MT60001",
+      "name": "Thermodynamics Of Engineering Materials",
+      "ltp": "3-1-0",
+      "credits": 4.0
+     },
+     {
+      "type": "Depth CORE II",
+      "code": "MT60003",
+      "name": "Programming And Numerical Methods In Materials Engineering",
+      "ltp": "3-1-0",
+      "credits": 4.0
+     },
+     {
+      "type": "Depth CORE III",
+      "code": "MT69003",
+      "name": "Computer Programming Lab. (Lab. I)",
+      "ltp": "0-0-3",
+      "credits": 2.0
+     },
+     {
+      "type": "Depth CORE IV",
+      "code": "MT69002",
+      "name": "Seminar-Ii",
+      "ltp": "0-0-3",
+      "credits": 2.0
+     }
+    ]
+   },
+   {
+    "semester": 2,
+    "subjects": [
+     {
+      "type": "Depth CORE V",
+      "code": "MT60002",
+      "name": "Metallurgical Kinetics",
+      "ltp": "3-1-0",
+      "credits": 4.0
+     },
+     {
+      "type": "Depth CORE VI",
+      "code": "MT60004",
+      "name": "Principles And Techniques Of Materials Characterization",
+      "ltp": "3-1-0",
+      "credits": 4.0
+     }
+    ]
+   },
+   {
+    "semester": 3,
+    "subjects": [
+     {
+      "type": "Depth CORE VII",
+      "code": "MT68221",
+      "name": "Summer Internship",
+      "ltp": "0-0-6",
+      "credits": 4.0
+     }
+    ]
+   }
+  ]
+ },
+ "mtech-steel": {
+  "course": "Steel Technology (M.Tech)",
+  "semesters": [
+   {
+    "semester": 1,
+    "subjects": [
+     {
+      "type": "Depth CORE C",
+      "code": "GE10001",
+      "name": "Gender Sensitization",
+      "ltp": "0-0-0",
+      "credits": 0.0
+     }
+    ]
+   }
+  ]
+ },
+ "note": "Core subjects as published on the IIT Kharagpur ERP curriculum pages (B.Tech: admission year 2024 onwards). Electives and later-semester subjects are listed on the ERP.",
+ "sourceUrl": "https://erp.iitkgp.ac.in/ERPWebServices/curricula/specialisationList_new_currver2.jsp?stuType=UG"
+}

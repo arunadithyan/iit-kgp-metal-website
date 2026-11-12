@@ -1,0 +1,39 @@
+{
+  "name": "Chetan Singh",
+  "slug": "chetan-singh",
+  "designation": "Assistant Professor Grade-I",
+  "isHead": false,
+  "email": "chetan@metal.iitkgp.ac.in",
+  "phone": null,
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Light metals and alloys",
+    "Powder metallurgy",
+    "Hydrogen generation and storage",
+    "Microstructure-texture-Property Relationship"
+  ],
+  "areas": [
+    "physical-mechanical",
+    "extractive-process",
+    "energy-sustainability"
+  ],
+  "researchStatement": [
+    "The Chetan Singh Research Group at IIT Kharagpur works on microstructure-driven design of metallic materials, connecting processing, structure, and properties across length scales.",
+    "One focus area is reactive and energetic metal powders. We study how the microstructure of aluminium and magnesium powders, including powders made from recycled scrap, governs their reactivity with water and their combustion behavior. A particular interest is in tailoring recycled aluminium-alloy powders to generate green hydrogen on demand: energy can then be stored and moved as a stable metal powder instead of as compressed or liquefied hydrogen.",
+    "A second area is the mechanical behavior of metals at cryogenic temperatures. We examine deformation behavior in steels, aluminium, and titanium alloys, with relevance to liquid-hydrogen storage, superconducting magnet structures, and space applications.",
+    "The third area is lightweight structural metals. We investigate mechanical and electrochemical behavior of magnesium and aluminium alloys for biodegradable applications, and extend this work to automative applications.",
+    "Across all three areas, the group relies on correlative electron microscopy (SEM/EBSD, TEM, FIB) combined with in-situ mechanical testing to directly observe the mechanisms that control material behavior.",
+    "Students in the group will gain hands-on experience in alloy and powder processing, mechanical testing from ambient to cryogenic temperatures, and advanced characterization."
+  ],
+  "awards": [],
+  "currentProjects": [],
+  "completedProjects": [],
+  "photo": "/images/faculty/chetan-singh.webp",
+  "researchImage": "/images/research/group-chetan-singh.webp",
+  "website": "https://www.csinghlab.com/",
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-chetan",
+  "source": "IIT Kharagpur institute faculty profile"
+}

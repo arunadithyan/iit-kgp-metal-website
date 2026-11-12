@@ -1,0 +1,178 @@
+{
+  "name": "Chenna Rao Borra",
+  "slug": "chenna-rao-borra",
+  "designation": "Assistant Professor Grade-I",
+  "isHead": false,
+  "email": "chenna.borra@metal.iitkgp.ac.in",
+  "phone": "+91-3222-283240",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Metal recycling",
+    "Extractive metallurgy",
+    "Sustainable Metallurgy"
+  ],
+  "areas": [
+    "extractive-process",
+    "energy-sustainability"
+  ],
+  "researchStatement": [
+    "My research focuses on developing efficient, sustainable, and environmentally friendly processes for the extraction, recovery, and recycling of valuable and critical metals from primary and secondary resources, including ores, metallurgical wastes, tailings, residues, and end-of-life products. I work on hydrometallurgical, pyrometallurgical, and electrometallurgical processes for metal extraction and recycling, with an emphasis on resource recovery, waste minimization, and circularity. Thermodynamic modelling using HSC Chemistry and FactSage, along with techno-economic analysis (TEA) and life-cycle assessment (LCA), is integrated into my research to understand process behaviour and evaluate the economic and environmental sustainability of the developed processes. Through this integrated approach, my research aims to develop scalable, economically viable, and environmentally sustainable technologies for metal extraction, recovery, and recycling and contribute to the transition towards a circular and resource-efficient metals industry."
+  ],
+  "awards": [
+    "Technology Development and Deployment Excellence Award",
+    "Best presentation (IBAAS 2018)",
+    "Best project award(Tata Steel)"
+  ],
+  "currentProjects": [
+    {
+      "title": "Graphite recovery from waste Li battery",
+      "role": "Principal Investigator",
+      "funder": "CSIRO"
+    },
+    {
+      "title": "Process for selective recovery of rare earth elements REEs from spent neodymium iron boron NdFeB magnets",
+      "role": "Principal Investigator",
+      "funder": "Department of Science and Technology (DST)"
+    },
+    {
+      "title": "Rare earth technology transfer",
+      "role": "Principal Investigator",
+      "funder": "REMAG"
+    },
+    {
+      "title": "Thermal Processing of Hyperaccumulator Plant Biomass",
+      "role": "Principal Investigator",
+      "funder": "Genomines"
+    },
+    {
+      "title": "Converting Electric Arc Furnace Dust (EAFD) to value added iron nugget with minimum possible carbon and energy input",
+      "role": "Co-Principal Investigator",
+      "funder": "Science and Engineering Research Board (SERB)"
+    },
+    {
+      "title": "Converting Electric Arc Furnace Dust (EAFD) to value added iron nugget with minimum possible carbon and energy input",
+      "role": "Co-Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "Developing a novel rare-earth modified AlSi10Mg alloy via laser additive manufacturing for high-temperature automobile and aerospace applications",
+      "role": "Co-Principal Investigator",
+      "funder": "Various internal users of the Institute"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "Lithium Ion Battery Recycling: Assessment of Current Status and Future Opportunities",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Characterization of Dross Briquettes to Control the Emissions",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Lanthanum Metal Production Project for Concept to Commissioning of Pilot Plants for Rare Earth and Tatanium Theme Park",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Recovery of Rare Earths from NdFeB Magnet",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Cerium Metal Production Project for Concept to Commissioning of Pilot Plants of Rare Earth and Titanium Theme Park",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Recovery of Rare Earths and other Major Elements from NdFeB Magnets",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Process Development for Metal Recovery from Indian Bauxite Residues (Red Mud)",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Lab Scale Process Development for Removal of Iron from Boxite Ore",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Lab Scale Production of EMD and EMM from Ferro Manganese Furnace Dust",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Synthesis of Alf3 from Aluminium Dross",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "INSA Research Fellowship",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "A lab scale process development for Lithium-ion battery recycling",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Lab scale synthesis of high purity Alumina from aluminum dross",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Ironmaking Course",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Effect of parameters on Al recovery from Cast House Dross",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Process optimization for recycling of E waste and catalysts",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Process optimization for Aeration leaching process",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Lab scale production of high purity Aluminum",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Production of rare earth permanent magnets from spent magnets and primary rare earth oxides",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of an Al-Si cast alloy",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "New Material Development for Rotary Kiln Air Tube",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/chenna-rao-borra.webp",
+  "researchImage": "/images/research/group-chenna-rao-borra.webp",
+  "website": null,
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-chenna.borra",
+  "source": "IIT Kharagpur institute faculty profile"
+}

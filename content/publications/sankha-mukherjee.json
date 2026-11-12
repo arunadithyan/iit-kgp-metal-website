@@ -1,0 +1,695 @@
+{
+ "faculty": "sankha-mukherjee",
+ "items": [
+  {
+   "title": "Beyond LGPS: Superionic conduction meets chemomechanical anisotropy in Li AlP S solid-state Li-ion batteries",
+   "authors": "Maithani V., Mukherjee S.",
+   "venue": "Acta Materialia",
+   "volume": "310",
+   "pages": null,
+   "year": 2026,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Interfacial shear strength of MXene interfaces",
+   "authors": "Zhou Q., Maithani V., Prati M., Ippolito S., Creighton M.A., Gogotsi Y., Mukherjee S., Cao C.",
+   "venue": "Cell Reports Physical Science",
+   "volume": "6",
+   "pages": null,
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "CVD-Grown 2D MoSe2Nanolayers for Energy Storage",
+   "authors": "Kumar P., Waghmare T., Kumar S., Banerjee R., Chakraborty S.K., Ghosh S., Goswami D.K., Mukherjee S., Pradhan D., Sahoo P.K.",
+   "venue": "ACS Applied Nano Materials",
+   "volume": "8",
+   "pages": "21057-21071",
+   "year": 2025,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Unveiling magnetic transition-driven lattice thermal conductivity switching in monolayer VS2",
+   "authors": "Singh Z., Kumar A., Mukherjee S.",
+   "venue": "Nanoscale",
+   "volume": "17",
+   "pages": "6550-6561",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Cooperative Transport of Lithium in Disordered Li10MP2S12 (M = Sn, Si) Electrolytes for Li-Ion Batteries",
+   "authors": "Maithani V., Das S., Mukherjee S.",
+   "venue": "Chemistry of Materials",
+   "volume": "36",
+   "pages": "10537-10551",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Vacancy-mediated inelasticity in two-dimensional vanadium-based dichalcogenides",
+   "authors": "Baski A., Singh Z., Mukherjee S.",
+   "venue": "Physical Chemistry Chemical Physics",
+   "volume": "26",
+   "pages": "4668-4682",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Machine Learning Enabled Prediction of High Stiffness 2D Materials",
+   "authors": "Nadella H.R., Mukherjee S., Anand A., Singh C.V.",
+   "venue": "ACS Materials Letters",
+   "volume": "6",
+   "pages": "729-736",
+   "year": 2024,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Chemical and molecular structure transformations in atomistic conformation of cellulose nanofibers under thermal environment",
+   "authors": "Pakharenko V., Dias O.A.T., Mukherjee S., Konar S., Singh C.V., Oksman K., Sain M. npj Materials Degradation 6 -",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Least Squares Twin Support Vector Machines to Classify End-Point Phosphorus Content in BOF Steelmaking",
+   "authors": "Li H., Barui S., Mukherjee S., Chattopadhyay K.",
+   "venue": "Metals",
+   "volume": "12",
+   "pages": null,
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Mechanical reliability of monolayer MoS2 and WSe2",
+   "authors": "Cui T., Mukherjee S., Onodera M., Wang G., Kumral B., Islam A., Shayegannia M., Krishnan G., Barri N., Serles P., Zhang X., Sassi L.M., Tam J., Bassim N., Kherani N.P., Ajayan P.M., Machida T., Singh C.V., Sun Y., Filleter T.",
+   "venue": "Matter",
+   "volume": "5",
+   "pages": "2975-2989",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Two-dimensional square metal organic framework as promising cathode material for lithium-sulfur battery with high theoretical energy density",
+   "authors": "Chen D., Mukherjee S., Zhang C., Li Y., Xiao B., Singh C.V.",
+   "venue": "Journal of Colloid and Interface Science",
+   "volume": "613",
+   "pages": "435-446",
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Interplay between Thermal Stress and Interface Binding on Fracture of WS2Monolayer with Triangular Voids",
+   "authors": "Verma D., Kumar P., Mukherjee S., Thakur D., Singh C.V., Balakrishnan V.",
+   "venue": "ACS Applied Materials and Interfaces",
+   "volume": null,
+   "pages": null,
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Graphene-based anti-corrosive coating on steel for reinforced concrete infrastructure applications: Challenges and potential",
+   "authors": "Qureshi T., Wang G., Mukherjee S., Akibul Islam M., Filleter T., Singh C.V., Panesar D.K.",
+   "venue": "Construction and Building Materials",
+   "volume": "351",
+   "pages": null,
+   "year": 2022,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Deciphering Interfacial Chemical and Electrochemical Reactions of Sulfide Based All Solid State Batteries",
+   "authors": "Wang C., Hwang S., Jiang M., Liang J., Sun Y., Adair K., Zheng M., Mukherjee S., Li X., Li R., Huang H., Zhao S., Zhang L., Lu S., Wang J., Singh C. V., Su D., Sun X.",
+   "venue": "Advanced Energy Materials",
+   "volume": "11",
+   "pages": "2100210",
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Fatigue resistance of atomically thin graphene oxide",
+   "authors": "Najafi F., Wang G., Cui T., Anand A., Mukherjee S., Filleter T., Sain M., Singh C.V.",
+   "venue": "Carbon",
+   "volume": "183",
+   "pages": "780-788",
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Thermoconformational Behavior of Cellulose Nanofiber Films as a Device Substrate and Their Superior Flexibility and Durability to Glass",
+   "authors": "Pakharenko V., Mukherjee S., Dias O.A.T., Wu C., Manion J., Singh C.V., Seferos D., Tjong J., Oksman K., Sain M.",
+   "venue": "ACS Applied Materials and Interfaces",
+   "volume": "13",
+   "pages": "40853-40862",
+   "year": 2021,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Interface-assisted in-situ growth of halide electrolytes eliminating interfacial challenges of all-inorganic solid-state batteries",
+   "authors": "Wang C., Liang J., Jiang M., Li X., Mukherjee S., Adair K., Zheng M., Zhao Y., Zhao F., Zhang S., Li R., Huang H., Zhao S., Zhang L., Lu S., Singh C. V., Sun X.",
+   "venue": "Nano Energy",
+   "volume": "76",
+   "pages": "105015",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Dramatic improvement in the performance of graphene as Li/Na battery anodes with suitable electrolytic solvents",
+   "authors": "Mukherjee S., Kavalsky L., Chattopadhyay K., Singh C. V.",
+   "venue": "Carbon",
+   "volume": "161",
+   "pages": "570-576",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Compression-induced resistance of singlet oxygen dissociation on phosphorene",
+   "authors": "Kavalsky L., Mukherjee S., Singh C. V.",
+   "venue": "Physical Review Materials",
+   "volume": "4",
+   "pages": "021001",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Strength of graphene with curvilinear grain boundaries",
+   "authors": "Mukherjee S., Alicandri R., Singh C. V.",
+   "venue": "Carbon",
+   "volume": "158",
+   "pages": "808-817",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Toughening of graphene-based polymer nanocomposites via tuning chemical functionalization",
+   "authors": "Najafi F., Wang G., Mukherjee S., Cui T., Filleter T., Singh C. V.",
+   "venue": "Composites Science and Technology",
+   "volume": "194",
+   "pages": "108140",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Phase Evolution of a Prenucleator for Fast Li Nucleation in All Solid State Lithium Batteries",
+   "authors": "Wang X., Gao X., Mukherjee S., Davis D., Fu J., Li W., Sun Q., Zhao F., Jiang M., Hu Y., Huang H., Zhang L., Lu S., Li R., Sam T., Singh C. V., Sun . Advanced Energy Materials 10 2001191-",
+   "venue": null,
+   "volume": null,
+   "pages": null,
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Fatigue of graphene",
+   "authors": "Cui T., Mukherjee S., Suddep P. M., Colas G., Najafi F., Tam J., Ajayan P. M., Singh C. V., Sun Y., Filleter T.",
+   "venue": "Nature Materials",
+   "volume": "19",
+   "pages": "405-411",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Materials perspective on new lithium chlorides and bromides: insights into thermo-physical properties",
+   "authors": "Jiang M., Mukherjee S., Chen Z. W., Chen L. X., Li M. L., Xiao H. Y., Gao C., Singh C. V.",
+   "venue": "Physical Chemistry Chemical Physics",
+   "volume": "22",
+   "pages": "22758-22767",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Electrolyte-Phobic Surface for the Next-Generation Nanostructured Battery Electrodes",
+   "authors": "Qian C., Zhao J., Sun Y., Lee H. R., Luo L., Makaremi M., Mukherjee S., Wang J., Zu C., Xia M., Wang C., Singh C. V., Cui Y., Ozin G. A.",
+   "venue": "Nano Letters",
+   "volume": "20",
+   "pages": "7455-7462",
+   "year": 2020,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Elastomer-like deformation in high-Poisson's-ratio graphene allotropes may allow tensile strengths beyond theoretical cohesive strength limits",
+   "authors": "Sun H., Mukherjee S., Singh C. V.",
+   "venue": "Carbon",
+   "volume": "143",
+   "pages": "752-761",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Ultrahigh storage and fast diffusion of Na and K in blue phosphorene anodes",
+   "authors": "Mukherjee S., Kavalsky L., Singh C. V.",
+   "venue": "ACS Applied Materials & Interfaces",
+   "volume": "10",
+   "pages": "8630-8639",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Understanding dephosphorization in basic oxygen furnaces (BOFs) using data driven modeling techniques",
+   "authors": "Barui S., Mukherjee S., Srivastava A., Chattopadhyay K.",
+   "venue": "Metals",
+   "volume": "9",
+   "pages": "955",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "An Application of Decision Tree-Based Twin Support Vector Machines to Classify Dephosphorization in BOF Steelmaking",
+   "authors": "Phull J., Egas J., Barui S., Mukherjee S., Chattopadhyay K.",
+   "venue": "Metals",
+   "volume": "10",
+   "pages": "25",
+   "year": 2019,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Two dimensional boron as an impressive lithium sulphur battery cathode material",
+   "authors": "Grixti S., Mukherjee S., Singh C. V.",
+   "venue": "Energy Storage Materials",
+   "volume": "13",
+   "pages": "80-87",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Electrostatic deposition of large-surface graphene",
+   "authors": "Trudeau C., Dion-bertrand L., Mukherjee S., Martel R., Cloutier S. G.",
+   "venue": "Materials",
+   "volume": "11",
+   "pages": "116",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Adsorption and diffusion of lithium and sodium on defective rhenium disulfide: A first principles study",
+   "authors": "Mukherjee S., Banwait A., Grixti S., Koratkar N., Singh C. V.",
+   "venue": "ACS Applied Materials & Interfaces",
+   "volume": "10",
+   "pages": "5373-5384",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Adsorption and diffusion of lithium polysulfides over blue phosphorene for Li S batteries",
+   "authors": "Mukherjee S., Kavalsky L., Chattopadhyay K., Singh C. V.",
+   "venue": "Nanoscale",
+   "volume": "10",
+   "pages": "21335-21352",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Phosphorene as a Catalyst for Highly Efficient Nonaqueous Li Air Batteries",
+   "authors": "Kavalsky L., Mukherjee S., Singh C. V.",
+   "venue": "ACS Applied Materials & Interfaces",
+   "volume": "11",
+   "pages": "499-510",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Nonlinear fracture toughness measurement and crack propagation resistance of functionalized graphene multilayers",
+   "authors": "Cao C., Mukherjee S., Howe J. Y., Perovic D. D., Sun Y., Singh C. V., Filleter T.",
+   "venue": "Science Advances",
+   "volume": "4",
+   "pages": "eaao72",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Effect of lattice stacking orientation and local thickness variation on the mechanical behavior of few layer graphene oxide",
+   "authors": "Cui T., Mukherjee S., Cao C., Sudeep P. M., Tam J., Ajayan P. M., Singh C. V., Sun Y., Filleter T.",
+   "venue": "Carbon",
+   "volume": "136",
+   "pages": "168-175",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Hydrogen storage in Li, Na and Ca decorated and defective borophene: a first principles study",
+   "authors": "Haldar S., Mukherjee S., Singh C. V.",
+   "venue": "RSC advances",
+   "volume": "8",
+   "pages": "20748-20757",
+   "year": 2018,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Atomistic Origins of Ductility Enhancement in Metal Oxide Coated Silicon Nanowires for Li Ion Battery Anodes",
+   "authors": "Gao A., Mukherjee S., Srivastava I., Daly M., Singh C. V.",
+   "venue": "Advanced Materials Interfaces",
+   "volume": "4",
+   "pages": "1700920",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "A first principles study of hydrogen storage in lithium decorated defective phosphorene",
+   "authors": "Haldar S., Mukherjee S., Ahmed F., Singh C.",
+   "venue": "V. international journal of hydrogen energy",
+   "volume": "42",
+   "pages": "23018-23027",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Role of graphene in enhancing the mechanical properties of TiO 2/graphene heterostructures",
+   "authors": "Cao C., Mukherjee S., Liu J., Wang B., Amirmaleki M., Lu Z., Howe J. Y., Perovic D. D., Sun X., Singh C. V., Sun Y., Filleter T.",
+   "venue": "Nanoscale",
+   "volume": "9",
+   "pages": "11678-11684",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Phosphorene as a polysulfide immobilizer and catalyst in high performance lithium sulfur batteries",
+   "authors": "Li L., Chen L., Mukherjee S., Gao J., Sun H., Liu Z., Ma X., Gupta T., Singh C. V., Ren W., Chen H., Koratkar N.",
+   "venue": "Advanced Materials",
+   "volume": "29",
+   "pages": "1602734",
+   "year": 2017,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Atomistic simulations of material damping in amorphous silicon nanoresonators",
+   "authors": "Mukherjee S., Song J., Vengallatore S.",
+   "venue": "Modelling and Simulation in Materials Science and Engineering",
+   "volume": "24",
+   "pages": "055015",
+   "year": 2016,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "New insights into the structure-nonlinear mechanical property relations for graphene allotropes",
+   "authors": "Sun H., Mukherjee S., Daly M., Krishnan A., Karigerasi M. M., Singh C. V.",
+   "venue": "Carbon",
+   "volume": "110",
+   "pages": "443-457",
+   "year": 2016,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Mechanical properties of monolayer penta-graphene and phagraphene: a first-principles study",
+   "authors": "Sun H., Mukherjee S., Singh C. V.",
+   "venue": "Physical Chemistry Chemical Physics",
+   "volume": "18",
+   "pages": "26736-26742",
+   "year": 2016,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Methods for atomistic simulations of linear and nonlinear damping in nanomechanical resonators",
+   "authors": "Nourmohammadi Z., Mukherjee S., Joshi S., Song J., Vengallatore S.",
+   "venue": "Journal of Microelectromechanical Systems",
+   "volume": "24",
+   "pages": "1462-1470",
+   "year": 2015,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  },
+  {
+   "title": "Machine Learning Predicted Inelasticity in Defective Two-Dimensional Transition Metal Dichalcogenides using SHAP Analysis.",
+   "authors": "Ankit A., Das A., Baski A., Maithani V., Mukherjee S.",
+   "venue": "Physical Chemistry Chemical Physics - (Accepted/In-Press)",
+   "volume": null,
+   "pages": null,
+   "year": null,
+   "type": "Journal",
+   "faculty": [
+    "sankha-mukherjee"
+   ],
+   "doi": null,
+   "url": null,
+   "abstract": null
+  }
+ ]
+}

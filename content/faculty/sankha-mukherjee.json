@@ -1,0 +1,83 @@
+{
+  "name": "Sankha Mukherjee",
+  "slug": "sankha-mukherjee",
+  "designation": "Assistant Professor Grade-I",
+  "isHead": false,
+  "email": "sankha@metal.iitkgp.ac.in",
+  "phone": null,
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Rechargeable batteries",
+    "Computational Materials Science",
+    "Mechanics of Advanced Materials",
+    "Energy dissipation in Nanodevices",
+    "Hydrogen technology",
+    "Energy materials"
+  ],
+  "areas": [
+    "computational-ai",
+    "functional-devices",
+    "energy-sustainability"
+  ],
+  "researchStatement": [
+    "A core challenge to scientists and engineers in the 21st Century is the development of energy-efficient materials and structures to mitigate global warming. Over the past 40 years India’s per capita oil consumption and CO2 emission have increased by more than 300% and 400%, respectively. In this context of improving upon current technology, nanomaterials (ultrathin layers, two-dimensional materials) can act as game-changers owing to their superb mass to strength ratios, exciting electronic properties and excellent catalytic activities. When striving to identify the most suitable material for a system from the wide catalogue of options, adopting a trial-and-error based experimental approach can be both slow and expensive. Furthermore, the mechanisms responsible for important material properties like strength and conductivity, originate at the atomic level. Moreover, in experiments it is relatively difficult to isolate specific properties or mechanisms from inherent environmental effects. Thus, the emergence of computational modeling for these complex systems is particularly exciting and promising. Computer simulations are advantageous as they provide full control over all the parameters and boundary conditions. Using atomistic and continuum-based simulations, one can predict new materials, investigate their physical properties at different length scales, and screen and modify them for specific applications."
+  ],
+  "awards": [],
+  "currentProjects": [
+    {
+      "title": "A multiscale computational framework for halide solid electrolytes:ab-initio meets ML for Li-ion battery innovation",
+      "role": "Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "A fresh perspective on the evolution of atom clusters and microalloy precipitates in steels and their effects on properties",
+      "role": "Co-Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "A fresh perspective on the evolution of atom clusters and microalloy precipitates in steels and their effects on properties",
+      "role": "Co-Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "A study on the evolution and effect of atom clusters and alloy carbide precipitates in nano-bainitic steel",
+      "role": "Co-Principal Investigator",
+      "funder": "Department of Atomic Energy (DAE)"
+    },
+    {
+      "title": "Atomistic modeling of electromigration in metallic interconnects",
+      "role": "Co-Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "Development of Cobalt Free Hard Metal for Articulating Surfaces in Total Joint Arthroplasty",
+      "role": "Co-Principal Investigator",
+      "funder": "Department of Biotechnology"
+    },
+    {
+      "title": "Digital Board with Integrated Audiovisual and Internet Connectivity",
+      "role": "Co-Principal Investigator",
+      "funder": "Ms. Sumeeta K. Ghosh"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "Structure Mechanical Property Correlations and Fracture in Emerging Two-Dimensional Transition Metal Chalcogenides",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Atomistic Simulations of Inelastic Properties and Fracture of Novel Two Dimensional Transition Metal Dischalcogenides",
+      "role": "Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/sankha-mukherjee.webp",
+  "researchImage": "/images/research/group-sankha-mukherjee.webp",
+  "website": "https://sites.google.com/view/sankha-mukherjee/home",
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-sankha",
+  "source": "IIT Kharagpur institute faculty profile"
+}

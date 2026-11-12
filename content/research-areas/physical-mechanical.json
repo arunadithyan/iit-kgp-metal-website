@@ -1,0 +1,32 @@
+{
+  "slug": "physical-mechanical",
+  "order": 1,
+  "title": "Physical & Mechanical Metallurgy",
+  "short": "How processing builds microstructure, and how microstructure decides strength, toughness and life.",
+  "overview": [
+    "Physical and mechanical metallurgy connects the way an alloy is made to the way it performs. Work in this area follows phase transformations during heat treatment and thermomechanical processing, and measures how the resulting grains, phases and interfaces control strength, ductility, creep, fatigue and fracture.",
+    "Steels remain central to this work, alongside light alloys, titanium alloys, superalloys, bulk metallic glasses and shape memory alloys. Electron microscopy, diffraction and mechanical testing at scales from nanoindentation to full-size specimens tie each property back to the structure that produced it."
+  ],
+  "themes": [
+    "Physical metallurgy",
+    "Phase transformations",
+    "Mechanical behaviour of materials",
+    "Microstructure–property relationships",
+    "Advanced structural materials"
+  ],
+  "image": "/images/research/area-physical-mechanical.webp",
+  "imageCredit": "indrani-sen",
+  "imageAlt": "Orientation map of a polycrystalline alloy with a 15 µm scale bar",
+  "labs": [
+    "Heat Treatment Lab",
+    "Metallography Lab",
+    "Mechanical Testing Lab",
+    "Creep Testing Laboratory",
+    "Instron Lab",
+    "Nanoindentation & Nanotribology Lab",
+    "SEM-EBSD",
+    "TEM Lab",
+    "X-Ray Diffraction Lab",
+    "TMP Lab"
+  ]
+}

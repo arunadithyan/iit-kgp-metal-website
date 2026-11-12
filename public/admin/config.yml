@@ -1,0 +1,248 @@
+# Decap CMS — content manager for department administrators.
+# Every save commits to the GitHub repository; the site rebuilds from those files.
+backend:
+  name: github
+  repo: arunadithyan/iit-kgp-metal-website
+  branch: main
+  # For sign-in on a non-Netlify host, deploy an OAuth proxy and set base_url, e.g.
+  # base_url: https://your-oauth-proxy.example.org
+
+publish_mode: editorial_workflow   # drafts → review → publish
+media_folder: public/images/uploads
+public_folder: /images/uploads
+site_url: https://www.metal.iitkgp.ac.in
+locale: en
+
+collections:
+  - name: news
+    label: News
+    label_singular: News item
+    folder: content/news
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    format: frontmatter
+    summary: "{{title}} — {{category}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: date, label: Date, widget: datetime, date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: false }
+      - { name: year, label: "Year (use when the exact date is unknown)", widget: number, value_type: int, required: false }
+      - name: category
+        label: Category
+        widget: select
+        options: [Award, Faculty achievement, Research breakthrough, Student achievement, Alumni, Collaboration, Sponsored project, Announcement, Institutional update]
+      - { name: image, label: Image, widget: image, required: false }
+      - { name: imageAlt, label: "Image description (for screen readers)", widget: string, required: false }
+      - { name: faculty, label: "Related faculty (profile slug, e.g. rahul-mitra)", widget: string, required: false }
+      - { name: source, label: Source, widget: string, required: false }
+      - { name: sourceUrl, label: Source link, widget: string, required: false }
+      - { name: dateNote, label: Date note, widget: string, required: false }
+      - { name: placeholder, label: "Placeholder (hide from site)", widget: boolean, default: false }
+      - { name: body, label: Text, widget: markdown }
+
+  - name: events
+    label: Events
+    label_singular: Event
+    folder: content/events
+    create: true
+    slug: "{{year}}-{{month}}-{{slug}}"
+    extension: md
+    format: frontmatter
+    summary: "{{title}} — {{start}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: start, label: Starts, widget: datetime, format: "YYYY-MM-DDTHH:mm", required: false }
+      - { name: end, label: Ends, widget: datetime, format: "YYYY-MM-DDTHH:mm", required: false }
+      - name: category
+        label: Type
+        widget: select
+        options: [International conference, National conference, Workshop, Seminar, Distinguished lecture, Symposium, Student activity, Research workshop]
+      - { name: venue, label: Venue, widget: string, required: false }
+      - name: speakers
+        label: Speakers
+        widget: list
+        required: false
+        fields:
+          - { name: name, label: Name, widget: string }
+          - { name: affiliation, label: Affiliation, widget: string, required: false }
+      - { name: registrationUrl, label: Registration link, widget: string, required: false }
+      - { name: poster, label: Poster, widget: image, required: false }
+      - { name: gallery, label: "Photo gallery (after the event)", widget: list, field: { name: image, label: Photo, widget: image }, required: false }
+      - { name: placeholder, label: "Placeholder (example entry, not a real event)", widget: boolean, default: false }
+      - { name: body, label: Description, widget: markdown }
+
+  - name: faculty
+    label: Faculty
+    label_singular: Faculty member
+    folder: content/faculty
+    create: true
+    slug: "{{slug}}"
+    extension: json
+    format: json
+    identifier_field: name
+    fields:
+      - { name: name, label: Name, widget: string }
+      - { name: slug, label: "URL slug (lower-case, hyphens)", widget: string }
+      - name: designation
+        label: Designation
+        widget: select
+        options: [Distinguished Professor, Professor, Associate Professor, Assistant Professor Grade-I, Assistant Professor Grade-II]
+      - { name: isHead, label: Head of the Department, widget: boolean, default: false }
+      - { name: photo, label: Photograph, widget: image, required: false }
+      - { name: email, label: Email, widget: string, required: false }
+      - { name: phone, label: Telephone, widget: string, required: false }
+      - { name: office, label: Office, widget: string, required: false }
+      - { name: qualifications, label: Qualifications, widget: list, required: false }
+      - { name: researchInterests, label: Research interests, widget: list, required: false }
+      - name: areas
+        label: Research areas
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - { label: "Physical & Mechanical Metallurgy", value: physical-mechanical }
+          - { label: "Extractive & Process Metallurgy", value: extractive-process }
+          - { label: "Ceramics & Composites", value: ceramics-composites }
+          - { label: "Computational Materials Science & AI", value: computational-ai }
+          - { label: "Functional Materials & Devices", value: functional-devices }
+          - { label: "Materials for Energy & Sustainability", value: energy-sustainability }
+      - { name: researchStatement, label: Research statement (paragraphs), widget: list, field: { name: p, label: Paragraph, widget: text }, required: false }
+      - { name: awards, label: Awards, widget: list, required: false }
+      - name: currentProjects
+        label: Current projects
+        widget: list
+        required: false
+        fields:
+          - { name: title, label: Title, widget: string }
+          - { name: role, label: Role, widget: select, options: [Principal Investigator, Co-Principal Investigator] }
+          - { name: funder, label: Funding agency, widget: string, required: false }
+      - name: completedProjects
+        label: Completed projects
+        widget: list
+        required: false
+        fields:
+          - { name: title, label: Title, widget: string }
+          - { name: role, label: Role, widget: select, options: [Principal Investigator, Co-Principal Investigator] }
+          - { name: funder, label: Funding agency, widget: string, required: false }
+      - { name: researchImage, label: Research overview image, widget: image, required: false }
+      - { name: website, label: Personal website, widget: string, required: false }
+      - { name: googleScholar, label: Google Scholar URL, widget: string, required: false }
+      - { name: orcid, label: "ORCID iD (0000-0000-0000-0000)", widget: string, required: false }
+      - { name: profileUrl, label: IIT Kharagpur profile URL, widget: string, required: false }
+
+  - name: publications
+    label: Publications
+    label_singular: Faculty publication list
+    folder: content/publications
+    create: true
+    slug: "{{faculty}}"
+    extension: json
+    format: json
+    identifier_field: faculty
+    summary: "{{faculty}}"
+    fields:
+      - { name: faculty, label: "Faculty slug", widget: string }
+      - name: items
+        label: Publications
+        widget: list
+        summary: "{{fields.year}} — {{fields.title}}"
+        fields:
+          - { name: title, label: Title, widget: string }
+          - { name: authors, label: Authors, widget: string }
+          - { name: venue, label: Journal or conference, widget: string, required: false }
+          - { name: volume, label: Volume, widget: string, required: false }
+          - { name: pages, label: Pages, widget: string, required: false }
+          - { name: year, label: Year, widget: number, value_type: int, required: false }
+          - name: type
+            label: Type
+            widget: select
+            options: [Journal, Conferences, Book, Book Chapter/Section, Patent, Symposium, Workshop, Others]
+          - { name: faculty, label: "Department faculty on this paper (slugs)", widget: list }
+          - { name: doi, label: DOI, widget: string, required: false }
+          - { name: url, label: External link, widget: string, required: false }
+          - { name: abstract, label: Abstract, widget: text, required: false }
+
+  - name: research
+    label: Research areas
+    label_singular: Research area
+    folder: content/research-areas
+    create: false
+    extension: json
+    format: json
+    identifier_field: title
+    fields:
+      - { name: slug, label: Slug, widget: hidden }
+      - { name: order, label: Order, widget: number }
+      - { name: title, label: Title, widget: string }
+      - { name: short, label: One-line summary, widget: string }
+      - { name: overview, label: Overview paragraphs, widget: list, field: { name: p, label: Paragraph, widget: text } }
+      - { name: themes, label: Research themes, widget: list }
+      - { name: image, label: Image, widget: image }
+      - { name: imageAlt, label: Image description, widget: string }
+      - { name: imageCredit, label: "Image credit (faculty slug)", widget: string }
+      - { name: labs, label: Associated laboratories, widget: list }
+
+  - name: pages
+    label: Department pages
+    files:
+      - name: site
+        label: Department facts, contact and Head's message
+        file: content/site.json
+        fields:
+          - { name: department, label: Department name, widget: string }
+          - { name: tagline, label: Tagline, widget: string }
+          - { name: about, label: About paragraphs, widget: list, field: { name: p, label: Paragraph, widget: text } }
+          - { name: vision, label: Vision, widget: text }
+          - { name: mission, label: Mission, widget: text }
+          - name: headMessage
+            label: Message from the Head
+            widget: object
+            fields:
+              - { name: name, label: Name, widget: string }
+              - { name: facultySlug, label: Faculty slug, widget: string }
+              - { name: role, label: Role, widget: string }
+              - { name: paragraphs, label: Paragraphs, widget: list, field: { name: p, label: Paragraph, widget: text } }
+          - name: stats
+            label: "Statistics (verified figures only)"
+            widget: list
+            fields:
+              - { name: value, label: Value, widget: string }
+              - { name: label, label: Label, widget: string }
+              - { name: source, label: Source, widget: string }
+          - name: contact
+            label: Contact
+            widget: object
+            fields:
+              - { name: addressLines, label: Address lines, widget: list }
+              - { name: headEmail, label: Head's email, widget: string }
+              - { name: headPhone, label: Head's telephone, widget: string }
+              - { name: officeEmail, label: Department office email, widget: string, required: false }
+              - { name: institutePhone, label: Institute telephone, widget: string }
+              - { name: instituteFax, label: Institute fax, widget: string }
+              - { name: mapQuery, label: Map search text, widget: string }
+      - name: academics
+        label: Academics
+        file: content/academics.json
+        fields:
+          - { name: intro, label: Introduction, widget: text }
+          - name: programmes
+            label: Programmes
+            widget: list
+            fields:
+              - { name: slug, label: Slug, widget: string }
+              - { name: level, label: Level, widget: select, options: [Undergraduate, Postgraduate, Doctoral] }
+              - { name: name, label: Name, widget: string }
+              - { name: code, label: Code, widget: string }
+              - { name: duration, label: Duration, widget: string }
+              - { name: summary, label: Summary, widget: text }
+              - { name: curriculumKey, label: "Curriculum key (in curricula.json)", widget: string, required: false }
+          - { name: admissions, label: Admissions, widget: list, fields: [{ name: title, label: Title, widget: string }, { name: text, label: Text, widget: text }, { name: url, label: Link, widget: string }] }
+          - { name: scholarships, label: Scholarships, widget: list, fields: [{ name: title, label: Title, widget: string }, { name: url, label: Link, widget: string }] }
+          - { name: regulations, label: Regulations, widget: list, fields: [{ name: title, label: Title, widget: string }, { name: url, label: Link, widget: string }] }
+          - { name: resources, label: Student resources, widget: list, fields: [{ name: title, label: Title, widget: string }, { name: url, label: Link, widget: string }] }
+      - name: labs
+        label: Laboratories
+        file: content/labs.json
+        fields:
+          - { name: note, label: Note, widget: text }
+          - { name: groups, label: Groups, widget: list, fields: [{ name: group, label: Group, widget: string }, { name: items, label: Laboratories, widget: list }] }

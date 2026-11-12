@@ -1,0 +1,102 @@
+{
+  "name": "Amlan Dutta",
+  "slug": "amlan-dutta",
+  "designation": "Associate Professor",
+  "isHead": false,
+  "email": "amlan.dutta@metal.iitkgp.ac.in",
+  "phone": "+91-3222-283250",
+  "office": null,
+  "qualifications": [],
+  "researchInterests": [
+    "Low dimensional semiconductor structures",
+    "Computational material science",
+    "Modelling of dislocation dynamics",
+    "Elastoplastic behaviour of nanomaterials",
+    "Bulk metallic glasses"
+  ],
+  "areas": [
+    "physical-mechanical",
+    "computational-ai",
+    "functional-devices"
+  ],
+  "researchStatement": [
+    "Our group is primarily involved in the mathematical and computational modeling of mechanical properties of solids. These studies involve nanostructured and bulk crystalline metals, beside the glassy metallic alloys. The scope of modeling encompasses various scales of length and time. The computational strategies include molecular dynamics, stochastic modeling, phase filed simulations, cellular automata, and various aspects of material informatics. Currently, the major themes of investigations are:",
+    "1. Modeling and computer simulations of the structure and behavior of crystal dislocations",
+    "2. Materials informatics",
+    "3. Atomistic simulations of deformation of metallic glasses",
+    "4. Evolution of dislocation microstructure in deforming nanocrystalline metals"
+  ],
+  "awards": [
+    "MILCA award for academia",
+    "UGC meritorious fellowship in Nanoscience and Technology",
+    "CSIR Senior Research Fellowship",
+    "INSPIRE Faculty award",
+    "TCS Research scholarship"
+  ],
+  "currentProjects": [
+    {
+      "title": "Atomistic modeling of electromigration in metallic interconnects",
+      "role": "Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "Atomistic modelling of shock deformation of Zr-Cu-Al metallic glasses",
+      "role": "Principal Investigator",
+      "funder": "Science and Engineering Research Board (SERB)"
+    },
+    {
+      "title": "A fresh perspective on the evolution of atom clusters and microalloy precipitates in steels and their effects on properties",
+      "role": "Co-Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "A fresh perspective on the evolution of atom clusters and microalloy precipitates in steels and their effects on properties",
+      "role": "Co-Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "A multiscale computational framework for halide solid electrolytes:ab-initio meets ML for Li-ion battery innovation",
+      "role": "Co-Principal Investigator",
+      "funder": "Anusandhan National Research Foundation (ANRF)"
+    },
+    {
+      "title": "A study on the evolution and effect of atom clusters and alloy carbide precipitates in nano-bainitic steel",
+      "role": "Co-Principal Investigator",
+      "funder": "Department of Atomic Energy (DAE)"
+    }
+  ],
+  "completedProjects": [
+    {
+      "title": "Atomistic Modeling of Dislocation Nucleation",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Atomistic Modeling of Dislocation Properties by Computation of Generalized Stacking Fault Energy",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Development of AI based Optimization Model to Find the Targets for Treatment of Low Si High P Hot Metal in BOF Process",
+      "role": "Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Multi Scale Modeling and Prediction of Microstructure for Processing of Aluminium - Lithium Alloy for Structural Application",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    },
+    {
+      "title": "Understanding the Effect of Steel Composition on the Charpy Impact Toughness of High-Strength (1000Mpa) Naval Grade Steel",
+      "role": "Co-Principal Investigator",
+      "funder": null
+    }
+  ],
+  "photo": "/images/faculty/amlan-dutta.webp",
+  "researchImage": "/images/research/group-amlan-dutta.webp",
+  "website": "https://facweb.iitkgp.ac.in/~amlandutta",
+  "googleScholar": null,
+  "orcid": null,
+  "profileUrl": "https://www.iitkgp.ac.in/department/MT/faculty/mt-amlan.dutta",
+  "source": "IIT Kharagpur institute faculty profile"
+}
